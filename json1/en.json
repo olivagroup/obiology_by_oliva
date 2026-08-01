@@ -94,7 +94,7 @@
     "distractor12a": "They rely exclusively on personal beliefs",
     "distractor12b": "They avoid experimentation",
     "distractor12c": "They reject the use of logical reasoning",
-    "images": "figure-1-2-a.png,figure-1-2-b.png,figure-1-3.png",
+    "imagesEnglish": "figure-1-2-a.png,figure-1-2-b.png,figure-1-3.png",
     "readTimeMinutes": "8"
   },
   {
@@ -272,7 +272,7 @@
     "distractor18a": "Museum of political history",
     "distractor18b": "Museum of economics",
     "distractor18c": "Museum of literature",
-    "images": "figure-1-4.png",
+    "imagesEnglish": "figure-1-4.png",
     "readTimeMinutes": "5"
   },
   {
@@ -450,7 +450,7 @@
     "distractor15a": "It guarantees identical results in every situation",
     "distractor15b": "It eliminates the need for reasoning",
     "distractor15c": "It is designed only for laboratory experiments",
-    "images": "figure-1-5.png",
+    "imagesEnglish": "figure-1-5.png",
     "readTimeMinutes": "3"
   },
   {
@@ -764,7 +764,7 @@
     "distractor20a": "Only applied science is useful",
     "distractor20b": "Only basic science contributes to scientific progress",
     "distractor20c": "The two approaches cannot work together",
-    "images": "figure-1-8.png,figure-1-9.png",
+    "imagesEnglish": "figure-1-8.png,figure-1-9.png",
     "readTimeMinutes": "11"
   },
   {
@@ -1128,7 +1128,7 @@
     "distractor25a": "Adaptations prevent evolution",
     "distractor25b": "Evolution occurs without genetic variation",
     "distractor25c": "Adaptations are unrelated to survival and reproduction",
-    "images": "figure-1-10.png,figure-1-11.png,figure-1-12.png,figure-1-13.png,figure-1-14.png",
+    "imagesEnglish": "figure-1-10.png,figure-1-11.png,figure-1-12.png,figure-1-13.png,figure-1-14.png",
     "readTimeMinutes": "13"
   },
   {
@@ -1260,7 +1260,7 @@
     "distractor25a": "All living things consist only of cells",
     "distractor25b": "Ecosystems are smaller than organisms",
     "distractor25c": "Populations are larger than the biosphere",
-    "images": "figure-1-15.png,figure-1-16.png",
+    "imagesEnglish": "figure-1-15.png,figure-1-16.png",
     "readTimeMinutes": "10"
   },
   {
@@ -1392,7 +1392,7 @@
     "distractor25a": "They identify the geographic location of species",
     "distractor25b": "They measure ecosystem productivity",
     "distractor25c": "They determine population size",
-    "images": "figure-1-17.png,figure-1-18.png",
+    "imagesEnglish": "figure-1-17.png,figure-1-18.png",
     "readTimeMinutes": "7"
   },
   {
@@ -1524,7 +1524,7 @@
     "distractor25a": "Every biologist studies exactly the same topic",
     "distractor25b": "Biology focuses only on plants and animals",
     "distractor25c": "All biological research uses identical methods",
-    "images": "figure-1-20.png,figure-1-21.png",
+    "imagesEnglish": "figure-1-20.png,figure-1-21.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2131,7 +2131,7 @@
     "distractor20a": "Biology can be studied without chemistry or physics",
     "distractor20b": "Only chemistry is important for biology",
     "distractor20c": "Only physics is important for biology",
-    "images": "figure-2-1.png",
+    "imagesEnglish": "figure-2-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2263,7 +2263,7 @@
     "distractor25a": "Living organisms are composed of unique elements not found elsewhere in nature",
     "distractor25b": "Only living matter contains atoms and molecules",
     "distractor25c": "Biological systems are not governed by the laws of chemistry and physics",
-    "images": "figure-2-1-1.png",
+    "imagesEnglish": "figure-2-1-1.png",
     "readTimeMinutes": "11"
   },
   {
@@ -2380,7 +2380,7 @@
     "distractor22a": "An atom consists only of protons and electrons packed tightly together",
     "distractor22b": "An atom is a solid sphere with no internal structure",
     "distractor22c": "An atom contains only electrons surrounding empty space",
-    "images": "figure-2-2.png,figure-2-2-1.png",
+    "imagesEnglish": "figure-2-2.png,figure-2-2-1.png",
     "readTimeMinutes": "7"
   },
   {
@@ -2492,7 +2492,7 @@
     "distractor21a": "Carbon-12 contains 7 neutrons while carbon-13 contains 6 neutrons",
     "distractor21b": "Carbon-12 contains 12 neutrons while carbon-13 contains 13 neutrons",
     "distractor21c": "Carbon-12 contains 13 neutrons while carbon-13 contains 12 neutrons",
-    "images": "figure-2-3.png",
+    "imagesEnglish": "figure-2-3.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2609,7 +2609,7 @@
     "distractor22a": "All isotopes are radioactive and unstable",
     "distractor22b": "Isotopes differ only in the number of protons",
     "distractor22c": "Radioactive isotopes are found only in living organisms",
-    "images": "figure-2-4.png",
+    "imagesEnglish": "figure-2-4.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2691,7 +2691,7 @@
     "distractor15a": "The periodic table organizes molecules by mass",
     "distractor15b": "The periodic table contains only naturally occurring elements",
     "distractor15c": "The periodic table is organized according to the abundance of elements in living organisms",
-    "images": "figure-2-5.png",
+    "imagesEnglish": "figure-2-5.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2823,7 +2823,7 @@
     "distractor25a": "Ionic bond. Group 17 donates to group 1 to fill the outer valence shell",
     "distractor25b": "Covalent bond. Both atoms share electrons equally to complete both outer valence shells",
     "distractor25c": "Polar covalent bond. Group 17 donates to group 1 to fill the outer valence shell",
-    "images": "figure-2-5.png,figure-2-6.png,figure-2-7.png,figure-2-7-1.png",
+    "imagesEnglish": "figure-2-5.png,figure-2-6.png,figure-2-7.png,figure-2-7-1.png",
     "readTimeMinutes": "11"
   },
   {
@@ -2950,7 +2950,7 @@
     "distractor24a": "It ignores electron movement",
     "distractor24b": "It assumes electrons travel in perfect circles",
     "distractor24c": "It removes the concept of electron shells entirely",
-    "images": "figure-2-5.png,figure-2-8.png",
+    "imagesEnglish": "figure-2-5.png,figure-2-8.png",
     "readTimeMinutes": "11"
   },
   {
@@ -3082,7 +3082,7 @@
     "distractor25a": "Chemical reactions always proceed in one direction",
     "distractor25b": "Chemical reactions create new atoms",
     "distractor25c": "Chemical reactions occur only outside living organisms",
-    "images": "figure-2-9.png,figure-2-10.png",
+    "imagesEnglish": "figure-2-9.png,figure-2-10.png",
     "readTimeMinutes": "12"
   },
   {
@@ -3214,7 +3214,7 @@
     "distractor25a": "Ionic bonds form when atoms share electrons equally",
     "distractor25b": "Ionic bonds occur only between identical atoms",
     "distractor25c": "Ionic bonds do not involve electrons",
-    "images": "figure-2-11.png",
+    "imagesEnglish": "figure-2-11.png",
     "readTimeMinutes": "7"
   },
   {
@@ -3346,7 +3346,7 @@
     "distractor25a": "Atoms exchange protons to form molecules",
     "distractor25b": "Atoms lose all valence electrons during bonding",
     "distractor25c": "Covalent bonds occur only in nitrogen gas",
-    "images": "figure-2-9.png",
+    "imagesEnglish": "figure-2-9.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3478,7 +3478,7 @@
     "distractor25a": "Polar covalent bonds transfer electrons completely between atoms",
     "distractor25b": "Polar covalent bonds occur only in water",
     "distractor25c": "Polar covalent bonds produce full positive and negative ionic charges",
-    "images": "figure-2-12.png",
+    "imagesEnglish": "figure-2-12.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3610,7 +3610,7 @@
     "distractor25a": "Nonpolar covalent bonds involve complete electron transfer",
     "distractor25b": "Nonpolar covalent bonds always create positive and negative ions",
     "distractor25c": "Nonpolar covalent bonds occur only in oxygen molecules",
-    "images": "figure-2-12.png",
+    "imagesEnglish": "figure-2-12.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4004,7 +4004,7 @@
     "distractor25a": "Water is nonpolar because oxygen and hydrogen share electrons equally",
     "distractor25b": "Water dissolves all substances equally well",
     "distractor25c": "Water's polarity is caused by ionic bonding",
-    "images": "figure-2-14.png",
+    "imagesEnglish": "figure-2-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4136,7 +4136,7 @@
     "distractor25a": "Ice sinks because it is denser than water",
     "distractor25b": "Hydrogen bonds exist only in ice",
     "distractor25c": "Water behaves like every other liquid when it freezes",
-    "images": "figure-2-15.png",
+    "imagesEnglish": "figure-2-15.png",
     "readTimeMinutes": "7"
   },
   {
@@ -4520,7 +4520,7 @@
     "distractor23a": "Water dissolves all substances equally",
     "distractor23b": "Water dissolves substances by breaking covalent bonds",
     "distractor23c": "Water only dissolves gases",
-    "images": "figure-2-16.png",
+    "imagesEnglish": "figure-2-16.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4642,7 +4642,7 @@
     "distractor23a": "Cohesion and adhesion are identical processes",
     "distractor23b": "Only adhesion is important in living organisms",
     "distractor23c": "Neither property depends on hydrogen bonding",
-    "images": "figure-2-17.png,figure-2-18.png,figure-2-19.png",
+    "imagesEnglish": "figure-2-17.png,figure-2-18.png,figure-2-19.png",
     "readTimeMinutes": "7"
   },
   {
@@ -4774,7 +4774,7 @@
     "distractor25a": "Buffers make all body fluids strongly acidic",
     "distractor25b": "Water prevents all pH changes without buffers",
     "distractor25c": "Living organisms function equally well at any pH",
-    "images": "figure-2-20.png,figure-2-21.png",
+    "imagesEnglish": "figure-2-20.png,figure-2-21.png",
     "readTimeMinutes": "14"
   },
   {
@@ -5037,7 +5037,7 @@
     "distractor25a": "Hydrocarbons are inorganic molecules made of carbon and oxygen",
     "distractor25b": "Hydrocarbons contain only ionic bonds",
     "distractor25c": "Hydrocarbons have identical shapes regardless of bonding",
-    "images": "figure-2-23.png",
+    "imagesEnglish": "figure-2-23.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5149,7 +5149,7 @@
     "distractor21a": "They always form straight chains with only single bonds",
     "distractor21b": "They are held together by ionic bonds",
     "distractor21c": "They always have identical three-dimensional shapes",
-    "images": "figure-2-24.png",
+    "imagesEnglish": "figure-2-24.png",
     "readTimeMinutes": "3"
   },
   {
@@ -5256,7 +5256,7 @@
     "distractor20a": "Aliphatic hydrocarbons",
     "distractor20b": "Saturated fatty acids",
     "distractor20c": "Ionic compounds",
-    "images": "figure-2-25.png",
+    "imagesEnglish": "figure-2-25.png",
     "readTimeMinutes": "3"
   },
   {
@@ -5378,7 +5378,7 @@
     "distractor23a": "It does not affect the drug's function. These are enantiomers (mirror images) and therefore react the same",
     "distractor23b": "The R form is trans and the S form is cis. The R form will have a higher melting point and therefore not be absorbed as efficiently as the S form",
     "distractor23c": "The R form is trans and the S form is cis. The S form will compete with cholesterol and disrupt cellular membrane structure, causing adverse side effects",
-    "images": "figure-2-26.png,figure-2-26-1.png,figure-2-27.png",
+    "imagesEnglish": "figure-2-26.png,figure-2-26-1.png,figure-2-27.png",
     "readTimeMinutes": "7"
   },
   {
@@ -5460,7 +5460,7 @@
     "distractor15a": "They have different formulas but identical three-dimensional structures",
     "distractor15b": "They differ only in the number of neutrons",
     "distractor15c": "They are molecules connected by ionic bonds",
-    "images": "figure-2-28.png",
+    "imagesEnglish": "figure-2-28.png",
     "readTimeMinutes": "2"
   },
   {
@@ -5577,7 +5577,7 @@
     "distractor22a": "Their atomic number",
     "distractor22b": "Their radioactive stability",
     "distractor22c": "Their number of protons",
-    "images": "figure-2-29.png,figure-2-30.png",
+    "imagesEnglish": "figure-2-29.png,figure-2-30.png",
     "readTimeMinutes": "6"
   },
   {
@@ -6126,7 +6126,7 @@
     "distractor47a": "Cohesion is the attraction between water and other molecules, which help create surface tension. Insects can walk on water because of cohesion. Adhesion is the attraction between water molecules. Water moving up from the roots of plants to the leaves as a result of capillary action is because of adhesion. Heat of vaporization is the amount of energy required to convert liquid into gas. This property helps humans maintain homeostasis of body temperature by evaporation",
     "distractor47b": "Cohesion is the attraction between the water molecules, which helps create surface tension. Insects can walk on water because of cohesion. Adhesion is the attraction between water molecules and other molecules. Water moving up from the roots of plants to the leaves as a result of capillary action is because of adhesion. Heat of vaporization is the amount of energy required to convert solid into gas. This property helps humans maintain homeostasis of body temperature by evaporation",
     "distractor47c": "Cohesion is the attraction between the water molecules, which helps create surface tension. Water moving up from the roots of plants to the leaves as a result of capillary action is because of cohesion. Adhesion is the attraction between water molecules and other molecules. Some insects can walk on water because of adhesion. Heat of vaporization is the amount of energy required to convert solid into gas. This property helps humans maintain homeostasis of body temperature by evaporation",
-    "images": "figure-2-7.png",
+    "imagesEnglish": "figure-2-7.png",
     "readTimeMinutes": "7"
   },
   {
@@ -6315,7 +6315,7 @@
     "distractor12a": "DNA, RNA, and ATP",
     "distractor12b": "Proteins, enzymes, and lipids",
     "distractor12c": "Sucrose, lactose, and maltose",
-    "images": "figure-3-2.png",
+    "imagesEnglish": "figure-3-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -6412,7 +6412,7 @@
     "distractor18a": "About 500 million years ago",
     "distractor18b": "About 65 million years ago",
     "distractor18c": "About 10,000 years ago",
-    "images": "figure-3-3.png",
+    "imagesEnglish": "figure-3-3.png",
     "readTimeMinutes": "4"
   },
   {
@@ -6449,7 +6449,7 @@
     "distractor6a": "Biogenesis, which states that life can only arise from existing life",
     "distractor6b": "Cell theory, which states that all cells come from preexisting cells",
     "distractor6c": "Endosymbiotic theory, which explains the origin of mitochondria",
-    "images": "figure-3-4.png",
+    "imagesEnglish": "figure-3-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -6673,7 +6673,7 @@
     "distractor19a": "The number of carbon atoms in the molecule",
     "distractor19b": "Whether it contains an aldehyde or ketone group",
     "distractor19c": "The number of hydrogen bonds it forms",
-    "images": "figure-3-5.png,figure-3-6.png,figure-3-7.png",
+    "imagesEnglish": "figure-3-5.png,figure-3-6.png,figure-3-7.png",
     "readTimeMinutes": "6"
   },
   {
@@ -6755,7 +6755,7 @@
     "distractor15a": "Glucose and galactose",
     "distractor15b": "Galactose and fructose",
     "distractor15c": "Two glucose molecules",
-    "images": "figure-3-8.png,figure-3-9.png",
+    "imagesEnglish": "figure-3-8.png,figure-3-9.png",
     "readTimeMinutes": "3"
   },
   {
@@ -6882,7 +6882,7 @@
     "distractor24a": "A patient learning how to repair broken bones surgically",
     "distractor24b": "A patient studying genetics in a laboratory",
     "distractor24c": "A patient training to become a microbiologist",
-    "images": "figure-3-10.png,figure-3-11.png,figure-3-12.png",
+    "imagesEnglish": "figure-3-10.png,figure-3-11.png,figure-3-12.png",
     "readTimeMinutes": "12"
   },
   {
@@ -6974,7 +6974,7 @@
     "distractor17a": "Protein synthesis would permanently stop",
     "distractor17b": "Cells would immediately stop producing ATP",
     "distractor17c": "Water would no longer function as a solvent",
-    "images": "figure-3-12-1.png",
+    "imagesEnglish": "figure-3-12-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7212,7 +7212,7 @@
     "distractor25a": "They prevent triglyceride formation",
     "distractor25b": "They completely dissolve cholesterol",
     "distractor25c": "They prevent lipid digestion",
-    "images": "figure-3-13.png,figure-3-14.png,figure-3-15.png,figure-3-16.png,figure-3-17.png",
+    "imagesEnglish": "figure-3-13.png,figure-3-14.png,figure-3-15.png,figure-3-16.png,figure-3-17.png",
     "readTimeMinutes": "11"
   },
   {
@@ -7370,7 +7370,7 @@
     "distractor15a": "All fats should be completely eliminated from the diet",
     "distractor15b": "Fats serve no beneficial biological functions",
     "distractor15c": "Only saturated fats are necessary for human health",
-    "images": "figure-3-18.png",
+    "imagesEnglish": "figure-3-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7407,7 +7407,7 @@
     "distractor6a": "A peptide bond",
     "distractor6b": "A glycosidic bond",
     "distractor6c": "A hydrogen bond",
-    "images": "figure-3-19.png",
+    "imagesEnglish": "figure-3-19.png",
     "readTimeMinutes": "1"
   },
   {
@@ -7504,7 +7504,7 @@
     "distractor18a": "Their fatty acid tails attract water more strongly than the phosphate heads",
     "distractor18b": "Their phosphate heads repel each other completely",
     "distractor18c": "Their ester bonds dissolve directly into water",
-    "images": "figure-3-22.png,figure-3-20.png,figure-3-21.png",
+    "imagesEnglish": "figure-3-22.png,figure-3-20.png,figure-3-21.png",
     "readTimeMinutes": "6"
   },
   {
@@ -7581,7 +7581,7 @@
     "distractor14a": "They are composed entirely of carbohydrates",
     "distractor14b": "They contain three phosphate groups",
     "distractor14c": "They always contain long polysaccharide chains",
-    "images": "figure-3-23.png",
+    "imagesEnglish": "figure-3-23.png",
     "readTimeMinutes": "4"
   },
   {
@@ -7825,7 +7825,7 @@
     "distractor15a": "Cytochrome c is found only in mammals",
     "distractor15b": "Cytochrome c evolves faster than any other protein",
     "distractor15c": "Cytochrome c is identical in all living organisms",
-    "images": "figure-3-24.png,figure-3-25.png,figure-3-26.png",
+    "imagesEnglish": "figure-3-24.png,figure-3-25.png,figure-3-26.png",
     "readTimeMinutes": "13"
   },
   {
@@ -7907,7 +7907,7 @@
     "distractor15a": "Primary structure only",
     "distractor15b": "Secondary structure only",
     "distractor15c": "Quaternary structure only",
-    "images": "figure-3-27.png,figure-3-28.png,figure-3-29.png,figure-3-30.png,figure-3-31.png,figure-3-32.png",
+    "imagesEnglish": "figure-3-27.png,figure-3-28.png,figure-3-29.png,figure-3-30.png,figure-3-31.png,figure-3-32.png",
     "readTimeMinutes": "15"
   },
   {
@@ -8186,7 +8186,7 @@
     "distractor20a": "It requires peptide bond formation",
     "distractor20b": "It does not require nucleotides",
     "distractor20c": "It joins amino acids instead of sugars",
-    "images": "figure-3-33.png",
+    "imagesEnglish": "figure-3-33.png",
     "readTimeMinutes": "9"
   },
   {
@@ -8253,7 +8253,7 @@
     "distractor12a": "The DNA will normally pair its adenine with thymine, causing no change in the DNA structure",
     "distractor12b": "The adenine substituted in the place of cytosine will get methylated and will not be transcribed further",
     "distractor12c": "The DNA will cause another mutation to replace this incorrect DNA base",
-    "images": "figure-3-34.png,figure-3-35.png",
+    "imagesEnglish": "figure-3-34.png,figure-3-35.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8365,7 +8365,7 @@
     "distractor21a": "It consists of many biochemical machines that have the same function in order to drive a specific action like an assembly line",
     "distractor21b": "It consists of many biochemical machines where each functions randomly in order to drive a specific action like an assembly line",
     "distractor21c": "It consists of many biochemical machines that functions in order to drive a non-specific action like an assembly line",
-    "images": "figure-3-36.png",
+    "imagesEnglish": "figure-3-36.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9149,7 +9149,7 @@
     "distractor94a": "RNA mutations are always lethal because they trigger biological feedback loops",
     "distractor94b": "DNA mutations are usually harmless because DNA repair always corrects them",
     "distractor94c": "Any DNA mutation immediately causes the cell to undergo apoptosis",
-    "images": "figure-3-37.png,figure-3-38.png",
+    "imagesEnglish": "figure-3-37.png,figure-3-38.png",
     "readTimeMinutes": "16"
   }
 ]
