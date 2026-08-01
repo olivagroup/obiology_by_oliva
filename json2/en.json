@@ -63,7 +63,7 @@
     "distractor12a": "They all have the same exact specialized cell types",
     "distractor12b": "They all contain only bone and blood cells",
     "distractor12c": "They all lack basic cellular structures",
-    "images": "figure-4-1.png",
+    "imagesEnglish": "figure-4-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -262,7 +262,7 @@
     "distractor12a": "Electron microscopes are better for observing living cells over long periods",
     "distractor12b": "Electron microscopes require no special preparation of specimens",
     "distractor12c": "Electron microscopes produce lower-resolution images that are easier to interpret",
-    "images": "figure-4-2.png",
+    "imagesEnglish": "figure-4-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -329,7 +329,7 @@
     "distractor12a": "SEM studies internal structures, whereas TEM studies cell surfaces",
     "distractor12b": "Both SEM and TEM are designed primarily for viewing living cells",
     "distractor12c": "SEM and TEM produce identical images using different names",
-    "images": "figure-4-2.png,figure-4-3.png",
+    "imagesEnglish": "figure-4-2.png,figure-4-3.png",
     "readTimeMinutes": "3"
   },
   {
@@ -406,7 +406,7 @@
     "distractor14a": "Only multicellular organisms are made of cells, and cells form spontaneously",
     "distractor14b": "Cells are made of tissues, which arise from organs",
     "distractor14c": "All cells contain identical structures and functions",
-    "images": "figure-4-4.png",
+    "imagesEnglish": "figure-4-4.png",
     "readTimeMinutes": "6"
   },
   {
@@ -599,7 +599,7 @@
     "distractor18a": "Scientists found bones buried in the rock that resemble bones of living animals",
     "distractor18b": "Dead cells buried in the rock superficially resemble living prokaryotic cells",
     "distractor18c": "Scientists found fossilized prokaryotic cells in the rock that are able to grow and divide",
-    "images": "figure-4-5.png",
+    "imagesEnglish": "figure-4-5.png",
     "readTimeMinutes": "8"
   },
   {
@@ -696,7 +696,7 @@
     "distractor18a": "Small, prokaryotic cells easily escape spontaneous changes in environmental conditions. Large, eukaryotic cells have complex mechanisms to cope with such changes",
     "distractor18b": "Small, prokaryotic cells divide at a higher rate. Large, eukaryotic cells show division with genetic variations",
     "distractor18c": "Small, prokaryotic cells have fewer phospholipids in their membrane. Large, eukaryotic cells have more transport proteins in their phospholipid bilayer, supporting efficient transport of molecules",
-    "images": "figure-4-6.png,figure-4-7.png",
+    "imagesEnglish": "figure-4-6.png,figure-4-7.png",
     "readTimeMinutes": "6"
   },
   {
@@ -818,7 +818,7 @@
     "distractor23a": "The structure of the endoplasmic reticulum would not form",
     "distractor23b": "The function of lysosomes would be hindered, as hydrolases are formed by the nucleolus",
     "distractor23c": "The Golgi apparatus would not be able to sort proteins properly",
-    "images": "figure-4-8.png",
+    "imagesEnglish": "figure-4-8.png",
     "readTimeMinutes": "18"
   },
   {
@@ -905,7 +905,7 @@
     "distractor16a": "The cell with fewer microvilli because nutrients travel farther",
     "distractor16b": "Both cells absorb nutrients equally regardless of surface area",
     "distractor16c": "Neither cell can absorb nutrients through the plasma membrane",
-    "images": "figure-4-9.png,figure-4-10.png",
+    "imagesEnglish": "figure-4-9.png,figure-4-10.png",
     "readTimeMinutes": "3"
   },
   {
@@ -972,7 +972,7 @@
     "distractor12a": "The cytoplasm and cytosol are identical terms",
     "distractor12b": "The cytoplasm is found only inside the nucleus",
     "distractor12c": "The cytosol surrounds the plasma membrane",
-    "images": "figure-4-8.png",
+    "imagesEnglish": "figure-4-8.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1074,7 +1074,7 @@
     "distractor19a": "ATP production in mitochondria",
     "distractor19b": "Photosynthesis in chloroplasts",
     "distractor19c": "Digestion inside lysosomes",
-    "images": "figure-4-8.png,figure-4-11.png,figure-4-12.png",
+    "imagesEnglish": "figure-4-8.png,figure-4-11.png,figure-4-12.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1171,7 +1171,7 @@
     "distractor18a": "Protein → DNA → mRNA",
     "distractor18b": "mRNA → DNA → amino acids",
     "distractor18c": "DNA → protein → mRNA",
-    "images": "figure-4-8.png,figure-4-13.png",
+    "imagesEnglish": "figure-4-8.png,figure-4-13.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1268,7 +1268,7 @@
     "distractor18a": "ATP + oxygen → glucose + carbon dioxide",
     "distractor18b": "Carbon dioxide + water → ATP + glucose",
     "distractor18c": "Glucose + carbon dioxide → ATP + oxygen",
-    "images": "figure-4-14.png",
+    "imagesEnglish": "figure-4-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1552,7 +1552,7 @@
     "distractor30a": "A host cell that gave rise to modern plants ingested photoautotrophic bacteria only, while a host cell that gave rise to modern animals ingested aerobic bacteria only",
     "distractor30b": "A host cell that gave rise to modern plants ingested both aerobic and photoautotrophic bacteria, while a host cell that gave rise to modern animals ingested photoautotrophic bacteria only",
     "distractor30c": "A host cell that gave rise to modern plants and animals ingested both aerobic and photoautotrophic bacteria",
-    "images": "figure-4-8.png,figure-4-15.png,figure-4-16.png,figure-4-17.png",
+    "imagesEnglish": "figure-4-8.png,figure-4-15.png,figure-4-16.png,figure-4-17.png",
     "readTimeMinutes": "17"
   },
   {
@@ -1760,7 +1760,7 @@
     "distractor21a": "The vesicle travels from the Golgi to the plasma membrane to release the protein outside as a soluble protein",
     "distractor21b": "The vesicle travels from the endoplasmic reticulum to the plasma membrane, and then returns to the Golgi apparatus to get modified",
     "distractor21c": "The vesicle moves from the endoplasmic reticulum into the cytoplasm, remaining there",
-    "images": "figure-4-18.png,figure-4-19.png",
+    "imagesEnglish": "figure-4-18.png,figure-4-19.png",
     "readTimeMinutes": "11"
   },
   {
@@ -1807,7 +1807,7 @@
     "distractor8a": "It performs photosynthesis",
     "distractor8b": "It stores chlorophyll",
     "distractor8c": "It produces ATP through cellular respiration",
-    "images": "figure-4-20.png",
+    "imagesEnglish": "figure-4-20.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1880,7 +1880,7 @@
     "distractor6a": "A lysosome",
     "distractor6b": "A ribosome",
     "distractor6c": "A mitochondrion",
-    "images": "figure-4-21.png",
+    "imagesEnglish": "figure-4-21.png",
     "readTimeMinutes": "2"
   },
   {
@@ -2048,7 +2048,7 @@
     "distractor19a": "The body's immune system would not be affected by this",
     "distractor19b": "The body's immune system, in order to recoup this loss, will produce more white blood cells",
     "distractor19c": "The body's immune system will fight the pathogens more vigorously in order to compensate for the fewer white blood cells",
-    "images": "figure-4-22.png,figure-4-23.png",
+    "imagesEnglish": "figure-4-22.png,figure-4-23.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2115,7 +2115,7 @@
     "distractor12a": "Microfilaments",
     "distractor12b": "Microtubules",
     "distractor12c": "Ribosomes",
-    "images": "figure-4-22.png,figure-4-24.png",
+    "imagesEnglish": "figure-4-22.png,figure-4-24.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2222,7 +2222,7 @@
     "distractor20a": "Flagella are made of actin, while cilia are made of tubulin",
     "distractor20b": "Only cilia contain microtubules",
     "distractor20c": "Flagella and cilia differ only in color",
-    "images": "figure-4-25.png,figure-4-26.png",
+    "imagesEnglish": "figure-4-25.png,figure-4-26.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2486,7 +2486,7 @@
     "distractor17a": "ATP production would immediately stop",
     "distractor17b": "Ribosomes would no longer synthesize proteins",
     "distractor17c": "Chromosomes would disappear from the nucleus",
-    "images": "figure-4-27.png",
+    "imagesEnglish": "figure-4-27.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2593,7 +2593,7 @@
     "distractor20a": "Plant cells and animal cells have cell walls as well as nuclei. Plant cells have chloroplasts as well as plasmodesmata which are lacking in animal cells",
     "distractor20b": "Plant cells have cell walls which provide structure to the plant and also chloroplasts which allow for photosynthesis. Animal cells do not have either of these structures. Animal cells and plant cells both have glyoxysomes as well as cytoplasm",
     "distractor20c": "Plant cells and animal cells both have a rigid plasma membrane as well as cytoplasm which is the gel-like solution that fills the cell. Plant cells have cell walls which provide structure to the plant and also chloroplasts which allow for photosynthesis. Animal cells do not have either of these structures",
-    "images": "figure-4-8.png,figure-4-28.png,figure-4-29.png,figure-4-30.png,figure-4-31.png",
+    "imagesEnglish": "figure-4-8.png,figure-4-28.png,figure-4-29.png,figure-4-30.png,figure-4-31.png",
     "readTimeMinutes": "7"
   },
   {
@@ -3286,7 +3286,7 @@
     "distractor84a": "Cells use cilia to move nutrients to their surface",
     "distractor84b": "Cells grow much larger than adjacent cells to increase intake",
     "distractor84c": "Cells are flat and thin to absorb more nutrients",
-    "images": "figure-4-6.png,figure-4-9.png,figure-4-18.png,figure-4-33.png,figure-4-34.png",
+    "imagesEnglish": "figure-4-6.png,figure-4-9.png,figure-4-18.png,figure-4-33.png,figure-4-34.png",
     "readTimeMinutes": "12"
   },
   {
@@ -3424,7 +3424,7 @@
     "distractor15a": "Loss of ribosomes",
     "distractor15b": "Complete disappearance of the plasma membrane",
     "distractor15c": "Increased ATP production in mitochondria",
-    "images": "figure-5-2.png",
+    "imagesEnglish": "figure-5-2.png",
     "readTimeMinutes": "12"
   },
   {
@@ -3521,7 +3521,7 @@
     "distractor18a": "Movement of water through the membrane",
     "distractor18b": "Constant movement of phospholipids into and out of the cell",
     "distractor18c": "Flow of cytoplasm across the membrane",
-    "images": "figure-5-2.png",
+    "imagesEnglish": "figure-5-2.png",
     "readTimeMinutes": "8"
   },
   {
@@ -3603,7 +3603,7 @@
     "distractor15a": "Ribosomes",
     "distractor15b": "Microtubules",
     "distractor15c": "Chromosomes",
-    "images": "figure-5-2.png,figure-5-3.png,figure-5-4.png",
+    "imagesEnglish": "figure-5-2.png,figure-5-3.png,figure-5-4.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3685,7 +3685,7 @@
     "distractor15a": "Peripheral membrane protein",
     "distractor15b": "Phospholipid",
     "distractor15c": "Carbohydrate",
-    "images": "figure-5-2.png,figure-5-5.png",
+    "imagesEnglish": "figure-5-2.png,figure-5-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3777,7 +3777,7 @@
     "distractor17a": "Glycoproteins and glycolipids on the surface of the organ are similar to those found on pathogens",
     "distractor17b": "Glycoproteins and glycolipids on the surface of the organ are toxic to the body",
     "distractor17c": "Glycoproteins and glycolipids on the surface of the organ are similar to those found on immune cells",
-    "images": "figure-5-2.png,figure-5-6.png",
+    "imagesEnglish": "figure-5-2.png,figure-5-6.png",
     "readTimeMinutes": "9"
   },
   {
@@ -3874,7 +3874,7 @@
     "distractor18a": "The plasma membrane is impermeable to polar molecules, so transport proteins are required",
     "distractor18b": "The plasma membrane is permeable to all polar molecules, but a transport protein is required",
     "distractor18c": "The plasma membrane is selectively permeable to all polar molecules and a transport protein is never required for them",
-    "images": "figure-5-3.png",
+    "imagesEnglish": "figure-5-3.png",
     "readTimeMinutes": "14"
   },
   {
@@ -4062,7 +4062,7 @@
     "distractor15a": "All molecules cross the membrane at equal rates",
     "distractor15b": "Only water can cross the membrane",
     "distractor15c": "Only proteins are able to move through the membrane",
-    "images": "figure-5-7.png",
+    "imagesEnglish": "figure-5-7.png",
     "readTimeMinutes": "6"
   },
   {
@@ -4144,7 +4144,7 @@
     "distractor15a": "ATP hydrolysis",
     "distractor15b": "Ribosomes",
     "distractor15c": "The Golgi apparatus",
-    "images": "figure-5-8.png",
+    "imagesEnglish": "figure-5-8.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4362,7 +4362,7 @@
     "distractor21a": "Tens of millions of molecules per second",
     "distractor21b": "One molecule per day",
     "distractor21c": "Only one molecule during the cell's lifetime",
-    "images": "figure-5-9.png,figure-5-10.png",
+    "imagesEnglish": "figure-5-9.png,figure-5-10.png",
     "readTimeMinutes": "13"
   },
   {
@@ -4469,7 +4469,7 @@
     "distractor20a": "ATP hydrolysis",
     "distractor20b": "Electrical current",
     "distractor20c": "Protein synthesis",
-    "images": "figure-5-11.png",
+    "imagesEnglish": "figure-5-11.png",
     "readTimeMinutes": "11"
   },
   {
@@ -4576,7 +4576,7 @@
     "distractor20a": "A strongly hypotonic solution",
     "distractor20b": "A strongly hypertonic solution",
     "distractor20c": "Pure water",
-    "images": "figure-5-12.png",
+    "imagesEnglish": "figure-5-12.png",
     "readTimeMinutes": "7"
   },
   {
@@ -4683,7 +4683,7 @@
     "distractor20a": "Pumps water across membranes using ATP",
     "distractor20b": "Acts as a sodium channel",
     "distractor20c": "Forms the phospholipid bilayer",
-    "images": "figure-5-13.png,figure-5-14.png,figure-5-15.png",
+    "imagesEnglish": "figure-5-13.png,figure-5-14.png,figure-5-15.png",
     "readTimeMinutes": "10"
   },
   {
@@ -4826,7 +4826,7 @@
     "distractor11a": "Transport of amino acids into the cell stops",
     "distractor11b": "Transport of amino acids into the cell is not affected by pH",
     "distractor11c": "Transport of amino acid into the cell decreases",
-    "images": "figure-5-16.png",
+    "imagesEnglish": "figure-5-16.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4989,7 +4989,7 @@
     "distractor20a": "ATP is required to allow entry of potassium and sodium ions inside the cell",
     "distractor20b": "ATP is required to allow entry of sodium ions inside the cell",
     "distractor20c": "ATP is required to release potassium ions outside the cell",
-    "images": "figure-5-17.png,figure-5-18.png",
+    "imagesEnglish": "figure-5-17.png,figure-5-18.png",
     "readTimeMinutes": "9"
   },
   {
@@ -5051,7 +5051,7 @@
     "distractor11a": "Excess potassium disrupts the membrane components",
     "distractor11b": "Excess potassium increases action potential generation, leading to uncoordinated organ activity",
     "distractor11c": "Potassium creates a new concentration gradient across the cell membrane, preventing sodium from leaving the cell",
-    "images": "figure-5-19.png",
+    "imagesEnglish": "figure-5-19.png",
     "readTimeMinutes": "3"
   },
   {
@@ -5244,7 +5244,7 @@
     "distractor21a": "The bacteria will be destroyed and will not cause any illness",
     "distractor21b": "The bacteria will survive but will not cause illness",
     "distractor21c": "The bacteria will be destroyed, but will still cause illness",
-    "images": "figure-5-20.png,figure-5-21.png,figure-5-22.png",
+    "imagesEnglish": "figure-5-20.png,figure-5-21.png,figure-5-22.png",
     "readTimeMinutes": "11"
   },
   {
@@ -5316,7 +5316,7 @@
     "distractor13a": "Only water",
     "distractor13b": "Only sodium ions",
     "distractor13c": "Only oxygen molecules",
-    "images": "figure-5-23.png",
+    "imagesEnglish": "figure-5-23.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5801,7 +5801,7 @@
     "distractor45a": "Monocytes and mast cells",
     "distractor45b": "Neutrophils, monocytes, and mast cells",
     "distractor45c": "Neutrophils and mast cells",
-    "images": "figure-5-24.png,figure-5-25.png,figure-5-26.png,figure-5-27.png,figure-5-28.png,figure-5-29.png,figure-5-30.png,figure-5-31.png,figure-5-32.png,figure-5-33.png",
+    "imagesEnglish": "figure-5-24.png,figure-5-25.png,figure-5-26.png,figure-5-27.png,figure-5-28.png,figure-5-29.png,figure-5-30.png,figure-5-31.png,figure-5-32.png,figure-5-33.png",
     "readTimeMinutes": "12"
   },
   {
@@ -5879,7 +5879,7 @@
     "distractor8a": "Only the chemical reactions that release energy",
     "distractor8b": "Only the chemical reactions that require energy",
     "distractor8c": "Only the reactions involved in ATP production",
-    "images": "figure-6-2.png",
+    "imagesEnglish": "figure-6-2.png",
     "readTimeMinutes": "11"
   },
   {
@@ -5946,7 +5946,7 @@
     "distractor12a": "18 ATP molecule equivalents",
     "distractor12b": "36 ATP molecule equivalents",
     "distractor12c": "108 ATP molecule equivalents",
-    "images": "figure-6-3.png",
+    "imagesEnglish": "figure-6-3.png",
     "readTimeMinutes": "8"
   },
   {
@@ -6028,7 +6028,7 @@
     "distractor15a": "Oxygen is a byproduct of anaerobic respiration, so there was very little oxygen in the atmosphere until anaerobic organisms evolved",
     "distractor15b": "Oxygen is a byproduct of fermentation, so there was little oxygen in the atmosphere until prokaryotes appeared",
     "distractor15c": "Oxygen is a byproduct of aerobic respiration, so there was very little oxygen in the atmosphere until animals evolved",
-    "images": "figure-6-4.png,figure-6-5.png",
+    "imagesEnglish": "figure-6-4.png,figure-6-5.png",
     "readTimeMinutes": "10"
   },
   {
@@ -6176,7 +6176,7 @@
     "distractor14a": "Water",
     "distractor14b": "Sunlight only",
     "distractor14c": "Oxygen",
-    "images": "figure-6-6.png,figure-6-7.png",
+    "imagesEnglish": "figure-6-6.png,figure-6-7.png",
     "readTimeMinutes": "9"
   },
   {
@@ -6293,7 +6293,7 @@
     "distractor22a": "(a) Compost pile decomposition is endergonic, enthalpy increases and entropy decreases. (b) A baby developing from an egg is an endergonic process, enthalpy decreases and entropy decreases. (c) Sand art being destroyed is exergonic, no change in enthalpy and entropy decreases. (d) A ball rolling downhill is an exergonic process, enthalpy decreases and entropy decreases",
     "distractor22b": "(a) Compost pile decomposition is endergonic, enthalpy decreases and entropy decreases. (b) A baby developing from an egg is an exergonic process, enthalpy decreases and entropy increases. (c) Sand art being destroyed is endergonic, enthalpy increases and entropy increases. (d) A ball rolling down a hill is an exergonic process, enthalpy decreases and entropy decreases",
     "distractor22c": "(a) Compost pile decomposition is exergonic, enthalpy increases and entropy increases. (b) A baby developing from an egg is an endergonic process, enthalpy decreases and entropy decreases. (c) Sand art being destroyed is exergonic, no change in enthalpy and entropy increases. (d) A ball rolling down a hill is an exergonic process, enthalpy decreases and no change in entropy",
-    "images": "figure-6-8.png,figure-6-9.png",
+    "imagesEnglish": "figure-6-8.png,figure-6-9.png",
     "readTimeMinutes": "16"
   },
   {
@@ -6400,7 +6400,7 @@
     "distractor20a": "Δ⁢𝐺 is greater for the forward direction than for the reverse direction",
     "distractor20b": "Δ⁢𝐺 is greater for the uncatalyzed than the catalyzed reaction",
     "distractor20c": "Δ⁢𝐺 is greater for the catalyzed than the uncatalyzed reaction",
-    "images": "figure-6-10.png",
+    "imagesEnglish": "figure-6-10.png",
     "readTimeMinutes": "10"
   },
   {
@@ -6553,7 +6553,7 @@
     "distractor10a": "Only DNA replication",
     "distractor10b": "Only transporting oxygen",
     "distractor10c": "Only protein synthesis",
-    "images": "figure-6-2.png,figure-6-11.png",
+    "imagesEnglish": "figure-6-2.png,figure-6-11.png",
     "readTimeMinutes": "5"
   },
   {
@@ -6635,7 +6635,7 @@
     "distractor15a": "Because living organisms create entropy",
     "distractor15b": "Because ATP continuously destroys energy",
     "distractor15c": "Because matter is constantly lost from the universe",
-    "images": "figure-6-12.png",
+    "imagesEnglish": "figure-6-12.png",
     "readTimeMinutes": "9"
   },
   {
@@ -6747,7 +6747,7 @@
     "distractor21a": "five",
     "distractor21b": "four",
     "distractor21c": "two",
-    "images": "figure-6-13.png,figure-6-14.png",
+    "imagesEnglish": "figure-6-13.png,figure-6-14.png",
     "readTimeMinutes": "23"
   },
   {
@@ -6849,7 +6849,7 @@
     "distractor19a": "They increase the energy of the products",
     "distractor19b": "They create new reactants",
     "distractor19c": "They change the equilibrium of the reaction",
-    "images": "figure-6-15.png",
+    "imagesEnglish": "figure-6-15.png",
     "readTimeMinutes": "11"
   },
   {
@@ -7012,7 +7012,7 @@
     "distractor15a": "It permanently binds the product(s)",
     "distractor15b": "It breaks down into amino acids",
     "distractor15c": "It immediately denatures",
-    "images": "figure-6-16.png",
+    "imagesEnglish": "figure-6-16.png",
     "readTimeMinutes": "7"
   },
   {
@@ -7170,7 +7170,7 @@
     "distractor19a": "Only by changes in DNA sequence",
     "distractor19b": "Only by increasing temperature",
     "distractor19c": "Only by increasing substrate concentration",
-    "images": "figure-6-17.png,figure-6-18.png,figure-6-20.png",
+    "imagesEnglish": "figure-6-17.png,figure-6-18.png,figure-6-20.png",
     "readTimeMinutes": "9"
   },
   {
@@ -7257,7 +7257,7 @@
     "distractor16a": "a drug that increases HMG-CoA reductase levels",
     "distractor16b": "a drug that reduces cyclooxygenase levels",
     "distractor16c": "a drug that blocks the action of acetaminophen",
-    "images": "figure-6-19.png",
+    "imagesEnglish": "figure-6-19.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7350,7 +7350,7 @@
     "distractor11a": "The cell permanently stops ATP production",
     "distractor11b": "The cell begins photosynthesis",
     "distractor11c": "The cell converts ATP into amino acids",
-    "images": "figure-6-21.png",
+    "imagesEnglish": "figure-6-21.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7894,7 +7894,7 @@
     "distractor70a": "allosteric",
     "distractor70b": "non-competitive",
     "distractor70c": "uncompetitive",
-    "images": "figure-6-12.png,figure-6-14.png",
+    "imagesEnglish": "figure-6-12.png,figure-6-14.png",
     "readTimeMinutes": "16"
   },
   {
@@ -7946,7 +7946,7 @@
     "distractor9a": "malaria and tuberculosis",
     "distractor9b": "influenza and cholera",
     "distractor9c": "smallpox and plague",
-    "images": "figure-7-1.png",
+    "imagesEnglish": "figure-7-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8114,7 +8114,7 @@
     "distractor20a": "Both NAD+ and FAD are used only in photosynthesis, and NADP is used only in glycolysis",
     "distractor20b": "NAD+, FAD, and NADP are used exclusively for ATP hydrolysis",
     "distractor20c": "NAD+, FAD, and NADP function only as structural molecules in cell membranes",
-    "images": "figure-7-2.png",
+    "imagesEnglish": "figure-7-2.png",
     "readTimeMinutes": "7"
   },
   {
@@ -8222,7 +8222,7 @@
     "distractor9a": "glucose",
     "distractor9b": "oxygen",
     "distractor9c": "ribose",
-    "images": "figure-7-3.png",
+    "imagesEnglish": "figure-7-3.png",
     "readTimeMinutes": "2"
   },
   {
@@ -8376,7 +8376,7 @@
     "distractor7a": "oxidative phosphorylation",
     "distractor7b": "dephosphorylation",
     "distractor7c": "photophosphorylation",
-    "images": "figure-7-4.png",
+    "imagesEnglish": "figure-7-4.png",
     "readTimeMinutes": "2"
   },
   {
@@ -8458,7 +8458,7 @@
     "distractor15a": "cardiology",
     "distractor15b": "dermatology",
     "distractor15c": "orthopedic surgery",
-    "images": "figure-7-5.png",
+    "imagesEnglish": "figure-7-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8671,7 +8671,7 @@
     "distractor19a": "a net gain of two ATP molecules",
     "distractor19b": "a net gain of four ATP molecules",
     "distractor19c": "no ATP has been used",
-    "images": "figure-7-6.png",
+    "imagesEnglish": "figure-7-6.png",
     "readTimeMinutes": "6"
   },
   {
@@ -8793,7 +8793,7 @@
     "distractor23a": "C6⁢H12⁢O6 +CO2 →O2 +H2⁢O +energy, where glucose is reduced to release oxygen and water. This oxygen in turn accepts electrons from the electron transport chain to form water",
     "distractor23b": "C6⁢H12⁢O6 +O2 +H2⁢O →CO2 + energy, where glucose is reduced to release carbon dioxide with energy. Oxygen works as a reducing agent by donating electrons",
     "distractor23c": "C6⁢H12⁢O6 +CO2 →(CH2⁢O)n +H2⁢O +O2 where glucose is oxidized to release pyruvate and water. The oxygen formed acts as the final acceptor of electrons",
-    "images": "figure-7-6.png,figure-7-7.png",
+    "imagesEnglish": "figure-7-6.png,figure-7-7.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9037,7 +9037,7 @@
     "distractor15a": "photosynthesis",
     "distractor15b": "glycolysis only",
     "distractor15c": "DNA replication",
-    "images": "figure-7-9.png",
+    "imagesEnglish": "figure-7-9.png",
     "readTimeMinutes": "3"
   },
   {
@@ -9160,7 +9160,7 @@
     "distractor14a": "Yes, it produces most of the ATP used by the cell",
     "distractor14b": "Yes, it produces 36 ATP directly",
     "distractor14c": "Yes, it produces ATP only through oxidative phosphorylation",
-    "images": "figure-7-10.png",
+    "imagesEnglish": "figure-7-10.png",
     "readTimeMinutes": "3"
   },
   {
@@ -9257,7 +9257,7 @@
     "distractor18a": "Glycolysis takes place in mitochondria, which extract energy for cellular metabolism by breaking down glucose",
     "distractor18b": "All of the pathways involved in ATP production take place in the mitochondria",
     "distractor18c": "The outer membrane of mitochondria is loaded with proteins involved in electron transfer and ATP synthesis",
-    "images": "figure-7-8.png",
+    "imagesEnglish": "figure-7-8.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9491,7 +9491,7 @@
     "distractor18a": "It directly synthesizes ATP without a proton gradient",
     "distractor18b": "It pumps carbon dioxide across the membrane",
     "distractor18c": "It converts pyruvate into acetyl CoA",
-    "images": "figure-7-11.png",
+    "imagesEnglish": "figure-7-11.png",
     "readTimeMinutes": "11"
   },
   {
@@ -9568,7 +9568,7 @@
     "distractor14a": "The proton concentration of the intermembrane space would increase, leading to ATP formation",
     "distractor14b": "The hydrogen ion concentration of the intermembrane space would decrease, causing a high production of ATP",
     "distractor14c": "The proton concentration of the intermembrane space would increase, causing production of ATP in large amounts",
-    "images": "figure-7-12.png,figure-7-13.png",
+    "imagesEnglish": "figure-7-12.png,figure-7-13.png",
     "readTimeMinutes": "5"
   },
   {
@@ -9822,7 +9822,7 @@
     "distractor21a": "Tremetol increases the production of lactate dehydrogenase, causing lactic acid to accumulate in the body",
     "distractor21b": "Tremetol inhibits the production of NAD+ after exercise. The lack of oxygen causes lactic acid to accumulate in the body",
     "distractor21c": "Tremetol binds to lactic acid, inhibiting its breakdown into other compounds and causing it to accumulate after exercising",
-    "images": "figure-7-14.png,figure-7-15.png,figure-7-16.png",
+    "imagesEnglish": "figure-7-14.png,figure-7-15.png,figure-7-16.png",
     "readTimeMinutes": "10"
   },
   {
@@ -9864,7 +9864,7 @@
     "distractor7a": "photosynthesis only",
     "distractor7b": "DNA replication",
     "distractor7c": "protein synthesis only",
-    "images": "figure-7-18.png",
+    "imagesEnglish": "figure-7-18.png",
     "readTimeMinutes": "7"
   },
   {
@@ -9982,7 +9982,7 @@
     "distractor10a": "exhaled air",
     "distractor10b": "sweat only",
     "distractor10c": "feces only",
-    "images": "figure-7-17.png",
+    "imagesEnglish": "figure-7-17.png",
     "readTimeMinutes": "2"
   },
   {
@@ -10212,7 +10212,7 @@
     "distractor10a": "the enzyme is degraded",
     "distractor10b": "the substrate is converted into ATP",
     "distractor10c": "the active site permanently changes shape",
-    "images": "figure-7-19.png",
+    "imagesEnglish": "figure-7-19.png",
     "readTimeMinutes": "5"
   },
   {
@@ -10309,7 +10309,7 @@
     "distractor18a": "speeds up",
     "distractor18b": "becomes irreversible",
     "distractor18c": "begins producing oxygen",
-    "images": "figure-7-10.png,figure-7-20.png",
+    "imagesEnglish": "figure-7-10.png,figure-7-20.png",
     "readTimeMinutes": "14"
   },
   {
@@ -10709,7 +10709,7 @@
     "distractor52a": "The citric acid cycle produces pyruvate, which converts to glucose to enter glycolysis. This pathway produces NADH and FADH2, which enter oxidative phosphorylation to produce ATP through chemiosmosis",
     "distractor52b": "The citric acid cycle produces NADH and FADH2, which undergo oxidative phosphorylation. This produces ATP by pumping protons through chemiosmosis. The ATP produced is utilized in large amount in the process of glycolysis",
     "distractor52c": "Glycolysis produces pyruvate, which directly enters the citric acid cycle. This cycle produces the energy currency that undergoes the electron transport chain to produce water and ATP",
-    "images": "figure-7-10.png,figure-7-15.png,figure-7-21.png,figure-7-22.png",
+    "imagesEnglish": "figure-7-10.png,figure-7-15.png,figure-7-21.png,figure-7-22.png",
     "readTimeMinutes": "15"
   },
   {
@@ -10766,7 +10766,7 @@
     "distractor10a": "It directly produces ATP for all organisms",
     "distractor10b": "It converts carbon dioxide into oxygen without using light",
     "distractor10c": "It allows animals to digest carbohydrates",
-    "images": "figure-8-1.png",
+    "imagesEnglish": "figure-8-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10879,7 +10879,7 @@
     "distractor10a": "Photosynthesis produces ATP for long-term storage, whereas respiration stores ATP in glucose",
     "distractor10b": "Photosynthesis and respiration both store energy in oxygen molecules",
     "distractor10c": "Photosynthesis releases energy from carbohydrates, whereas respiration captures sunlight",
-    "images": "figure-8-2.png,figure-8-3.png",
+    "imagesEnglish": "figure-8-2.png,figure-8-3.png",
     "readTimeMinutes": "6"
   },
   {
@@ -10936,7 +10936,7 @@
     "distractor10a": "Rate of photosynthesis will be inhibited as the level of oxygen decreases",
     "distractor10b": "The rate of photosynthesis will increase as the level of carbon dioxide increases",
     "distractor10c": "Rate of photosynthesis will increase as the level of oxygen increases",
-    "images": "figure-8-4.png,figure-8-5.png,figure-8-6.png",
+    "imagesEnglish": "figure-8-4.png,figure-8-5.png,figure-8-6.png",
     "readTimeMinutes": "6"
   },
   {
@@ -10993,7 +10993,7 @@
     "distractor10a": "The light reactions produces NADP+ and ADP, which are then used in the Calvin cycle",
     "distractor10b": "The light reactions uses NADPH and ATP, which are produced by the Calvin cycle",
     "distractor10c": "The light reactions produce only NADPH, which is produced by the Calvin cycle",
-    "images": "figure-8-7.png",
+    "imagesEnglish": "figure-8-7.png",
     "readTimeMinutes": "4"
   },
   {
@@ -11050,7 +11050,7 @@
     "distractor10a": "near the top",
     "distractor10b": "in the middle, but generally closer to the top",
     "distractor10c": "in the middle, but generally closer to the base",
-    "images": "figure-8-8.png",
+    "imagesEnglish": "figure-8-8.png",
     "readTimeMinutes": "3"
   },
   {
@@ -11107,7 +11107,7 @@
     "distractor10a": "They directly produce oxygen",
     "distractor10b": "They regenerate chlorophyll molecules",
     "distractor10c": "They transport carbon dioxide into chloroplasts",
-    "images": "figure-8-9.png",
+    "imagesEnglish": "figure-8-9.png",
     "readTimeMinutes": "18"
   },
   {
@@ -11164,7 +11164,7 @@
     "distractor10a": "They remove oxygen from cells",
     "distractor10b": "They prevent carbon dioxide uptake",
     "distractor10c": "They permanently destroy chlorophyll molecules",
-    "images": "figure-8-10.png,figure-8-11.png",
+    "imagesEnglish": "figure-8-10.png,figure-8-11.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11221,7 +11221,7 @@
     "distractor10a": "They contain only green light",
     "distractor10b": "They are the only wavelengths emitted by the Sun",
     "distractor10c": "They are invisible to humans",
-    "images": "figure-8-12.png",
+    "imagesEnglish": "figure-8-12.png",
     "readTimeMinutes": "4"
   },
   {
@@ -11278,7 +11278,7 @@
     "distractor10a": "They absorb only red light",
     "distractor10b": "They reflect only ultraviolet radiation",
     "distractor10c": "They convert green light into yellow light",
-    "images": "figure-8-13.png,figure-8-14.png",
+    "imagesEnglish": "figure-8-13.png,figure-8-14.png",
     "readTimeMinutes": "9"
   },
   {
@@ -11335,7 +11335,7 @@
     "distractor10a": "carbon dioxide",
     "distractor10b": "NADPH",
     "distractor10c": "oxygen",
-    "images": "figure-8-15.png,figure-8-16.png",
+    "imagesEnglish": "figure-8-15.png,figure-8-16.png",
     "readTimeMinutes": "12"
   },
   {
@@ -11392,7 +11392,7 @@
     "distractor10a": "CO2 levels would increase and O2 levels would decrease",
     "distractor10b": "O2 and CO2 levels would both decrease",
     "distractor10c": "O2 and CO2 levels would both increase",
-    "images": "figure-8-16.png,figure-8-17.png",
+    "imagesEnglish": "figure-8-16.png,figure-8-17.png",
     "readTimeMinutes": "3"
   },
   {
@@ -11505,7 +11505,7 @@
     "distractor10a": "ATP and NADPH contain less energy than oxygen",
     "distractor10b": "ATP and NADPH cannot transfer energy to other molecules",
     "distractor10c": "Carbohydrates are produced only during cellular respiration",
-    "images": "figure-8-18.png",
+    "imagesEnglish": "figure-8-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11562,7 +11562,7 @@
     "distractor10a": "In photosynthesis, oxygen, carbon dioxide, ATP and NADPH are reactants. G3P and water are products",
     "distractor10b": "In photosynthesis, chlorophyll, water and carbon dioxide are reactants. G3P and oxygen are products",
     "distractor10c": "In photosynthesis, water, carbon dioxide, ATP and NADPH are reactants. RuBP and oxygen are products",
-    "images": "figure-8-19.png",
+    "imagesEnglish": "figure-8-19.png",
     "readTimeMinutes": "3"
   },
   {
@@ -11731,7 +11731,7 @@
     "distractor11a": "Photosynthetic organisms began to use NADPH and ATP as an energy source",
     "distractor11b": "Photosynthetic organisms evolved from single-celled bacteria into multicellular plants",
     "distractor11c": "Photosynthetic organisms began to use light reactions as well as dark reactions",
-    "images": "figure-8-20.png,figure-8-21.png",
+    "imagesEnglish": "figure-8-20.png,figure-8-21.png",
     "readTimeMinutes": "6"
   },
   {
@@ -12186,7 +12186,7 @@
     "distractor45a": "Chlorophyll a molecules in the photosystems are excited and pass the energy to the primary electron acceptor where the energy is used to excite electrons from the splitting of water",
     "distractor45b": "Chlorophyll b molecules in the photosystems are excited and pass the energy to the primary electron acceptor where the energy is used to excite electrons from the splitting of water",
     "distractor45c": "Chlorophyll molecules in the photosystems absorb light and get excited in the primary electron acceptor from where the energy is used to excite electrons from the splitting of water",
-    "images": "figure-8-11.png,figure-8-18.png,figure-8-19.png,figure-8-22.png,figure-8-23.png",
+    "imagesEnglish": "figure-8-11.png,figure-8-18.png,figure-8-19.png,figure-8-22.png,figure-8-23.png",
     "readTimeMinutes": "7"
   },
   {
@@ -12243,7 +12243,7 @@
     "distractor10a": "Only animals use chemical signaling pathways",
     "distractor10b": "Only bacteria communicate with neighboring cells",
     "distractor10c": "Cell communication occurs only in organisms with nervous systems",
-    "images": "figure-9-1.png,figure-9-18.png",
+    "imagesEnglish": "figure-9-1.png,figure-9-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -12300,7 +12300,7 @@
     "distractor10a": "Hormones travel only to certain organs through dedicated blood vessels",
     "distractor10b": "Hormones enter every cell but activate only mitochondrial DNA",
     "distractor10c": "Hormones are chemically attracted only to large organs",
-    "images": "figure-9-3.png",
+    "imagesEnglish": "figure-9-3.png",
     "readTimeMinutes": "14"
   },
   {
@@ -12357,7 +12357,7 @@
     "distractor10a": "Neurotransmitters circulate through the bloodstream before reaching their targets",
     "distractor10b": "Electrical impulses travel only through extracellular fluid",
     "distractor10c": "Signals bypass receptors and enter the nucleus directly",
-    "images": "figure-9-2.png,figure-9-3.png",
+    "imagesEnglish": "figure-9-2.png,figure-9-3.png",
     "readTimeMinutes": "7"
   },
   {
@@ -12414,7 +12414,7 @@
     "distractor10a": "Hormones generate electrical impulses that never stop",
     "distractor10b": "Hormones permanently bind all receptors they encounter",
     "distractor10c": "Hormones remain concentrated only at their site of release",
-    "images": "figure-9-2.png",
+    "imagesEnglish": "figure-9-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12471,7 +12471,7 @@
     "distractor10a": "all cells throughout the body equally",
     "distractor10b": "only cells connected by blood vessels",
     "distractor10c": "only cells within endocrine glands",
-    "images": "figure-9-2.png",
+    "imagesEnglish": "figure-9-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12528,7 +12528,7 @@
     "distractor10a": "Both require hormones to travel through the bloodstream",
     "distractor10b": "Both rely on neurotransmitters crossing synapses",
     "distractor10c": "Gap junction signaling always occurs over longer distances than endocrine signaling",
-    "images": "figure-9-2.png",
+    "imagesEnglish": "figure-9-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12585,7 +12585,7 @@
     "distractor10a": "A peptide hormone",
     "distractor10b": "A sodium ion",
     "distractor10c": "A neurotransmitter that cannot cross the plasma membrane",
-    "images": "figure-9-4.png",
+    "imagesEnglish": "figure-9-4.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12647,7 +12647,7 @@
     "distractor11a": "dimerization and the downstream cellular response",
     "distractor11b": "phosphatase activity, dimerization, and the downstream cellular response",
     "distractor11c": "signaling molecule binding, dimerization, and the downstream cellular response",
-    "images": "figure-9-5.png,figure-9-6.png,figure-9-7.png,figure-9-8.png",
+    "imagesEnglish": "figure-9-5.png,figure-9-6.png,figure-9-7.png,figure-9-8.png",
     "readTimeMinutes": "16"
   },
   {
@@ -12704,7 +12704,7 @@
     "distractor10a": "glycogen",
     "distractor10b": "cellulose",
     "distractor10c": "hemoglobin",
-    "images": "figure-9-9.png",
+    "imagesEnglish": "figure-9-9.png",
     "readTimeMinutes": "6"
   },
   {
@@ -12817,7 +12817,7 @@
     "distractor10a": "Each downstream molecule activates only one upstream receptor",
     "distractor10b": "Signal amplification occurs only after DNA replication",
     "distractor10c": "Multiple ligands must bind the same receptor before any response occurs",
-    "images": "figure-9-10.png",
+    "imagesEnglish": "figure-9-10.png",
     "readTimeMinutes": "5"
   },
   {
@@ -12874,7 +12874,7 @@
     "distractor10a": "Phosphorylation permanently activates every signaling protein",
     "distractor10b": "Only phosphatases regulate signaling pathways",
     "distractor10c": "Phosphorylation directly produces ATP for cellular signaling",
-    "images": "figure-9-11.png",
+    "imagesEnglish": "figure-9-11.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12931,7 +12931,7 @@
     "distractor10a": "Second messengers permanently change DNA sequences in every cell",
     "distractor10b": "Each second messenger functions in only one type of cell",
     "distractor10c": "Second messengers activate identical metabolic pathways in all cell types",
-    "images": "figure-9-12.png,figure-9-13.png",
+    "imagesEnglish": "figure-9-12.png,figure-9-13.png",
     "readTimeMinutes": "8"
   },
   {
@@ -13044,7 +13044,7 @@
     "distractor10a": "EGF binds its receptor → NF-κB is degraded → ERK exits the nucleus → translation stops",
     "distractor10b": "EGF binds its receptor → ATP is synthesized directly → DNA is replicated",
     "distractor10c": "EGF binds its receptor → PKC leaves the cell → RNA is degraded",
-    "images": "figure-9-10.png,figure-9-14.png",
+    "imagesEnglish": "figure-9-10.png,figure-9-14.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13269,7 +13269,7 @@
     "distractor10a": "The release of neurotransmitters at a synapse",
     "distractor10b": "The conversion of glycogen into glucose during exercise",
     "distractor10c": "The diffusion of oxygen into red blood cells",
-    "images": "figure-9-15.png",
+    "imagesEnglish": "figure-9-15.png",
     "readTimeMinutes": "6"
   },
   {
@@ -13438,7 +13438,7 @@
     "distractor10a": "It lacks receptors and signaling proteins",
     "distractor10b": "Its cells do not contain DNA",
     "distractor10c": "It performs photosynthesis instead of cellular respiration",
-    "images": "figure-9-16.png",
+    "imagesEnglish": "figure-9-16.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13500,7 +13500,7 @@
     "distractor11a": "The squid provides certain nutrients that allow the bacteria to luminesce",
     "distractor11b": "The squid produces the luminescent luciferase enzyme, so bacteria living outside the squid do not luminesce",
     "distractor11c": "Luciferase is toxic to free-living bacteria, so free-living bacteria do not produce this enzyme",
-    "images": "figure-9-17.png,figure-9-18.png",
+    "imagesEnglish": "figure-9-17.png,figure-9-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -14075,7 +14075,7 @@
     "distractor52a": "Adrenaline has both a stimulatory and an inhibitory effect on heart rate and blood pressure. β-blockers bind to G-protein-linked receptors and stimulate the inhibitory effect of adrenaline",
     "distractor52b": "Adrenaline has an inhibitory effect on heart rate and blood pressure. β-blockers have a synergistic effect along with adrenaline, producing an inhibitory effect",
     "distractor52c": "Adrenaline has both a stimulatory and an inhibitory effect on heart rate and blood pressure. β-blockers bind to G-protein-linked receptors and intervene with the inhibitory effect of adrenaline",
-    "images": "figure-9-4.png,figure-9-10.png,figure-9-14.png",
+    "imagesEnglish": "figure-9-4.png,figure-9-10.png,figure-9-14.png",
     "readTimeMinutes": "13"
   },
   {
@@ -14132,7 +14132,7 @@
     "distractor10a": "Every body cell is independently fertilized",
     "distractor10b": "New body cells arise only from stem cells formed after birth",
     "distractor10c": "Each organ develops from a different fertilized egg",
-    "images": "figure-10-1.png",
+    "imagesEnglish": "figure-10-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -14245,7 +14245,7 @@
     "distractor10a": "They are completely homologous and contain identical genes",
     "distractor10b": "They are identical except for chromosome length",
     "distractor10c": "They contain no homologous regions at all",
-    "images": "figure-10-2.png,figure-10-3.png",
+    "imagesEnglish": "figure-10-2.png,figure-10-3.png",
     "readTimeMinutes": "9"
   },
   {
@@ -14302,7 +14302,7 @@
     "distractor10a": "The location where DNA replication begins",
     "distractor10b": "The protein core of a nucleosome",
     "distractor10c": "The end of a chromosome that protects DNA from degradation",
-    "images": "figure-10-3.png,figure-10-4.png",
+    "imagesEnglish": "figure-10-3.png,figure-10-4.png",
     "readTimeMinutes": "6"
   },
   {
@@ -14369,7 +14369,7 @@
     "distractor12a": "Four genetically different daughter cells are produced",
     "distractor12b": "Two haploid daughter cells are produced",
     "distractor12c": "One daughter cell with twice the DNA content is produced",
-    "images": "figure-10-5.png",
+    "imagesEnglish": "figure-10-5.png",
     "readTimeMinutes": "11"
   },
   {
@@ -14542,7 +14542,7 @@
     "distractor19a": "Mitosis is a process that always results in asexual reproduction",
     "distractor19b": "Asexual reproduction is a process that always results in mitosis",
     "distractor19c": "Asexual reproduction is a process that can result in mitosis",
-    "images": "figure-10-6.png,figure-10-7.png,figure-10-8.png",
+    "imagesEnglish": "figure-10-6.png,figure-10-7.png,figure-10-8.png",
     "readTimeMinutes": "8"
   },
   {
@@ -14619,7 +14619,7 @@
     "distractor14a": "The nuclear envelopes",
     "distractor14b": "The spindle microtubules",
     "distractor14c": "The centromeres of the chromosomes",
-    "images": "figure-10-9.png",
+    "imagesEnglish": "figure-10-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -14889,7 +14889,7 @@
     "distractor15a": "Each chromosome must be attached to only one spindle fiber.",
     "distractor15b": "The nuclear envelope must reform.",
     "distractor15c": "The centrioles must disappear.",
-    "images": "figure-10-11.png",
+    "imagesEnglish": "figure-10-11.png",
     "readTimeMinutes": "7"
   },
   {
@@ -14991,7 +14991,7 @@
     "distractor19a": "Immediately after cyclins are degraded.",
     "distractor19b": "Only during cytokinesis.",
     "distractor19c": "As soon as DNA replication begins.",
-    "images": "figure-10-12.png,figure-10-13.png",
+    "imagesEnglish": "figure-10-12.png,figure-10-13.png",
     "readTimeMinutes": "8"
   },
   {
@@ -15098,7 +15098,7 @@
     "distractor20a": "They enhance the rate of cell division.",
     "distractor20b": "They start the cell cycle, thereby suppressing tumor formation.",
     "distractor20c": "They proofread DNA before cell division.",
-    "images": "figure-10-14.png",
+    "imagesEnglish": "figure-10-14.png",
     "readTimeMinutes": "9"
   },
   {
@@ -15357,7 +15357,7 @@
     "distractor20a": "Mutated cells undergo apoptosis, causing cells to divide uncontrollably.",
     "distractor20b": "Cancer treatment would require inhibiting apoptosis which is a natural defense.",
     "distractor20c": "In cancerous cells, apoptosis occurs.",
-    "images": "figure-10-15.png",
+    "imagesEnglish": "figure-10-15.png",
     "readTimeMinutes": "6"
   },
   {
@@ -15464,7 +15464,7 @@
     "distractor20a": "Before DNA replication begins.",
     "distractor20b": "As soon as the FtsZ ring forms.",
     "distractor20c": "Immediately after chromosome attachment to the membrane.",
-    "images": "figure-10-2.png,figure-10-16.png",
+    "imagesEnglish": "figure-10-2.png,figure-10-16.png",
     "readTimeMinutes": "7"
   },
   {
@@ -15910,7 +15910,7 @@
     "distractor43a": "p53 protein have no effect on cancer.",
     "distractor43b": "Having abnormal p53 protein decreases the chances of recurring cancer and increases survival.",
     "distractor43c": "p53 protein may increase or decrease the chnces of recurring cancer based on other factors.",
-    "images": "figure-10-17.png,figure-10-18.png,figure-10-19.png,figure-10-20.png,figure-10-21.png,figure-10-22.png",
+    "imagesEnglish": "figure-10-17.png,figure-10-18.png,figure-10-19.png,figure-10-20.png,figure-10-21.png,figure-10-22.png",
     "readTimeMinutes": "10"
   }
 ]
