@@ -38,7 +38,7 @@
     "distractor7a": "They allow the slug to produce its own chloroplasts from animal cells",
     "distractor7b": "They enable the slug to digest chloroplasts more quickly",
     "distractor7c": "They prevent the slug from eating algae",
-    "images": "figure-18-1.png",
+    "imagesEnglish": "figure-18-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -172,7 +172,7 @@
     "distractor8a": "Large-billed birds stopped reproducing completely",
     "distractor8b": "Small-billed birds acquired larger beaks before breeding",
     "distractor8c": "All seed types disappeared except large, hard seeds",
-    "images": "figure-18-2.png,figure-18-3.png",
+    "imagesEnglish": "figure-18-2.png,figure-18-3.png",
     "readTimeMinutes": "15"
   },
   {
@@ -209,7 +209,7 @@
     "distractor6a": "It eliminates the need for laboratory research",
     "distractor6b": "It ensures all species can survive environmental change",
     "distractor6c": "It prevents the evolution of new species",
-    "images": "figure-18-4.png",
+    "imagesEnglish": "figure-18-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -261,7 +261,7 @@
     "distractor9a": "A single generation",
     "distractor9b": "Only a few weeks",
     "distractor9c": "One reproductive season",
-    "images": "figure-18-5.png",
+    "imagesEnglish": "figure-18-5.png",
     "readTimeMinutes": "13"
   },
   {
@@ -298,7 +298,7 @@
     "distractor6a": "To argue that species never change",
     "distractor6b": "To prove fossils were unrelated to living organisms",
     "distractor6c": "To show that evolution occurs without inheritance",
-    "images": "figure-18-6.png",
+    "imagesEnglish": "figure-18-6.png",
     "readTimeMinutes": "3"
   },
   {
@@ -345,7 +345,7 @@
     "distractor8a": "Embryos cannot undergo mutations",
     "distractor8b": "Natural selection does not act on embryos",
     "distractor8c": "Embryonic traits are never inherited",
-    "images": "figure-18-7.png,figure-18-8.png",
+    "imagesEnglish": "figure-18-7.png,figure-18-8.png",
     "readTimeMinutes": "7"
   },
   {
@@ -433,7 +433,7 @@
     "distractor8a": "Large genomes contain no genes",
     "distractor8b": "Multiple polymerases prevent all mutations",
     "distractor8c": "Only small genomes require DNA replication",
-    "images": "figure-18-9.png",
+    "imagesEnglish": "figure-18-9.png",
     "readTimeMinutes": "8"
   },
   {
@@ -690,7 +690,7 @@
     "distractor8a": "In any body cell",
     "distractor8b": "Only in muscle cells",
     "distractor8c": "Only in skin cells",
-    "images": "figure-18-10.png,figure-18-11.png",
+    "imagesEnglish": "figure-18-10.png,figure-18-11.png",
     "readTimeMinutes": "8"
   },
   {
@@ -732,7 +732,7 @@
     "distractor7a": "As the merging of two unrelated species into one",
     "distractor7b": "As the evolution of a single individual into a new species",
     "distractor7c": "As the replacement of one species by another without ancestry",
-    "images": "figure-18-13.png",
+    "imagesEnglish": "figure-18-13.png",
     "readTimeMinutes": "6"
   },
   {
@@ -779,7 +779,7 @@
     "distractor8a": "The Galápagos finch and the house sparrow",
     "distractor8b": "The horse and the donkey",
     "distractor8c": "The arctic fox and the ptarmigan",
-    "images": "figure-18-14.png",
+    "imagesEnglish": "figure-18-14.png",
     "readTimeMinutes": "8"
   },
   {
@@ -826,7 +826,7 @@
     "distractor8a": "Bald eagles",
     "distractor8b": "Penguins",
     "distractor8c": "Owls",
-    "images": "figure-18-15.png",
+    "imagesEnglish": "figure-18-15.png",
     "readTimeMinutes": "4"
   },
   {
@@ -878,7 +878,7 @@
     "distractor9a": "Aneuploidy is a mutation that causes the genome of a cell to break down",
     "distractor9b": "Aneuploidy is the condition of having every chromosome be inactive, resulting in an inviable embryo",
     "distractor9c": "Aneuploidy is a prezygotic barrier in which the gametes of two distinct species will not fertilize each other",
-    "images": "figure-18-16.png,figure-18-17.png,figure-18-18.png",
+    "imagesEnglish": "figure-18-16.png,figure-18-17.png,figure-18-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -930,7 +930,7 @@
     "distractor9a": "Salmon",
     "distractor9b": "Trout",
     "distractor9c": "Catfish",
-    "images": "figure-18-19.png,figure-18-20.png,figure-18-21.png,figure-18-22.png,figure-18-23.png",
+    "imagesEnglish": "figure-18-19.png,figure-18-20.png,figure-18-21.png,figure-18-22.png,figure-18-23.png",
     "readTimeMinutes": "14"
   },
   {
@@ -1013,7 +1013,7 @@
     "distractor8a": "allopatric speciation, sympatric speciation, fusion",
     "distractor8b": "convergent evolution, divergent evolution, no evolution",
     "distractor8c": "natural selection, genetic drift, gene flow",
-    "images": "figure-18-24.png,figure-18-25.png",
+    "imagesEnglish": "figure-18-24.png,figure-18-25.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1055,7 +1055,7 @@
     "distractor7a": "There is a significant change in the environment over time, such as the breakup of a supercontinent due to tectonic activity",
     "distractor7b": "A species that has a competitor outcompetes it and drives it to extinction, freeing up more resources",
     "distractor7c": "There is a stable and unchanging environment in which a species can flourish",
-    "images": "figure-18-25.png",
+    "imagesEnglish": "figure-18-25.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1611,7 +1611,7 @@
     "distractor70a": "The production of unfit hybrids would increase and the speciation process would complete",
     "distractor70b": "The extensive mating between the species would continue to produce large numbers of hybrids",
     "distractor70c": "The gene pools of the parent species would fuse over time, reversing the speciation process",
-    "images": "figure-18-12.png,figure-18-26.png,figure-18-27.png,figure-18-28.png,figure-18-29.png,figure-18-30.png,figure-18-31.png,figure-18-32.png,figure-18-33.png",
+    "imagesEnglish": "figure-18-12.png,figure-18-26.png,figure-18-27.png,figure-18-28.png,figure-18-29.png,figure-18-30.png,figure-18-31.png,figure-18-32.png,figure-18-33.png",
     "readTimeMinutes": "7"
   },
   {
@@ -1653,7 +1653,7 @@
     "distractor7a": "Modern diseases are unrelated to evolutionary history",
     "distractor7b": "Only infectious diseases are influenced by evolution",
     "distractor7c": "Cancer is caused exclusively by environmental toxins",
-    "images": "figure-19-1.png",
+    "imagesEnglish": "figure-19-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1854,7 +1854,7 @@
     "distractor7a": "homozygous dominant: 320 heterozygous: 80 homozygous recessive: 20 violet: 400 white: 20",
     "distractor7b": "homozygous dominant: 400 heterozygous: 0 homozygous recessive: 100 violet: 400 white: 100",
     "distractor7c": "homozygous dominant: 480 heterozygous: 0 homozygous recessive: 20 violet: 480 white: 20",
-    "images": "figure-19-2.png",
+    "imagesEnglish": "figure-19-2.png",
     "readTimeMinutes": "9"
   },
   {
@@ -1896,7 +1896,7 @@
     "distractor7a": "It guarantees Hardy–Weinberg equilibrium",
     "distractor7b": "It creates new alleles directly",
     "distractor7c": "It prevents mutations from occurring",
-    "images": "figure-19-3.png",
+    "imagesEnglish": "figure-19-3.png",
     "readTimeMinutes": "16"
   },
   {
@@ -1979,7 +1979,7 @@
     "distractor7a": "Inbreeding depression",
     "distractor7b": "Bottleneck effect",
     "distractor7c": "Founder effect",
-    "images": "figure-19-4.png,figure-19-4-1.png,figure-19-5.png",
+    "imagesEnglish": "figure-19-4.png,figure-19-4-1.png,figure-19-5.png",
     "readTimeMinutes": "9"
   },
   {
@@ -2021,7 +2021,7 @@
     "distractor7a": "The populations immediately become separate species",
     "distractor7b": "All allele frequencies remain unchanged",
     "distractor7c": "Natural selection permanently stops",
-    "images": "figure-19-6.png",
+    "imagesEnglish": "figure-19-6.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2145,7 +2145,7 @@
     "distractor7a": "It guarantees Hardy–Weinberg equilibrium",
     "distractor7b": "It eliminates all environmental variation",
     "distractor7c": "It prevents natural selection from occurring",
-    "images": "figure-19-7.png",
+    "imagesEnglish": "figure-19-7.png",
     "readTimeMinutes": "6"
   },
   {
@@ -2228,7 +2228,7 @@
     "distractor7a": "The rarest phenotype",
     "distractor7b": "The phenotype with the most mutations",
     "distractor7c": "Only the dominant phenotype",
-    "images": "figure-19-9.png",
+    "imagesEnglish": "figure-19-9.png",
     "readTimeMinutes": "2"
   },
   {
@@ -2270,7 +2270,7 @@
     "distractor7a": "Individuals with average traits have the highest fitness in a stable environment",
     "distractor7b": "Two extreme phenotypes are favored over intermediate forms",
     "distractor7c": "Allele frequencies change only because of random chance",
-    "images": "figure-19-8.png,figure-19-9.png",
+    "imagesEnglish": "figure-19-8.png,figure-19-9.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2312,7 +2312,7 @@
     "distractor7a": "Because mutations regularly change throat color each generation",
     "distractor7b": "Because all three throat colors have identical reproductive success",
     "distractor7c": "Because natural selection always favors the largest males",
-    "images": "figure-19-10.png",
+    "imagesEnglish": "figure-19-10.png",
     "readTimeMinutes": "6"
   },
   {
@@ -2354,7 +2354,7 @@
     "distractor7a": "Because females can only reproduce once in their lifetime",
     "distractor7b": "Because larger males always produce more offspring regardless of genetics",
     "distractor7c": "Because natural selection favors producing the greatest possible number of offspring",
-    "images": "figure-19-11.png",
+    "imagesEnglish": "figure-19-11.png",
     "readTimeMinutes": "9"
   },
   {
@@ -2805,7 +2805,7 @@
     "distractor40a": "The fungus population did not change over time",
     "distractor40b": "The fungus becme more susceptible to the fungicide over time due to stabilizing selection",
     "distractor40c": "The fungus became more susceptible to the fungicide over time due to unknown reasons",
-    "images": "figure-19-12.png,figure-19-13.png,figure-19-14.png,figure-19-15.png,figure-19-16.png,figure-19-17.png,figure-19-18.png",
+    "imagesEnglish": "figure-19-12.png,figure-19-13.png,figure-19-14.png,figure-19-15.png,figure-19-16.png,figure-19-17.png,figure-19-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2832,7 +2832,7 @@
     "distractor4a": "Discard the theory of evolution",
     "distractor4b": "Rename all previously known species",
     "distractor4c": "Ignore molecular evidence in favor of physical appearance alone",
-    "images": "figure-20-1.png",
+    "imagesEnglish": "figure-20-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2915,7 +2915,7 @@
     "distractor8a": "Ecology",
     "distractor8b": "Embryology",
     "distractor8c": "Physiology",
-    "images": "figure-20-2.png,figure-20-3.png",
+    "imagesEnglish": "figure-20-2.png,figure-20-3.png",
     "readTimeMinutes": "10"
   },
   {
@@ -2952,7 +2952,7 @@
     "distractor6a": "Older lineages immediately become extinct",
     "distractor6b": "Older lineages stop evolving once a new branch appears",
     "distractor6c": "Older lineages always become basal taxa",
-    "images": "figure-20-4.png",
+    "imagesEnglish": "figure-20-4.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2989,7 +2989,7 @@
     "distractor6a": "Cats and dogs are only found together in the Domain level",
     "distractor6b": "Cats and dogs are in the same group beginning at the Domain level and including the sublevels Kingdom, Phylum, Class, and Order",
     "distractor6c": "Cats and dogs are in the same group beginning at the Family level",
-    "images": "figure-20-5.png,figure-20-6.png",
+    "imagesEnglish": "figure-20-5.png,figure-20-6.png",
     "readTimeMinutes": "9"
   },
   {
@@ -3062,7 +3062,7 @@
     "distractor6a": "Evidence that two species evolved independently",
     "distractor6b": "Evidence that two species occupy the same ecological niche",
     "distractor6c": "Evidence that two species can interbreed",
-    "images": "figure-20-7.png",
+    "imagesEnglish": "figure-20-7.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3099,7 +3099,7 @@
     "distractor6a": "To determine which organisms are the oldest",
     "distractor6b": "To classify organisms only by appearance",
     "distractor6c": "To identify which organisms can interbreed",
-    "images": "figure-20-8.png",
+    "imagesEnglish": "figure-20-8.png",
     "readTimeMinutes": "4"
   },
   {
@@ -3172,7 +3172,7 @@
     "distractor6a": "Fungi are closer to bacteria than plants",
     "distractor6b": "Fungi are closer to bacteria than animals",
     "distractor6c": "Fungi are closer to bacteria than plants",
-    "images": "figure-20-9.png,figure-20-9-1.png",
+    "imagesEnglish": "figure-20-9.png,figure-20-9-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3209,7 +3209,7 @@
     "distractor6a": "The number of species currently alive",
     "distractor6b": "The age of the organisms in the group",
     "distractor6c": "The number of homologous traits shared by the organisms",
-    "images": "figure-20-10.png,figure-20-11.png",
+    "imagesEnglish": "figure-20-10.png,figure-20-11.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3251,7 +3251,7 @@
     "distractor7a": "Vertebral column",
     "distractor7b": "Hinged jaws",
     "distractor7c": "Amniotic egg",
-    "images": "figure-20-10.png",
+    "imagesEnglish": "figure-20-10.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3334,7 +3334,7 @@
     "distractor7a": "The discovery that fossils are unreliable",
     "distractor7b": "The realization that mutations never occur",
     "distractor7c": "The replacement of DNA with RNA in modern organisms",
-    "images": "figure-20-12.png",
+    "imagesEnglish": "figure-20-12.png",
     "readTimeMinutes": "11"
   },
   {
@@ -3504,7 +3504,7 @@
     "distractor8a": "that mitochondria were first established in a prokaryotic host which acquired a nucleus to become the first eukaryotic cell",
     "distractor8b": "that prokaryotes actually evolved from eukaryotes by losing genes and complexity",
     "distractor8c": "that eukaryotes developed Golgi before mitochondria",
-    "images": "figure-20-13.png,figure-20-14.png",
+    "imagesEnglish": "figure-20-13.png,figure-20-14.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3546,7 +3546,7 @@
     "distractor7a": "The nucleus-first hypothesis",
     "distractor7b": "The mitochondria-first hypothesis",
     "distractor7c": "The Endosymbiont Theory",
-    "images": "figure-20-15.png,figure-20-16.png",
+    "imagesEnglish": "figure-20-15.png,figure-20-16.png",
     "readTimeMinutes": "10"
   },
   {
@@ -3588,7 +3588,7 @@
     "distractor7a": "It eliminates the concept of common ancestry",
     "distractor7b": "It ignores DNA evidence",
     "distractor7c": "It only applies to multicellular organisms",
-    "images": "figure-20-17.png",
+    "imagesEnglish": "figure-20-17.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3630,7 +3630,7 @@
     "distractor7a": "They are permanent classifications that never change",
     "distractor7b": "They replace experimental evidence in biology",
     "distractor7c": "They are mathematical models used only for population genetics",
-    "images": "figure-20-18.png",
+    "imagesEnglish": "figure-20-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -4085,7 +4085,7 @@
     "distractor48a": "horizontal gene transfer",
     "distractor48b": "vertical gene transfer",
     "distractor48c": "basal taxon",
-    "images": "figure-20-2.png,figure-20-9.png,figure-20-9-1.png,figure-20-11.png,figure-20-17.png,figure-20-19.png,figure-20-20.png,figure-20-21.png,figure-20-22.png,figure-20-23.png,figure-20-24.png,figure-20-25.png,figure-20-26.png,figure-20-27.png",
+    "imagesEnglish": "figure-20-2.png,figure-20-9.png,figure-20-9-1.png,figure-20-11.png,figure-20-17.png,figure-20-19.png,figure-20-20.png,figure-20-21.png,figure-20-22.png,figure-20-23.png,figure-20-24.png,figure-20-25.png,figure-20-26.png,figure-20-27.png",
     "readTimeMinutes": "5"
   }
 ]
