@@ -33,7 +33,7 @@
     "distractor6a": "A gray wolf",
     "distractor6b": "A polar bear",
     "distractor6c": "A snow leopard",
-    "images": "figure-24-1.png",
+    "imagesEnglish": "figure-24-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -126,7 +126,7 @@
     "distractor8a": "It allows animals to attach permanently to rocks",
     "distractor8b": "It prevents the need for specialized tissues",
     "distractor8c": "It allows any plane to divide the body into equal halves",
-    "images": "figure-24-2.png",
+    "imagesEnglish": "figure-24-2.png",
     "readTimeMinutes": "3"
   },
   {
@@ -173,7 +173,7 @@
     "distractor8a": "The thickness of its skin",
     "distractor8b": "The amount of body fat it stores",
     "distractor8c": "The size of its digestive system",
-    "images": "figure-24-3.png",
+    "imagesEnglish": "figure-24-3.png",
     "readTimeMinutes": "8"
   },
   {
@@ -302,7 +302,7 @@
     "distractor5a": "Because they do not regulate body temperature",
     "distractor5b": "Because they absorb heat directly from the environment",
     "distractor5c": "Because they have thinner insulation",
-    "images": "figure-24-4.png",
+    "imagesEnglish": "figure-24-4.png",
     "readTimeMinutes": "1"
   },
   {
@@ -436,7 +436,7 @@
     "distractor9a": "The pleural cavity",
     "distractor9b": "The vertebral cavity",
     "distractor9c": "The abdominal cavity",
-    "images": "figure-24-5.png,figure-24-6.png",
+    "imagesEnglish": "figure-24-5.png,figure-24-6.png",
     "readTimeMinutes": "3"
   },
   {
@@ -611,7 +611,7 @@
     "distractor7a": "Because it allows rapid diffusion of gases",
     "distractor7b": "Because it stores nutrients",
     "distractor7c": "Because it contracts to move materials",
-    "images": "figure-24-7.png",
+    "imagesEnglish": "figure-24-7.png",
     "readTimeMinutes": "2"
   },
   {
@@ -648,7 +648,7 @@
     "distractor6a": "The heart and lungs",
     "distractor6b": "The stomach and esophagus",
     "distractor6c": "The brain and spinal cord",
-    "images": "figure-24-8.png",
+    "imagesEnglish": "figure-24-8.png",
     "readTimeMinutes": "1"
   },
   {
@@ -690,7 +690,7 @@
     "distractor7a": "They produce red blood cells",
     "distractor7b": "They absorb oxygen into the bloodstream",
     "distractor7c": "They contract to move air through the trachea",
-    "images": "figure-24-9.png,figure-24-10.png",
+    "imagesEnglish": "figure-24-9.png,figure-24-10.png",
     "readTimeMinutes": "4"
   },
   {
@@ -732,7 +732,7 @@
     "distractor7a": "The epithelial lining unfolds and becomes thicker",
     "distractor7b": "The epithelial lining remains folded with the cells piled up",
     "distractor7c": "The epithelial lining unfolds, but remains the same thickness",
-    "images": "figure-24-11.png,figure-24-11-1.png",
+    "imagesEnglish": "figure-24-11.png,figure-24-11-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -830,7 +830,7 @@
     "distractor8a": "It is rigid and heavily mineralized",
     "distractor8b": "It is composed entirely of fat cells",
     "distractor8c": "It is specialized for rapid electrical signaling",
-    "images": "figure-24-12.png",
+    "imagesEnglish": "figure-24-12.png",
     "readTimeMinutes": "2"
   },
   {
@@ -872,7 +872,7 @@
     "distractor7a": "To connect muscles to bones",
     "distractor7b": "To connect muscles to skin",
     "distractor7c": "To connect cartilage to muscle",
-    "images": "figure-24-13.png",
+    "imagesEnglish": "figure-24-13.png",
     "readTimeMinutes": "2"
   },
   {
@@ -924,7 +924,7 @@
     "distractor9a": "Elastic cartilage",
     "distractor9b": "Bone tissue",
     "distractor9c": "Adipose tissue",
-    "images": "figure-24-14.png",
+    "imagesEnglish": "figure-24-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -976,7 +976,7 @@
     "distractor9a": "Channels connecting lacunae",
     "distractor9b": "Bone-forming cells",
     "distractor9c": "Elastic fibers in bone",
-    "images": "figure-24-15.png",
+    "imagesEnglish": "figure-24-15.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1018,7 +1018,7 @@
     "distractor7a": "In the center of the cells",
     "distractor7b": "Outside the cell membrane",
     "distractor7c": "Scattered throughout the extracellular matrix",
-    "images": "figure-24-16.png",
+    "imagesEnglish": "figure-24-16.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1075,7 +1075,7 @@
     "distractor10a": "To provide structural support for muscles",
     "distractor10b": "To store calcium for bones",
     "distractor10c": "To produce connective tissue fibers",
-    "images": "figure-24-17.png",
+    "imagesEnglish": "figure-24-17.png",
     "readTimeMinutes": "7"
   },
   {
@@ -1127,7 +1127,7 @@
     "distractor9a": "Voluntarily by the somatic nervous system",
     "distractor9b": "Only by local hormones",
     "distractor9c": "Only by conscious control",
-    "images": "figure-24-18.png",
+    "imagesEnglish": "figure-24-18.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1174,7 +1174,7 @@
     "distractor8a": "Neurons and fibroblasts",
     "distractor8b": "Neurons and erythrocytes",
     "distractor8c": "Glial cells and muscle cells",
-    "images": "figure-24-19.png",
+    "imagesEnglish": "figure-24-19.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1390,7 +1390,7 @@
     "distractor9a": "Positive feedback",
     "distractor9b": "Feedforward regulation",
     "distractor9c": "Neural amplification",
-    "images": "figure-24-20.png",
+    "imagesEnglish": "figure-24-20.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1437,7 +1437,7 @@
     "distractor8a": "a. This is regulated by a positive feedback loop as the stimulus (hunger) has changed direction in response to a signal (fullness).\n\nb. This is regulated by a positive feedback loop as the stimulus (red blood cell release) has changed direction in response to a signal (presence of enough red blood cells)",
     "distractor8b": "a. This is regulated by a negative feedback loop as the stimulus (hunger) has changed direction in response to a signal (fullness).\n\nb. This is regulated by a positive feedback loop as the direction of the stimulus has been maintained",
     "distractor8c": "a. This is regulated by a positive feedback loop as the stimulus (hunger) has changed direction in response to a signal (fullness).\n\nb. This is regulated by a negative feedback loop as the stimulus (red blood cell release) has changed direction in response to a signal (presence of enough red blood cells)",
-    "images": "figure-24-21.png",
+    "imagesEnglish": "figure-24-21.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1530,7 +1530,7 @@
     "distractor8a": "The animal is most active during the morning hours",
     "distractor8b": "The animal is more active when it's body temperature is above 30 °C",
     "distractor8c": "The animal is active at night",
-    "images": "figure-24-21-1.png",
+    "imagesEnglish": "figure-24-21-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1577,7 +1577,7 @@
     "distractor8a": "Increase vasodilation",
     "distractor8b": "Sweat",
     "distractor8c": "Increase metabolic rate",
-    "images": "figure-24-23.png",
+    "imagesEnglish": "figure-24-23.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1670,7 +1670,7 @@
     "distractor8a": "Pyrogens circulate to the thalamus to reset the body’s 'thermostat,” causing a rise in temperature",
     "distractor8b": "Pyrogens cause an increase in the activity of the animal’s enzymes, which results in the temperature rise",
     "distractor8c": "Pyrogens entering the blood release some lipid substances, which ultimately cause the rise in temperature",
-    "images": "figure-24-22.png,figure-24-24.png",
+    "imagesEnglish": "figure-24-22.png,figure-24-24.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2245,7 +2245,7 @@
     "distractor63a": "Trigger the processes that change glucose to other molecules",
     "distractor63b": "Trigger the processes that get cells to use up more energy",
     "distractor63c": "Trigger the processes that get cells to use up less energy",
-    "images": "figure-24-25.png,figure-24-26.png,figure-24-27.png,figure-24-28.png,figure-24-29.png,figure-24-30.png,figure-24-31.png,figure-24-32.png,figure-24-33.png,figure-24-34.png,figure-24-35.png",
+    "imagesEnglish": "figure-24-25.png,figure-24-26.png,figure-24-27.png,figure-24-28.png,figure-24-29.png,figure-24-30.png,figure-24-31.png,figure-24-32.png,figure-24-33.png,figure-24-34.png,figure-24-35.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2292,7 +2292,7 @@
     "distractor8a": "Because it eliminates the need for exercise",
     "distractor8b": "Because it prevents all diseases",
     "distractor8c": "Because it replaces medical treatment",
-    "images": "figure-25-1.png",
+    "imagesEnglish": "figure-25-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2385,7 +2385,7 @@
     "distractor8a": "Frugivore",
     "distractor8b": "Folivore",
     "distractor8c": "Nectivore",
-    "images": "figure-25-2.png,figure-25-3.png,figure-25-4.png",
+    "imagesEnglish": "figure-25-2.png,figure-25-3.png,figure-25-4.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2437,7 +2437,7 @@
     "distractor9a": "Pellets",
     "distractor9b": "Boluses",
     "distractor9c": "Droppings",
-    "images": "figure-25-5.png",
+    "imagesEnglish": "figure-25-5.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2489,7 +2489,7 @@
     "distractor9a": "To digest proteins",
     "distractor9b": "To digest carbohydrates",
     "distractor9c": "To produce digestive enzymes",
-    "images": "figure-25-6.png",
+    "imagesEnglish": "figure-25-6.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2536,7 +2536,7 @@
     "distractor8a": "The rectum",
     "distractor8b": "The gizzard",
     "distractor8c": "The crop",
-    "images": "figure-25-7.png",
+    "imagesEnglish": "figure-25-7.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2634,7 +2634,7 @@
     "distractor9a": "The small intestine stores food, and the large intestine produces enzymes",
     "distractor9b": "The small intestine ferments cellulose, and the large intestine absorbs proteins",
     "distractor9c": "The small intestine secretes bile, and the large intestine digests cellulose",
-    "images": "figure-25-8.png",
+    "imagesEnglish": "figure-25-8.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2732,7 +2732,7 @@
     "distractor9a": "The epiglottis",
     "distractor9b": "The glottis",
     "distractor9c": "The trachea",
-    "images": "figure-25-9.png",
+    "imagesEnglish": "figure-25-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2779,7 +2779,7 @@
     "distractor8a": "When the stomach is empty",
     "distractor8b": "When digestive enzymes are released",
     "distractor8c": "When nutrients enter the bloodstream",
-    "images": "figure-25-10.png",
+    "imagesEnglish": "figure-25-10.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2841,7 +2841,7 @@
     "distractor11a": "Chyme is a mixture of food and digestive juices that is produced in the stomach",
     "distractor11b": "In the small intestine, chyme mixes with bile, which emulsifies fats",
     "distractor11c": "The stomach is separated from the small intestine by the pyloric sphincter",
-    "images": "figure-25-11.png",
+    "imagesEnglish": "figure-25-11.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2908,7 +2908,7 @@
     "distractor12a": "Microvilli form the inner layer of epithelial tissue in the small intestine and increase the absorption of nutrients from chyme",
     "distractor12b": "Microvilli are projections of absorptive cells that are involved in the absorption of bile salts and vitamin B12",
     "distractor12c": "Microvilli use smooth muscle contractions to move the chyme, which contains nutrients, thereby increasing the rate of absorption",
-    "images": "figure-25-11.png,figure-25-12.png,figure-25-13.png",
+    "imagesEnglish": "figure-25-11.png,figure-25-12.png,figure-25-13.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2960,7 +2960,7 @@
     "distractor9a": "Because they absorb more water in the stomach",
     "distractor9b": "Because they do not have intestinal bacteria",
     "distractor9c": "Because they digest cellulose more efficiently",
-    "images": "figure-25-14.png",
+    "imagesEnglish": "figure-25-14.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3002,7 +3002,7 @@
     "distractor7a": "It increases nutrient absorption",
     "distractor7b": "It prevents digestion in the rectum",
     "distractor7c": "It produces digestive enzymes",
-    "images": "figure-25-14.png",
+    "imagesEnglish": "figure-25-14.png",
     "readTimeMinutes": "2"
   },
   {
@@ -3166,7 +3166,7 @@
     "distractor10a": "They are the body's primary source of nitrogen",
     "distractor10b": "They are required to digest cellulose",
     "distractor10c": "They replace carbohydrates as the only source of glucose",
-    "images": "figure-25-15.png",
+    "imagesEnglish": "figure-25-15.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3223,7 +3223,7 @@
     "distractor10a": "Iron",
     "distractor10b": "Calcium",
     "distractor10c": "Magnesium",
-    "images": "figure-25-15.png",
+    "imagesEnglish": "figure-25-15.png",
     "readTimeMinutes": "21"
   },
   {
@@ -3428,7 +3428,7 @@
     "distractor9a": "Trypsin and lipase in the stomach digest protein",
     "distractor9b": "Amylase, maltase, and lactase in the mouth digest carbohydrates",
     "distractor9c": "Peptides are primarily absorbed in the large intestines",
-    "images": "figure-25-20.png",
+    "imagesEnglish": "figure-25-20.png",
     "readTimeMinutes": "2"
   },
   {
@@ -3490,7 +3490,7 @@
     "distractor11a": "Salivary amylase",
     "distractor11b": "Pancreatic amylase",
     "distractor11c": "Pepsin",
-    "images": "figure-25-17.png",
+    "imagesEnglish": "figure-25-17.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3552,7 +3552,7 @@
     "distractor11a": "Trypsin",
     "distractor11b": "Carboxypeptidase",
     "distractor11c": "Aminopeptidase",
-    "images": "figure-25-18.png",
+    "imagesEnglish": "figure-25-18.png",
     "readTimeMinutes": "4"
   },
   {
@@ -3609,7 +3609,7 @@
     "distractor10a": "Directly into the hepatic portal vein",
     "distractor10b": "Directly into the stomach",
     "distractor10c": "Into the large intestine",
-    "images": "figure-25-19.png",
+    "imagesEnglish": "figure-25-19.png",
     "readTimeMinutes": "7"
   },
   {
@@ -3794,7 +3794,7 @@
     "distractor10a": "Mechanical digestion alone",
     "distractor10b": "Blood pressure",
     "distractor10c": "Body temperature",
-    "images": "figure-25-21.png",
+    "imagesEnglish": "figure-25-21.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4641,7 +4641,7 @@
     "distractor77a": "A rabbit has not eaten recently and its blood sugar drops",
     "distractor77b": "There is an overabundance of food available to a rabbit",
     "distractor77c": "A young rabbit with an adequate food source is developing into an adult rabbit",
-    "images": "figure-25-22.png,figure-25-23.png,figure-25-24.png,figure-25-25.png,figure-25-26.png,figure-25-27.png,figure-25-28.png,figure-25-29.png,figure-25-30.png,figure-25-31.png,figure-25-32.png,figure-25-33.png,figure-25-34.png",
+    "imagesEnglish": "figure-25-22.png,figure-25-23.png,figure-25-24.png,figure-25-25.png,figure-25-26.png,figure-25-27.png,figure-25-28.png,figure-25-29.png,figure-25-30.png,figure-25-31.png,figure-25-32.png,figure-25-33.png,figure-25-34.png",
     "readTimeMinutes": "8"
   },
   {
@@ -4698,7 +4698,7 @@
     "distractor10a": "Each neuron performs only one function",
     "distractor10b": "Neurons function only during development",
     "distractor10c": "Neurons cannot process sensory information",
-    "images": "figure-26-1.png",
+    "imagesEnglish": "figure-26-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4755,7 +4755,7 @@
     "distractor10a": "Motor neurons",
     "distractor10b": "Sensory neurons",
     "distractor10c": "Interneurons",
-    "images": "figure-26-2.png",
+    "imagesEnglish": "figure-26-2.png",
     "readTimeMinutes": "16"
   },
   {
@@ -4863,7 +4863,7 @@
     "distractor11a": "All neurons have several dendrites for signal reception",
     "distractor11b": "Dendritic spines decrease possible synaptic connections",
     "distractor11c": "Chemical release at dendrites allows signal communication to other cells",
-    "images": "figure-26-3.png",
+    "imagesEnglish": "figure-26-3.png",
     "readTimeMinutes": "6"
   },
   {
@@ -4920,7 +4920,7 @@
     "distractor10a": "The cerebellum only",
     "distractor10b": "Muscle fibers",
     "distractor10c": "Endocrine glands",
-    "images": "figure-26-4.png,figure-26-5.png",
+    "imagesEnglish": "figure-26-4.png,figure-26-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -4977,7 +4977,7 @@
     "distractor10a": "An electron microscope",
     "distractor10b": "A light microscope",
     "distractor10c": "A scanning probe microscope",
-    "images": "figure-26-6.png",
+    "imagesEnglish": "figure-26-6.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5080,7 +5080,7 @@
     "distractor10a": "They only provide structural support and have no signaling role",
     "distractor10b": "They generate action potentials instead of neurons",
     "distractor10c": "They are found only in the peripheral nervous system",
-    "images": "figure-26-7.png,figure-26-8.png",
+    "imagesEnglish": "figure-26-7.png,figure-26-8.png",
     "readTimeMinutes": "5"
   },
   {
@@ -5183,7 +5183,7 @@
     "distractor8a": "The concentration of ATP inside the neuron",
     "distractor8b": "The amount of neurotransmitter released",
     "distractor8c": "The electrical resistance of the myelin sheath",
-    "images": "figure-26-9.png",
+    "imagesEnglish": "figure-26-9.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5240,7 +5240,7 @@
     "distractor10a": "Na+",
     "distractor10b": "K+",
     "distractor10c": "Organic anions (A−)",
-    "images": "figure-26-10.png",
+    "imagesEnglish": "figure-26-10.png",
     "readTimeMinutes": "7"
   },
   {
@@ -5297,7 +5297,7 @@
     "distractor10a": "The neuron immediately generates another action potential",
     "distractor10b": "The membrane remains permanently hyperpolarized",
     "distractor10c": "The neuron releases neurotransmitters from its dendrites",
-    "images": "figure-26-12.png,figure-26-10.png,figure-26-11.png",
+    "imagesEnglish": "figure-26-12.png,figure-26-10.png,figure-26-11.png",
     "readTimeMinutes": "6"
   },
   {
@@ -5354,7 +5354,7 @@
     "distractor10a": "Action potentials would travel faster because there would be no interruptions",
     "distractor10b": "The neuron would no longer require myelin",
     "distractor10c": "Neurotransmitters would be released directly from the nodes",
-    "images": "figure-26-13.png",
+    "imagesEnglish": "figure-26-13.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5462,7 +5462,7 @@
     "distractor11a": "Glutamate",
     "distractor11b": "Acetylcholine",
     "distractor11c": "Substance P",
-    "images": "figure-26-14.png,figure-26-15.png",
+    "imagesEnglish": "figure-26-14.png,figure-26-15.png",
     "readTimeMinutes": "8"
   },
   {
@@ -5565,7 +5565,7 @@
     "distractor8a": "Only EPSPs influence whether an action potential is generated",
     "distractor8b": "Summation occurs at the axon terminals where neurotransmitters are released",
     "distractor8c": "IPSPs always trigger an action potential",
-    "images": "figure-26-16.png",
+    "imagesEnglish": "figure-26-16.png",
     "readTimeMinutes": "3"
   },
   {
@@ -5622,7 +5622,7 @@
     "distractor10a": "It only works during sleep",
     "distractor10b": "It cannot communicate with computers",
     "distractor10c": "It permanently damages healthy neurons",
-    "images": "figure-26-17.png",
+    "imagesEnglish": "figure-26-17.png",
     "readTimeMinutes": "6"
   },
   {
@@ -5679,7 +5679,7 @@
     "distractor10a": "More chloride ions enter the cell, producing hyperpolarization",
     "distractor10b": "It decreases calcium entry into the neuron",
     "distractor10c": "It prevents glutamate from binding to the postsynaptic membrane",
-    "images": "figure-26-18.png",
+    "imagesEnglish": "figure-26-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -5726,7 +5726,7 @@
     "distractor8a": "Both LTP and LTD remove AMPA receptors",
     "distractor8b": "LTP removes NMDA receptors, whereas LTD inserts NMDA receptors",
     "distractor8c": "Both LTP and LTD increase the number of AMPA receptors",
-    "images": "figure-26-18.png",
+    "imagesEnglish": "figure-26-18.png",
     "readTimeMinutes": "4"
   },
   {
@@ -5788,7 +5788,7 @@
     "distractor11a": "The dura mater produces cerebrospinal fluid in the ventricles",
     "distractor11b": "The pia mater is the outermost protective layer surrounding the skull",
     "distractor11c": "Cerebrospinal fluid is stored only in the spinal cord and not in the brain",
-    "images": "figure-26-19.png",
+    "imagesEnglish": "figure-26-19.png",
     "readTimeMinutes": "14"
   },
   {
@@ -5835,7 +5835,7 @@
     "distractor8a": "Coronal section",
     "distractor8b": "Horizontal section",
     "distractor8c": "Oblique section",
-    "images": "figure-26-20.png,figure-26-21.png",
+    "imagesEnglish": "figure-26-20.png,figure-26-21.png",
     "readTimeMinutes": "2"
   },
   {
@@ -5917,7 +5917,7 @@
     "distractor15a": "A smoother cortex with fewer gyri and sulci",
     "distractor15b": "A larger cerebellum with fewer cortical folds",
     "distractor15c": "A thicker corpus callosum without increased folding",
-    "images": "figure-26-21.png,figure-26-22.png,figure-26-23.png,figure-26-24.png",
+    "imagesEnglish": "figure-26-21.png,figure-26-22.png,figure-26-23.png,figure-26-24.png",
     "readTimeMinutes": "15"
   },
   {
@@ -5949,7 +5949,7 @@
     "distractor5a": "They produce cerebrospinal fluid for the brain",
     "distractor5b": "They are responsible for processing visual information",
     "distractor5c": "They form the protective outer covering of the brain",
-    "images": "figure-26-20.png",
+    "imagesEnglish": "figure-26-20.png",
     "readTimeMinutes": "2"
   },
   {
@@ -5986,7 +5986,7 @@
     "distractor6a": "It is responsible for forming new memories",
     "distractor6b": "It produces myelin around neurons",
     "distractor6c": "It directly controls skeletal muscle contraction",
-    "images": "figure-26-24.png",
+    "imagesEnglish": "figure-26-24.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6028,7 +6028,7 @@
     "distractor7a": "It serves as the primary center for vision",
     "distractor7b": "It forms the outermost layer of the cerebral cortex",
     "distractor7c": "It is responsible for coordinating skeletal muscle movements",
-    "images": "figure-26-24.png",
+    "imagesEnglish": "figure-26-24.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6065,7 +6065,7 @@
     "distractor6a": "The thalamus",
     "distractor6b": "The cerebellum",
     "distractor6c": "The corpus callosum",
-    "images": "figure-26-24.png",
+    "imagesEnglish": "figure-26-24.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6092,7 +6092,7 @@
     "distractor4a": "It is the primary center for vision and hearing",
     "distractor4b": "It regulates endocrine function through the pituitary gland",
     "distractor4c": "It connects the two cerebral hemispheres",
-    "images": "figure-26-21.png",
+    "imagesEnglish": "figure-26-21.png",
     "readTimeMinutes": "1"
   },
   {
@@ -6134,7 +6134,7 @@
     "distractor7a": "It is the primary center for learning and memory",
     "distractor7b": "It controls only voluntary skeletal muscle movement",
     "distractor7c": "It produces hormones that regulate the endocrine system",
-    "images": "figure-26-21.png",
+    "imagesEnglish": "figure-26-21.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6201,7 +6201,7 @@
     "distractor12a": "Gray matter contains only myelinated axons",
     "distractor12b": "White matter contains only interneurons",
     "distractor12c": "Both white and gray matter are composed entirely of sensory neurons",
-    "images": "figure-26-21.png, figure-26-25.png",
+    "imagesEnglish": "figure-26-21.png, figure-26-25.png",
     "readTimeMinutes": "7"
   },
   {
@@ -6289,7 +6289,7 @@
     "distractor6a": "The sympathetic pathway is responsible for resting the body, whereas the parasympathetic pathway is responsible for preparing for an emergency",
     "distractor6b": "Slowing of the heartbeat is a sympathetic response",
     "distractor6c": "Parasympathetic neurons are responsible for releasing norepinephrine on the target organ, whereas sympathetic neurons are responsible for releasing acetylcholine",
-    "images": "figure-26-26.png",
+    "imagesEnglish": "figure-26-26.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6341,7 +6341,7 @@
     "distractor9a": "It permanently increases resting heart rate",
     "distractor9b": "It causes new neurons to form throughout the brain",
     "distractor9c": "It eliminates the need for future sympathetic responses",
-    "images": "figure-26-27.png",
+    "imagesEnglish": "figure-26-27.png",
     "readTimeMinutes": "5"
   },
   {
@@ -6393,7 +6393,7 @@
     "distractor9a": "Increased heart rate, increased blood pressure, and inhibited digestion",
     "distractor9b": "Increased breathing rate, pupil dilation, and blood flow to muscles",
     "distractor9c": "Release of norepinephrine and increased metabolic rate",
-    "images": "figure-26-27.png",
+    "imagesEnglish": "figure-26-27.png",
     "readTimeMinutes": "3"
   },
   {
@@ -6460,7 +6460,7 @@
     "distractor12a": "In the dorsal root ganglia",
     "distractor12b": "In the thalamus",
     "distractor12c": "In the cerebrum",
-    "images": "figure-26-28.png, figure-26-29.png",
+    "imagesEnglish": "figure-26-28.png, figure-26-29.png",
     "readTimeMinutes": "6"
   },
   {
@@ -6604,7 +6604,7 @@
     "distractor12a": "Avoiding all mental activities after retirement",
     "distractor12b": "Sleeping as much as possible and avoiding exercise",
     "distractor12c": "Consuming only high-fat foods",
-    "images": "figure-26-30.png",
+    "imagesEnglish": "figure-26-30.png",
     "readTimeMinutes": "9"
   },
   {
@@ -6661,7 +6661,7 @@
     "distractor10a": "ALS degenerates sensory neurons that control voluntary muscle movement. As the lateral portion of the spine that controls muscle movement hardens, signals are no longer sent to muscles. Initially, muscles weaken but coordination is not affected, and eventually paralysis occurs",
     "distractor10b": "ALS degenerates motor neurons that control voluntary muscle movement. As the lateral portion of the spine that controls muscle movement hardens, signals are no longer sent to muscles. Initially, muscles strengthen and coordination is affected, and eventually paralysis occurs",
     "distractor10c": "ALS degenerates sensory neurons that control voluntary muscle movement. As the lateral portion of the spine that controls muscle movement hardens, signals are no longer sent to muscles. Initially, muscles weaken and coordination is affected, and eventually paralysis occurs",
-    "images": "figure-26-31.png, figure-26-32.png",
+    "imagesEnglish": "figure-26-31.png, figure-26-32.png",
     "readTimeMinutes": "5"
   },
   {
@@ -6866,7 +6866,7 @@
     "distractor11a": "They permanently cure ADHD",
     "distractor11b": "They eliminate all neurotransmitters",
     "distractor11c": "They increase hyperactivity to improve attention",
-    "images": "figure-26-33.png",
+    "imagesEnglish": "figure-26-33.png",
     "readTimeMinutes": "4"
   },
   {
@@ -7749,7 +7749,7 @@
     "distractor34a": "The parietal lobe has been cut, which severs the ability of the left hemisphere from communicating but increases the ability of the right hemisphere",
     "distractor34b": "The corpus callosum has been cut, which severs the ability of the left hemisphere from communicating but increases the ability of the right hemisphere",
     "distractor34c": "The frontal lobe has been cut, which severs the ability of the left and right hemispheres to communicate",
-    "images": "figure-26-22.png,figure-26-34.png,figure-26-35.png,figure-26-36.png,figure-26-37.png,figure-26-38.png,figure-26-39.png,figure-26-40.png,figure-26-41.png,figure-26-42.png,figure-26-43.png,figure-26-44.png",
+    "imagesEnglish": "figure-26-22.png,figure-26-34.png,figure-26-35.png,figure-26-36.png,figure-26-37.png,figure-26-38.png,figure-26-39.png,figure-26-40.png,figure-26-41.png,figure-26-42.png,figure-26-43.png,figure-26-44.png",
     "readTimeMinutes": "10"
   },
   {
@@ -7796,7 +7796,7 @@
     "distractor8a": "Most sharks",
     "distractor8b": "Most aquatic predators",
     "distractor8c": "Most fish",
-    "images": "figure-27-1.png",
+    "imagesEnglish": "figure-27-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -7981,7 +7981,7 @@
     "distractor9a": "Taste receptors directly detect odors",
     "distractor9b": "Olfactory receptors detect sweet, sour, salty, and bitter flavors",
     "distractor9c": "The two systems function completely independently",
-    "images": "figure-27-2.png",
+    "imagesEnglish": "figure-27-2.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8074,7 +8074,7 @@
     "distractor8a": "The ability to detect ultraviolet light",
     "distractor8b": "The number of sensory receptors in the skin",
     "distractor8c": "The speed of nerve impulse conduction",
-    "images": "figure-27-3.png",
+    "imagesEnglish": "figure-27-3.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8126,7 +8126,7 @@
     "distractor9a": "It produces keratin for the epidermis",
     "distractor9b": "It contains the body's sensory cortex",
     "distractor9c": "It prevents all heat loss from the body",
-    "images": "figure-27-4.png",
+    "imagesEnglish": "figure-27-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -8208,7 +8208,7 @@
     "distractor15a": "Meissner's corpuscles extend far into the epidermis",
     "distractor15b": "Ruffini endings are the only encapsulated mechanoreceptors",
     "distractor15c": "Light touch is detected by Pacini corpuscles",
-    "images": "figure-27-5.png,figure-27-6.png,figure-27-7.png",
+    "imagesEnglish": "figure-27-5.png,figure-27-6.png,figure-27-7.png",
     "readTimeMinutes": "15"
   },
   {
@@ -8500,7 +8500,7 @@
     "distractor10a": "It is the only sense that uses mechanoreceptors",
     "distractor10b": "It does not involve sensory neurons",
     "distractor10c": "It is processed only in the spinal cord",
-    "images": "figure-27-8.png",
+    "imagesEnglish": "figure-27-8.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8552,7 +8552,7 @@
     "distractor9a": "The pheromones secreted by a female dissolve and enter the vomeronasal organ. The dissolved molecules bind to receptors, which send a signal to the hypothalamus, which in turn sends the signal to the amygdala",
     "distractor9b": "The pheromones secreted by a female dissolve and enter the amygdala. The dissolved molecules bind to receptors, which send a signal to the vomeronasal organ, which in turn sends the signal to the hypothalamus",
     "distractor9c": "The pheromones secreted by a female dissolve and enter the amygdala. The dissolved molecules bind to receptors, which send a signal to the hypothalamus, which in turn sends the signal to the vomeronasal organ",
-    "images": "figure-27-9.png",
+    "imagesEnglish": "figure-27-9.png",
     "readTimeMinutes": "6"
   },
   {
@@ -8624,7 +8624,7 @@
     "distractor13a": "They steadily improve throughout life",
     "distractor13b": "Only taste declines while smell remains unchanged",
     "distractor13c": "Only smell declines during childhood",
-    "images": "figure-27-10.png,figure-27-11.png",
+    "imagesEnglish": "figure-27-10.png,figure-27-11.png",
     "readTimeMinutes": "8"
   },
   {
@@ -8788,7 +8788,7 @@
     "distractor11a": "About 20 decibels",
     "distractor11b": "About 100 decibels",
     "distractor11c": "About 150 decibels",
-    "images": "figure-27-12.png",
+    "imagesEnglish": "figure-27-12.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8850,7 +8850,7 @@
     "distractor11a": "The malleus",
     "distractor11b": "The incus",
     "distractor11c": "The tympanum",
-    "images": "figure-27-13.png",
+    "imagesEnglish": "figure-27-13.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8922,7 +8922,7 @@
     "distractor13a": "Hearing loss resulting from absence or loss of hair cells in the organ of Corti",
     "distractor13b": "Hearing loss resulting from fracture of the cochlea",
     "distractor13c": "Hearing loss resulting from damage to bones of the middle ear",
-    "images": "figure-27-14.png,figure-27-2.png",
+    "imagesEnglish": "figure-27-14.png,figure-27-2.png",
     "readTimeMinutes": "14"
   },
   {
@@ -9040,7 +9040,7 @@
     "distractor12a": "Constant speed",
     "distractor12b": "Absolute position",
     "distractor12c": "Body temperature",
-    "images": "figure-27-15.png",
+    "imagesEnglish": "figure-27-15.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9184,7 +9184,7 @@
     "distractor11a": "It absorbs red wavelengths and reflects all others",
     "distractor11b": "It emits red light continuously",
     "distractor11c": "It reflects all wavelengths equally",
-    "images": "figure-27-16.png",
+    "imagesEnglish": "figure-27-16.png",
     "readTimeMinutes": "6"
   },
   {
@@ -9246,7 +9246,7 @@
     "distractor11a": "Because cones are concentrated at the edges of the retina",
     "distractor11b": "Because the fovea contains mostly rods",
     "distractor11c": "Because the lens enlarges in darkness",
-    "images": "figure-27-17.png,figure-27-18.png",
+    "imagesEnglish": "figure-27-17.png,figure-27-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9303,7 +9303,7 @@
     "distractor10a": "Visual receptors depolarize more rapidly than other sensory neurons",
     "distractor10b": "Visual receptors generate larger action potentials than other sensory neurons",
     "distractor10c": "Visual receptors do not respond to stimuli",
-    "images": "figure-27-19.png,figure-27-20.png",
+    "imagesEnglish": "figure-27-19.png,figure-27-20.png",
     "readTimeMinutes": "3"
   },
   {
@@ -9360,7 +9360,7 @@
     "distractor10a": "Monochromatic",
     "distractor10b": "Trichromatic",
     "distractor10c": "Tetrachromatic",
-    "images": "figure-27-21.png",
+    "imagesEnglish": "figure-27-21.png",
     "readTimeMinutes": "3"
   },
   {
@@ -9417,7 +9417,7 @@
     "distractor10a": "Photoreceptors permanently change color",
     "distractor10b": "The lens refracts light differently after prolonged viewing",
     "distractor10c": "The optic nerve generates random color signals",
-    "images": "figure-27-22.png",
+    "imagesEnglish": "figure-27-22.png",
     "readTimeMinutes": "8"
   },
   {
@@ -10186,7 +10186,7 @@
     "distractor56a": "Some signals go to the temporal lobe, which detects 'where” information, and other signals go to the parietal lobe, which detects 'where” and 'what” signals",
     "distractor56b": "Some signals go to the parietal lobe, which detects 'where” information, and other signals go to the temporal lobe, which detects 'what” signals",
     "distractor56c": "Some signals go to the parietal lobe, which detects 'where” and 'what” information and other signals go to the temporal lobe, which also detects 'where” and 'what” signals",
-    "images": "figure-27-13.png,figure-27-21.png,figure-27-23.png,figure-27-24.png,figure-27-25.png,figure-27-26.png,figure-27-27.png,figure-27-28.png,figure-27-29.png,figure-27-30.png",
+    "imagesEnglish": "figure-27-13.png,figure-27-21.png,figure-27-23.png,figure-27-24.png,figure-27-25.png,figure-27-26.png,figure-27-27.png,figure-27-28.png,figure-27-29.png,figure-27-30.png",
     "readTimeMinutes": "15"
   },
   {
@@ -10233,7 +10233,7 @@
     "distractor8a": "The discovery of a hormone that permanently increases muscle mass",
     "distractor8b": "The development of a hormone that replaces oxygen transport in blood",
     "distractor8c": "The discovery of a hormone that eliminates the need for sleep",
-    "images": "figure-28-1.png",
+    "imagesEnglish": "figure-28-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10336,7 +10336,7 @@
     "distractor9a": "Testosterone",
     "distractor9b": "Aldosterone",
     "distractor9c": "Estradiol",
-    "images": "figure-28-2.png",
+    "imagesEnglish": "figure-28-2.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10378,7 +10378,7 @@
     "distractor7a": "Cortisol",
     "distractor7b": "Testosterone",
     "distractor7c": "Aldosterone",
-    "images": "figure-28-3.png",
+    "imagesEnglish": "figure-28-3.png",
     "readTimeMinutes": "2"
   },
   {
@@ -10425,7 +10425,7 @@
     "distractor8a": "Inside the cytoplasm",
     "distractor8b": "Inside the nucleus",
     "distractor8c": "Within mitochondria",
-    "images": "figure-28-4.png",
+    "imagesEnglish": "figure-28-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10584,7 +10584,7 @@
     "distractor10a": "Heat is a stimulus that prevents hormone binding",
     "distractor10b": "Heat is a stimulus that facilitates hormone binding",
     "distractor10c": "Heat is a stimulus that facilitates binding of a hormone-receptor complex to a hormone response element",
-    "images": "figure-28-5.png",
+    "imagesEnglish": "figure-28-5.png",
     "readTimeMinutes": "4"
   },
   {
@@ -10641,7 +10641,7 @@
     "distractor10a": "It converts ATP into cAMP",
     "distractor10b": "It activates protein kinases",
     "distractor10c": "It binds hormones to membrane receptors",
-    "images": "figure-28-6.png",
+    "imagesEnglish": "figure-28-6.png",
     "readTimeMinutes": "8"
   },
   {
@@ -10749,7 +10749,7 @@
     "distractor10a": "It decreases aldosterone release and promotes water loss",
     "distractor10b": "It inhibits ADH secretion and dilates blood vessels",
     "distractor10c": "It directly converts glycogen into glucose",
-    "images": "figure-28-7.png",
+    "imagesEnglish": "figure-28-7.png",
     "readTimeMinutes": "12"
   },
   {
@@ -10888,7 +10888,7 @@
     "distractor9a": "Erythropoietin decreases blood viscosity, which makes it difficult for blood to circulate within the body",
     "distractor9b": "Erythropoietin increases the activity of anorexigenic neurons, which makes it difficult for blood to circulate within the body",
     "distractor9c": "Erythropoietin increases blood viscosity, which reduces hunger and promotes a feeling of satiety",
-    "images": "figure-28-8.png",
+    "imagesEnglish": "figure-28-8.png",
     "readTimeMinutes": "4"
   },
   {
@@ -10945,7 +10945,7 @@
     "distractor10a": "It stimulates milk production by mammary gland cells",
     "distractor10b": "It increases prolactin synthesis in the pituitary",
     "distractor10c": "It inhibits milk secretion until weaning",
-    "images": "figure-28-9.png",
+    "imagesEnglish": "figure-28-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11038,7 +11038,7 @@
     "distractor11a": "A pancreatic tumor and Type 1 diabetes will have opposite effects on blood sugar levels",
     "distractor11b": "A pancreatic tumor and Type 1 diabetes can both cause hypoglycemia",
     "distractor11c": "Both pancreatic tumors and Type 1 diabetes result in the inability of cells to take up glucose",
-    "images": "figure-28-10.png,figure-28-11.png",
+    "imagesEnglish": "figure-28-10.png,figure-28-11.png",
     "readTimeMinutes": "10"
   },
   {
@@ -11151,7 +11151,7 @@
     "distractor10a": "Only during adulthood",
     "distractor10b": "Only during exercise",
     "distractor10c": "Only during dehydration",
-    "images": "figure-28-12.png",
+    "imagesEnglish": "figure-28-12.png",
     "readTimeMinutes": "7"
   },
   {
@@ -11208,7 +11208,7 @@
     "distractor10a": "Pituitary dwarfism",
     "distractor10b": "Gigantism",
     "distractor10c": "Hypothyroidism",
-    "images": "figure-28-13.png",
+    "imagesEnglish": "figure-28-13.png",
     "readTimeMinutes": "7"
   },
   {
@@ -11459,7 +11459,7 @@
     "distractor9a": "TSH increases production of TRH",
     "distractor9b": "TSH decreases production of T3",
     "distractor9c": "T3 increases production of T4",
-    "images": "figure-28-14.png,figure-28-14-1.png",
+    "imagesEnglish": "figure-28-14.png,figure-28-14-1.png",
     "readTimeMinutes": "8"
   },
   {
@@ -11660,7 +11660,7 @@
     "distractor10a": "Thyroid follicles",
     "distractor10b": "Pancreatic beta cells",
     "distractor10c": "Parathyroid chief cells",
-    "images": "figure-28-15.png",
+    "imagesEnglish": "figure-28-15.png",
     "readTimeMinutes": "4"
   },
   {
@@ -11809,7 +11809,7 @@
     "distractor9a": "By stimulating osteoclast activity and increasing calcium absorption",
     "distractor9b": "By increasing PTH secretion",
     "distractor9c": "By increasing calcium release from bone",
-    "images": "figure-28-16.png",
+    "imagesEnglish": "figure-28-16.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11866,7 +11866,7 @@
     "distractor10a": "They produce parathyroid hormone",
     "distractor10b": "They produce calcitonin",
     "distractor10c": "They produce thyroid hormones",
-    "images": "figure-28-17.png",
+    "imagesEnglish": "figure-28-17.png",
     "readTimeMinutes": "3"
   },
   {
@@ -11903,7 +11903,7 @@
     "distractor6a": "They produce identical hormones",
     "distractor6b": "Only the adrenal medulla produces hormones",
     "distractor6c": "Only the adrenal cortex contains blood vessels",
-    "images": "figure-28-18.png",
+    "imagesEnglish": "figure-28-18.png",
     "readTimeMinutes": "1"
   },
   {
@@ -12062,7 +12062,7 @@
     "distractor9a": "They both increase blood glucose levels",
     "distractor9b": "They both decrease blood glucose levels",
     "distractor9c": "They regulate blood calcium levels",
-    "images": "figure-28-19.png,figure-28-20.png",
+    "imagesEnglish": "figure-28-19.png,figure-28-20.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13138,7 +13138,7 @@
     "distractor81a": "ability to lower blood glucose levels",
     "distractor81b": "urine production",
     "distractor81c": "body heat regulation",
-    "images": "figure-28-14.png,figure-28-21.png,figure-28-22.png,figure-28-23.png,figure-28-24.png,figure-28-25.png,figure-28-26.png,figure-28-27.png,figure-28-28.png,figure-28-29.png,figure-28-30.png,figure-28-31.png,figure-28-32.png,figure-28-33.png,figure-28-34.png,figure-28-35.png,figure-28-36.png,figure-28-37.png,figure-28-38.png",
+    "imagesEnglish": "figure-28-14.png,figure-28-21.png,figure-28-22.png,figure-28-23.png,figure-28-24.png,figure-28-25.png,figure-28-26.png,figure-28-27.png,figure-28-28.png,figure-28-29.png,figure-28-30.png,figure-28-31.png,figure-28-32.png,figure-28-33.png,figure-28-34.png,figure-28-35.png,figure-28-36.png,figure-28-37.png,figure-28-38.png",
     "readTimeMinutes": "18"
   },
   {
@@ -13190,7 +13190,7 @@
     "distractor9a": "They function only without muscles",
     "distractor9b": "They are controlled exclusively by voice commands",
     "distractor9c": "They replace the entire nervous system",
-    "images": "figure-29-1.png",
+    "imagesEnglish": "figure-29-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -13273,7 +13273,7 @@
     "distractor7a": "It cannot generate any movement",
     "distractor7b": "It prevents muscle attachment",
     "distractor7c": "It cannot contain body fluids",
-    "images": "figure-29-2.png",
+    "imagesEnglish": "figure-29-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -13320,7 +13320,7 @@
     "distractor8a": "Because molting strengthens their muscles",
     "distractor8b": "Because the exoskeleton produces too much calcium",
     "distractor8c": "Because molting is required for reproduction",
-    "images": "figure-29-3.png",
+    "imagesEnglish": "figure-29-3.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13367,7 +13367,7 @@
     "distractor8a": "By expanding and contracting with fluid pressure",
     "distractor8b": "By shedding and reforming during movement",
     "distractor8c": "By secreting chitin around the muscles",
-    "images": "figure-29-4.png",
+    "imagesEnglish": "figure-29-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13409,7 +13409,7 @@
     "distractor7a": "It replaces damaged limb bones",
     "distractor7b": "It forms all appendicular joints",
     "distractor7c": "It produces cartilage for limb growth",
-    "images": "figure-29-5.png",
+    "imagesEnglish": "figure-29-5.png",
     "readTimeMinutes": "2"
   },
   {
@@ -13466,7 +13466,7 @@
     "distractor10a": "It encloses the brain",
     "distractor10b": "It forms the roof of the mouth",
     "distractor10c": "It transmits sound vibrations to the cochlea",
-    "images": "figure-29-6.png,figure-29-7.png",
+    "imagesEnglish": "figure-29-6.png,figure-29-7.png",
     "readTimeMinutes": "5"
   },
   {
@@ -13523,7 +13523,7 @@
     "distractor10a": "It becomes softer and more flexible",
     "distractor10b": "It is replaced by bone tissue",
     "distractor10c": "It disappears completely",
-    "images": "figure-29-8.png",
+    "imagesEnglish": "figure-29-8.png",
     "readTimeMinutes": "6"
   },
   {
@@ -13575,7 +13575,7 @@
     "distractor9a": "Rib pairs 1 and 2",
     "distractor9b": "Rib pairs 5 and 6",
     "distractor9c": "Rib pairs 9 and 10",
-    "images": "figure-29-9.png",
+    "imagesEnglish": "figure-29-9.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13617,7 +13617,7 @@
     "distractor7a": "The axial skeleton",
     "distractor7b": "The thoracic cage",
     "distractor7c": "The vertebral column",
-    "images": "figure-29-10.png",
+    "imagesEnglish": "figure-29-10.png",
     "readTimeMinutes": "1"
   },
   {
@@ -13669,7 +13669,7 @@
     "distractor9a": "The joint connecting the scapula to the clavicle",
     "distractor9b": "The cavity that holds the head of the humerus",
     "distractor9c": "The thin edge of the scapula that protects the ribs",
-    "images": "figure-29-11.png",
+    "imagesEnglish": "figure-29-11.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13726,7 +13726,7 @@
     "distractor10a": "Each finger has two phalanges, while the thumb has three",
     "distractor10b": "All digits have three phalanges",
     "distractor10c": "All digits have two phalanges",
-    "images": "figure-29-12.png",
+    "imagesEnglish": "figure-29-12.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13773,7 +13773,7 @@
     "distractor8a": "It has a narrower pubic angle and a smaller pelvic canal",
     "distractor8b": "It contains more bones than the male pelvis",
     "distractor8c": "It has a larger sacrum but a smaller pelvic canal",
-    "images": "figure-29-13.png",
+    "imagesEnglish": "figure-29-13.png",
     "readTimeMinutes": "3"
   },
   {
@@ -13830,7 +13830,7 @@
     "distractor10a": "Each toe has two phalanges, except the big toe, which has three",
     "distractor10b": "All toes have three phalanges",
     "distractor10c": "All toes have two phalanges",
-    "images": "figure-29-14.png,figure-29-15.png",
+    "imagesEnglish": "figure-29-14.png,figure-29-15.png",
     "readTimeMinutes": "6"
   },
   {
@@ -13933,7 +13933,7 @@
     "distractor10a": "Within bone marrow cavities",
     "distractor10b": "Between the ribs",
     "distractor10c": "Inside the cranial cavity",
-    "images": "figure-29-16.png,figure-29-17.png,figure-29-18.png",
+    "imagesEnglish": "figure-29-16.png,figure-29-17.png,figure-29-18.png",
     "readTimeMinutes": "7"
   },
   {
@@ -14021,7 +14021,7 @@
     "distractor8a": "To increase flexibility of the bone",
     "distractor8b": "To reduce the amount of calcium in the bone",
     "distractor8c": "To produce blood cells more efficiently",
-    "images": "figure-29-19.png",
+    "imagesEnglish": "figure-29-19.png",
     "readTimeMinutes": "3"
   },
   {
@@ -14068,7 +14068,7 @@
     "distractor8a": "Because it contains no compact bone",
     "distractor8b": "Because it stores the body's calcium reserves",
     "distractor8c": "Because it experiences almost no mechanical stress",
-    "images": "figure-29-20.png",
+    "imagesEnglish": "figure-29-20.png",
     "readTimeMinutes": "5"
   },
   {
@@ -14268,7 +14268,7 @@
     "distractor9a": "It produces red blood cells",
     "distractor9b": "It anchors tendons to bone",
     "distractor9c": "It stores calcium for the body",
-    "images": "figure-29-21.png",
+    "imagesEnglish": "figure-29-21.png",
     "readTimeMinutes": "4"
   },
   {
@@ -14376,7 +14376,7 @@
     "distractor10a": "The hematoma enlarges and replaces the bone",
     "distractor10b": "The fibrocartilaginous callus becomes permanent",
     "distractor10c": "The bone is replaced by cartilage",
-    "images": "figure-29-22.png",
+    "imagesEnglish": "figure-29-22.png",
     "readTimeMinutes": "7"
   },
   {
@@ -14474,7 +14474,7 @@
     "distractor10a": "Fibrous joints",
     "distractor10b": "Cartilaginous joints",
     "distractor10c": "Bony joints",
-    "images": "figure-29-23.png,figure-29-24.png,figure-29-25.png",
+    "imagesEnglish": "figure-29-23.png,figure-29-24.png,figure-29-25.png",
     "readTimeMinutes": "7"
   },
   {
@@ -14633,7 +14633,7 @@
     "distractor10a": "The elbow and knee joints",
     "distractor10b": "The wrist and ankle joints",
     "distractor10c": "The thumb and finger joints",
-    "images": "figure-29-26.png,figure-29-27.png,figure-29-28.png,figure-29-29.png,figure-29-30.png,figure-29-31.png,figure-29-32.png",
+    "imagesEnglish": "figure-29-26.png,figure-29-27.png,figure-29-28.png,figure-29-29.png,figure-29-30.png,figure-29-31.png,figure-29-32.png",
     "readTimeMinutes": "7"
   },
   {
@@ -14746,7 +14746,7 @@
     "distractor10a": "Smooth muscle",
     "distractor10b": "Cardiac muscle",
     "distractor10c": "Visceral muscle",
-    "images": "figure-29-33.png",
+    "imagesEnglish": "figure-29-33.png",
     "readTimeMinutes": "14"
   },
   {
@@ -14803,7 +14803,7 @@
     "distractor10a": "It stores calcium ions",
     "distractor10b": "It anchors thick filaments at the center of the sarcomere",
     "distractor10c": "It produces ATP for muscle contraction",
-    "images": "figure-29-34.png,figure-29-35.png",
+    "imagesEnglish": "figure-29-34.png,figure-29-35.png",
     "readTimeMinutes": "9"
   },
   {
@@ -14855,7 +14855,7 @@
     "distractor9a": "It decreases",
     "distractor9b": "It remains unchanged",
     "distractor9c": "It disappears completely",
-    "images": "figure-29-36.png",
+    "imagesEnglish": "figure-29-36.png",
     "readTimeMinutes": "4"
   },
   {
@@ -14907,7 +14907,7 @@
     "distractor9a": "To bind calcium to troponin",
     "distractor9b": "To shorten the actin filament",
     "distractor9c": "To lengthen the myosin filament",
-    "images": "figure-29-37.png",
+    "imagesEnglish": "figure-29-37.png",
     "readTimeMinutes": "6"
   },
   {
@@ -15005,7 +15005,7 @@
     "distractor9a": "Sarcomere",
     "distractor9b": "sarcoplasm",
     "distractor9c": "sarcolemma",
-    "images": "figure-29-38.png",
+    "imagesEnglish": "figure-29-38.png",
     "readTimeMinutes": "15"
   },
   {
@@ -15992,7 +15992,7 @@
     "distractor44a": "Voluntary muscles cannot be consciously controlled, such as cardiac muscles. Involuntary muscles can be controlled by an individual’s will, such as skeletal muscles",
     "distractor44b": "Voluntary muscles can be controlled by an individual’s will, such as cardiac muscles. Involuntary muscles cannot be consciously controlled, such as skeletal muscles",
     "distractor44c": "Voluntary muscles cannot be consciously controlled, such as the movement of legs while walking. Involuntary muscles can be controlled by an individual’s will, such as muscles in the digestive system",
-    "images": "figure-29-25.png,figure-29-39.png,figure-29-40.png",
+    "imagesEnglish": "figure-29-25.png,figure-29-39.png,figure-29-40.png",
     "readTimeMinutes": "13"
   }
 ]
