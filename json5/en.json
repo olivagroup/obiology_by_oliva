@@ -110,7 +110,7 @@
     "distractor7a": "The color of the capsid and envelope",
     "distractor7b": "The number of proteins in the virus",
     "distractor7c": "The age of the infected host",
-    "images": "figure-21-1.png,figure-21-2.png",
+    "imagesEnglish": "figure-21-1.png,figure-21-2.png",
     "readTimeMinutes": "5"
   },
   {
@@ -198,7 +198,7 @@
     "distractor9a": "Viruses are very similar in structure",
     "distractor9b": "The capsomere is made up of small protein subunits called capsids",
     "distractor9c": "DNA is the genetic material in all viruses",
-    "images": "figure-21-3.png,figure-21-4.png",
+    "imagesEnglish": "figure-21-3.png,figure-21-4.png",
     "readTimeMinutes": "10"
   },
   {
@@ -296,7 +296,7 @@
     "distractor9a": "Because viruses are too small to classify",
     "distractor9b": "Because viruses all have identical genomes",
     "distractor9c": "Because viruses cannot be grouped by morphology",
-    "images": "figure-21-3.png,figure-21-4.png,figure-21-5.png,figure-21-6.png,figure-21-7.png",
+    "imagesEnglish": "figure-21-3.png,figure-21-4.png,figure-21-5.png,figure-21-6.png,figure-21-7.png",
     "readTimeMinutes": "7"
   },
   {
@@ -445,7 +445,7 @@
     "distractor9a": "The virus can live dormant in the host cell",
     "distractor9b": "The virus capsid is upgraded",
     "distractor9c": "Lysis causes the host cell to die",
-    "images": "figure-21-8.png",
+    "imagesEnglish": "figure-21-8.png",
     "readTimeMinutes": "11"
   },
   {
@@ -533,7 +533,7 @@
     "distractor10a": "In the lytic cycle, new phage are produced and released into the environment",
     "distractor10b": "In the lysogenic cycle, phage DNA is incorporated into the host genome",
     "distractor10c": "Bacteriophages are viruses that infect bacteria",
-    "images": "figure-21-9.png,figure-21-10.png",
+    "imagesEnglish": "figure-21-9.png,figure-21-10.png",
     "readTimeMinutes": "4"
   },
   {
@@ -590,7 +590,7 @@
     "distractor10a": "Influenza virus",
     "distractor10b": "Rabies virus",
     "distractor10c": "Rhinovirus",
-    "images": "figure-21-11.png,figure-21-12.png",
+    "imagesEnglish": "figure-21-11.png,figure-21-12.png",
     "readTimeMinutes": "13"
   },
   {
@@ -647,7 +647,7 @@
     "distractor10a": "abnormal growth patterns",
     "distractor10b": "discoloration",
     "distractor10c": "hypoplasia",
-    "images": "figure-21-13.png",
+    "imagesEnglish": "figure-21-13.png",
     "readTimeMinutes": "8"
   },
   {
@@ -679,7 +679,7 @@
     "distractor5a": "Viruses cannot be detected by the immune system",
     "distractor5b": "Viruses always remain outside host cells",
     "distractor5c": "Viruses reproduce too slowly to be targeted by medicine",
-    "images": "figure-21-14.png",
+    "imagesEnglish": "figure-21-14.png",
     "readTimeMinutes": "3"
   },
   {
@@ -731,7 +731,7 @@
     "distractor9a": "Influenza",
     "distractor9b": "Hepatitis C",
     "distractor9c": "Rabies",
-    "images": "figure-21-15.png",
+    "imagesEnglish": "figure-21-15.png",
     "readTimeMinutes": "8"
   },
   {
@@ -788,7 +788,7 @@
     "distractor10a": "Integrase inhibitors",
     "distractor10b": "Reverse transcriptase inhibitors",
     "distractor10c": "Protease inhibitors",
-    "images": "figure-21-16.png,figure-21-17.png",
+    "imagesEnglish": "figure-21-16.png,figure-21-17.png",
     "readTimeMinutes": "12"
   },
   {
@@ -922,7 +922,7 @@
     "distractor9a": "Complete calcification of the brain",
     "distractor9b": "Enlargement of the cerebral cortex",
     "distractor9c": "Loss of the spinal cord only",
-    "images": "figure-21-18.png",
+    "imagesEnglish": "figure-21-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -974,7 +974,7 @@
     "distractor9a": "They contain a protein capsid and DNA genome",
     "distractor9b": "They are infectious proteins",
     "distractor9c": "They infect only animal cells",
-    "images": "figure-21-19.png",
+    "imagesEnglish": "figure-21-19.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1016,7 +1016,7 @@
     "distractor7a": "The American Society of Genetics",
     "distractor7b": "The National Science Foundation",
     "distractor7c": "The World Health Organization",
-    "images": "figure-21-20.png",
+    "imagesEnglish": "figure-21-20.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1589,7 +1589,7 @@
     "distractor47a": "True, because when the host cell experiences unfavorable conditions, it stops dividing and remains in the same state",
     "distractor47b": "True, because the host cell in both the replication stage and during unfavorable conditions stays in the lysogenic cycle as it is more suitable the lytic cycle",
     "distractor47c": "False, because when the host cell experiences unfavorable conditions, the virus enters a latency period",
-    "images": "figure-21-4.png,figure-21-18.png,figure-21-21.png,figure-21-22.png,figure-21-23.png,figure-21-24.png,figure-21-25.png,figure-21-26.png",
+    "imagesEnglish": "figure-21-4.png,figure-21-18.png,figure-21-21.png,figure-21-22.png,figure-21-23.png,figure-21-24.png,figure-21-25.png,figure-21-26.png",
     "readTimeMinutes": "9"
   },
   {
@@ -1626,7 +1626,7 @@
     "distractor6a": "To eliminate all microorganisms from the human body",
     "distractor6b": "To create new species of bacteria",
     "distractor6c": "To sequence only human DNA",
-    "images": "figure-22-1.png",
+    "imagesEnglish": "figure-22-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1755,7 +1755,7 @@
     "distractor7a": "The evolution of aerobic respiration",
     "distractor7b": "The development of multicellularity",
     "distractor7c": "The evolution of mitosis",
-    "images": "figure-22-2.png",
+    "imagesEnglish": "figure-22-2.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1792,7 +1792,7 @@
     "distractor6a": "Yellowstone National Park, Wyoming",
     "distractor6b": "The Great Salt Lake, Utah",
     "distractor6c": "The Amazon Rainforest, Brazil",
-    "images": "figure-22-3.png",
+    "imagesEnglish": "figure-22-3.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1834,7 +1834,7 @@
     "distractor7a": "They caused all prokaryotes to become extinct",
     "distractor7b": "They prevented organisms from colonizing land",
     "distractor7c": "They stopped the formation of microbial mats",
-    "images": "figure-22-4.png",
+    "imagesEnglish": "figure-22-4.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1881,7 +1881,7 @@
     "distractor8a": "They require eukaryotic host cells",
     "distractor8b": "They cannot produce ATP in moderate conditions",
     "distractor8c": "They lack protective cell walls",
-    "images": "figure-22-5.png",
+    "imagesEnglish": "figure-22-5.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1923,7 +1923,7 @@
     "distractor7a": "Bacteria",
     "distractor7b": "Eukarya",
     "distractor7c": "Protista",
-    "images": "figure-22-6.png",
+    "imagesEnglish": "figure-22-6.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1970,7 +1970,7 @@
     "distractor8a": "It must infect every known species",
     "distractor8b": "It must always be visible with a light microscope",
     "distractor8c": "It must survive without nutrients",
-    "images": "figure-22-7.png",
+    "imagesEnglish": "figure-22-7.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2012,7 +2012,7 @@
     "distractor7a": "They rapidly evaporate when exposed to disinfectants",
     "distractor7b": "They can only be destroyed by freezing",
     "distractor7c": "They continuously produce new antibiotics",
-    "images": "figure-22-8.png",
+    "imagesEnglish": "figure-22-8.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2069,7 +2069,7 @@
     "distractor10a": "Bacilli",
     "distractor10b": "Cocci",
     "distractor10c": "Coccobacilli",
-    "images": "figure-22-9.png",
+    "imagesEnglish": "figure-22-9.png",
     "readTimeMinutes": "9"
   },
   {
@@ -2126,7 +2126,7 @@
     "distractor10a": "They contain membrane-bound nuclei and mitochondria",
     "distractor10b": "They are always multicellular organisms",
     "distractor10c": "They lack DNA but contain RNA only",
-    "images": "figure-22-10.png,figure-22-11.png,figure-22-12.png,figure-22-13.png,figure-22-14.png",
+    "imagesEnglish": "figure-22-10.png,figure-22-11.png,figure-22-12.png,figure-22-13.png,figure-22-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2183,7 +2183,7 @@
     "distractor10a": "They contain no lipids",
     "distractor10b": "They are made entirely of cellulose",
     "distractor10c": "They lack glycerol molecules",
-    "images": "figure-22-14.png",
+    "imagesEnglish": "figure-22-14.png",
     "readTimeMinutes": "2"
   },
   {
@@ -2240,7 +2240,7 @@
     "distractor10a": "Porins allow entry of substances into both Gram-positive and Gram-negative bacteria",
     "distractor10b": "The cell wall of Gram-negative bacteria is thick, and the cell wall of Gram-positive bacteria is thin",
     "distractor10c": "Gram-negative bacteria have a cell wall made of peptidoglycan, whereas Gram-positive bacteria have a cell wall made of lipoteichoic acid",
-    "images": "figure-22-15.png,figure-22-16.png",
+    "imagesEnglish": "figure-22-15.png,figure-22-16.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2297,7 +2297,7 @@
     "distractor10a": "They reproduce by meiosis and fertilization",
     "distractor10b": "They undergo mitosis several times before dividing",
     "distractor10c": "They have multiple linear chromosomes that recombine every generation",
-    "images": "figure-22-17.png",
+    "imagesEnglish": "figure-22-17.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2522,7 +2522,7 @@
     "distractor10a": "Plants convert methane directly into glucose",
     "distractor10b": "Animals respire methane into oxygen",
     "distractor10c": "Fungi convert methane into nitrogen gas",
-    "images": "figure-22-18.png",
+    "imagesEnglish": "figure-22-18.png",
     "readTimeMinutes": "6"
   },
   {
@@ -2579,7 +2579,7 @@
     "distractor10a": "Nitrogen-fixing bacteria exist on the root nodules of legumes and in the soil",
     "distractor10b": "Denitrifying bacteria convert nitrates (NO3-) into nitrogen gas (N2)",
     "distractor10c": "Ammonification is the process by which ammonium ion (NH4+) is released from decomposing organic compounds",
-    "images": "figure-22-19.png",
+    "imagesEnglish": "figure-22-19.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2692,7 +2692,7 @@
     "distractor10a": "The Plague of Athens",
     "distractor10b": "The Plague of Justinian",
     "distractor10c": "The Spanish flu",
-    "images": "figure-22-20.png,figure-22-21.png",
+    "imagesEnglish": "figure-22-20.png,figure-22-21.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2749,7 +2749,7 @@
     "distractor10a": "All major infectious diseases will soon be eradicated",
     "distractor10b": "Emerging diseases are becoming less common worldwide",
     "distractor10c": "Vaccines have eliminated the need to monitor infectious diseases",
-    "images": "figure-22-22.png,figure-22-23.png",
+    "imagesEnglish": "figure-22-22.png,figure-22-23.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2918,7 +2918,7 @@
     "distractor10a": "Bacteria cannot be grown in laboratories",
     "distractor10b": "New antibiotics are discovered every few months",
     "distractor10c": "Clinical trials are unnecessary for antibiotics",
-    "images": "figure-22-24.png",
+    "imagesEnglish": "figure-22-24.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2975,7 +2975,7 @@
     "distractor10a": "E. coli can no longer infect humans",
     "distractor10b": "Foodborne illnesses are becoming less common",
     "distractor10c": "Only animal products can transmit E. coli",
-    "images": "figure-22-25.png",
+    "imagesEnglish": "figure-22-25.png",
     "readTimeMinutes": "7"
   },
   {
@@ -3032,7 +3032,7 @@
     "distractor10a": "To eliminate all bacteria from the environment",
     "distractor10b": "To classify all organisms into domains",
     "distractor10c": "To increase microbial diversity",
-    "images": "figure-22-26.png",
+    "imagesEnglish": "figure-22-26.png",
     "readTimeMinutes": "4"
   },
   {
@@ -3145,7 +3145,7 @@
     "distractor10a": "Corn",
     "distractor10b": "Rice",
     "distractor10c": "Wheat",
-    "images": "figure-22-27.png",
+    "imagesEnglish": "figure-22-27.png",
     "readTimeMinutes": "8"
   },
   {
@@ -3198,7 +3198,7 @@
     "chapterName": "5. Biological Diversity | 22. Prokaryotes: Bacteria and Archaeae | 22.5 Beneficial Prokaryotes | Using Prokaryotes to Clean up Our Planet: Bioremediation",
     "chapterNameEnglish": "5. Biological Diversity | 22. Prokaryotes: Bacteria and Archaeae | 22.5 Beneficial Prokaryotes | Using Prokaryotes to Clean up Our Planet: Bioremediation",
     "chapterContent": "Microbial bioremediation is the use of prokaryotes (or microbial metabolism) to remove pollutants. Bioremediation has been used to remove agricultural chemicals (pesticides, fertilizers) that leach from soil into groundwater and the subsurface. Certain toxic metals and oxides, such as selenium and arsenic compounds, can also be removed from water by bioremediation. The reduction of SeO4-2 to SeO3-2 and to Se0 (metallic selenium) is a method used to remove selenium ions from water. Mercury is an example of a toxic metal that can be removed from an environment by bioremediation. As an active ingredient of some pesticides, mercury is used in industry and is also a by-product of certain processes, such as battery production. Methyl mercury is usually present in very low concentrations in natural environments, but it is highly toxic because it accumulates in living tissues. Several species of bacteria can carry out the biotransformation of toxic mercury into nontoxic forms. These bacteria, such as Pseudomonas aeruginosa, can convert Hg+2 into Hg0, which is nontoxic to humans.\n\nOne of the most useful and interesting examples of the use of prokaryotes for bioremediation purposes is the cleanup of oil spills. The importance of prokaryotes to petroleum bioremediation has been demonstrated in several oil spills in recent years, such as the Exxon Valdez spill in Alaska (1989) (Figure 22.28), the Prestige oil spill in Spain (2002), the spill into the Mediterranean from a Lebanon power plant (2006), and more recently, the Deepwater Horizon oil spill in the Gulf of Mexico (2010). To clean up these spills, bioremediation is promoted by the addition of inorganic nutrients that help bacteria to grow. Hydrocarbon-degrading bacteria feed on hydrocarbons in the oil droplet, breaking down the hydrocarbons. Some species, such as Alcanivorax borkumensis, produce surfactants that solubilize the oil, whereas other bacteria degrade the oil into carbon dioxide. In the case of oil spills in the ocean, ongoing, natural bioremediation tends to occur, inasmuch as there are oil-consuming bacteria in the ocean prior to the spill. In addition to naturally occurring oil-degrading bacteria, humans select and engineer bacteria that possess the same capability with increased efficacy and spectrum of hydrocarbon compounds that can be processed. Under ideal conditions, it has been reported that up to 80 percent of the nonvolatile components in oil can be degraded within one year of the spill. Other oil fractions containing aromatic and highly branched hydrocarbon chains are more difficult to remove and remain in the environment for longer periods of time.\n\nA particularly fascinating example of our normal flora relates to our digestive systems. People who take high doses of antibiotics tend to lose many of their normal gut bacteria, allowing a naturally antibiotic-resistant species called Clostridium difficile to overgrow and cause severe gastric problems, especially chronic diarrhea. Obviously, trying to treat this problem with antibiotics only makes it worse. However, it has been successfully treated by giving the patients fecal transplants from healthy donors to reestablish the normal intestinal microbial community. Scientists are also discovering that the absence of certain key microbes from our intestinal tract may set us up for a variety of problems including obesity, insulin resistance, and autoimmune disorders. Pictured here is a scanning electron micrograph of Clostridium difficile, a Gram-positive, rod-shaped bacterium that causes severe diarrhea. Infection commonly occurs after the normal gut fauna is eradicated by antibiotics",
-    "images": "figure-22-28.png,figure-22-29.png",
+    "imagesEnglish": "figure-22-28.png,figure-22-29.png",
     "question1": "What is microbial bioremediation?",
     "answer1": "The use of prokaryotes or microbial metabolism to remove pollutants",
     "distractor1a": "The use of viruses to produce antibiotics",
@@ -4052,7 +4052,7 @@
     "distractor93a": "In some cases it is mutualistic and in others it is commensalistic",
     "distractor93b": "It is almost always parasitic",
     "distractor93c": "It is almost always mutualistic",
-    "images": "figure-22-10.png,figure-22-19.png,figure-22-24.png,figure-22-28.png,figure-22-30.png,figure-22-30-1.png,figure-22-31.png,figure-22-32.png,figure-22-33.png,figure-22-34.png,figure-22-35.png,figure-22-36.png,figure-22-37.png,figure-22-38.png,figure-22-39.png,figure-22-40.png,figure-22-41.png,figure-22-42.png,figure-22-43.png",
+    "imagesEnglish": "figure-22-10.png,figure-22-19.png,figure-22-24.png,figure-22-28.png,figure-22-30.png,figure-22-30-1.png,figure-22-31.png,figure-22-32.png,figure-22-33.png,figure-22-34.png,figure-22-35.png,figure-22-36.png,figure-22-37.png,figure-22-38.png,figure-22-39.png,figure-22-40.png,figure-22-41.png,figure-22-42.png,figure-22-43.png",
     "readTimeMinutes": "19"
   }
 ]
