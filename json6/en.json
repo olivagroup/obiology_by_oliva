@@ -38,7 +38,7 @@
     "distractor7a": "They greatly increase the rate of photosynthesis",
     "distractor7b": "They improve nitrogen fixation in soil",
     "distractor7c": "They permanently prevent plants from losing water",
-    "images": "figure-23-1.png",
+    "imagesEnglish": "figure-23-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -121,7 +121,7 @@
     "distractor7a": "To carry out photosynthesis and reproduction",
     "distractor7b": "To produce flowers and fruits",
     "distractor7c": "To transport sugars throughout the plant",
-    "images": "figure-23-2.png",
+    "imagesEnglish": "figure-23-2.png",
     "readTimeMinutes": "2"
   },
   {
@@ -203,7 +203,7 @@
     "distractor15a": "The vascular bundle",
     "distractor15b": "The cortex",
     "distractor15c": "The epidermis",
-    "images": "figure-23-3.png",
+    "imagesEnglish": "figure-23-3.png",
     "readTimeMinutes": "8"
   },
   {
@@ -270,7 +270,7 @@
     "distractor12a": "The lateral meristem",
     "distractor12b": "The vascular cambium",
     "distractor12c": "The cork cambium",
-    "images": "figure-23-4.png",
+    "imagesEnglish": "figure-23-4.png",
     "readTimeMinutes": "6"
   },
   {
@@ -342,7 +342,7 @@
     "distractor13a": "The companion cells of the phloem are parenchyma cells",
     "distractor13b": "Fiber cells of the sclerenchyma",
     "distractor13c": "Sieve elements and tracheids of the xylem",
-    "images": "figure-23-5.png,figure-23-6.png,figure-23-7.png",
+    "imagesEnglish": "figure-23-5.png,figure-23-6.png,figure-23-7.png",
     "readTimeMinutes": "4"
   },
   {
@@ -394,7 +394,7 @@
     "distractor9a": "Reducing transpiration",
     "distractor9b": "Increasing solar reflectance",
     "distractor9c": "Storing defensive compounds against herbivores",
-    "images": "figure-23-8.png",
+    "imagesEnglish": "figure-23-8.png",
     "readTimeMinutes": "3"
   },
   {
@@ -466,7 +466,7 @@
     "distractor13a": "Because they carry out photosynthesis",
     "distractor13b": "Because they transport water upward",
     "distractor13c": "Because they form the bark of woody plants",
-    "images": "figure-23-9.png",
+    "imagesEnglish": "figure-23-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -554,7 +554,7 @@
     "distractor10a": "Growth continues throughout the life of the plant",
     "distractor10b": "Only secondary growth occurs",
     "distractor10c": "Only root growth continues",
-    "images": "figure-23-10.png",
+    "imagesEnglish": "figure-23-10.png",
     "readTimeMinutes": "3"
   },
   {
@@ -687,7 +687,7 @@
     "distractor15a": "They transport sugars from the leaves",
     "distractor15b": "They absorb water from the soil",
     "distractor15c": "They produce secondary xylem",
-    "images": "figure-23-10.png,figure-23-11.png",
+    "imagesEnglish": "figure-23-10.png,figure-23-11.png",
     "readTimeMinutes": "5"
   },
   {
@@ -734,7 +734,7 @@
     "distractor8a": "The amount of nitrogen in the soil",
     "distractor8b": "The number of leaves produced each year",
     "distractor8c": "The rate of photosynthesis during winter",
-    "images": "figure-23-12.png",
+    "imagesEnglish": "figure-23-12.png",
     "readTimeMinutes": "3"
   },
   {
@@ -796,7 +796,7 @@
     "distractor11a": "They are modified roots that replace stems",
     "distractor11b": "They are modified leaves used only for photosynthesis",
     "distractor11c": "They occur only in aquatic plants",
-    "images": "figure-23-13.png,figure-23-14.png",
+    "imagesEnglish": "figure-23-13.png,figure-23-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -879,7 +879,7 @@
     "distractor7a": "Rice",
     "distractor7b": "Wheat",
     "distractor7c": "Lawn grass",
-    "images": "figure-23-15.png",
+    "imagesEnglish": "figure-23-15.png",
     "readTimeMinutes": "3"
   },
   {
@@ -926,7 +926,7 @@
     "distractor8a": "The cortex",
     "distractor8b": "The pith",
     "distractor8c": "The epidermis",
-    "images": "figure-23-16.png,figure-23-17.png,figure-23-18.png",
+    "imagesEnglish": "figure-23-16.png,figure-23-17.png,figure-23-18.png",
     "readTimeMinutes": "7"
   },
   {
@@ -968,7 +968,7 @@
     "distractor7a": "To increase seed production",
     "distractor7b": "To improve pollination",
     "distractor7c": "To store water for photosynthesis",
-    "images": "figure-23-19.png,figure-23-20.png",
+    "imagesEnglish": "figure-23-19.png,figure-23-20.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1056,7 +1056,7 @@
     "distractor8a": "Corn",
     "distractor8b": "Oak",
     "distractor8c": "Maple",
-    "images": "figure-23-21.png,figure-23-22.png",
+    "imagesEnglish": "figure-23-21.png,figure-23-22.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1139,7 +1139,7 @@
     "distractor7a": "Poison ivy",
     "distractor7b": "Buckeye",
     "distractor7c": "Schefflera",
-    "images": "figure-23-23.png",
+    "imagesEnglish": "figure-23-23.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1186,7 +1186,7 @@
     "distractor8a": "To transport water and minerals to the leaf",
     "distractor8b": "To regulate transpiration",
     "distractor8c": "To absorb carbon dioxide",
-    "images": "figure-23-24.png,figure-23-25.png,figure-23-26.png,figure-23-27.png",
+    "imagesEnglish": "figure-23-24.png,figure-23-25.png,figure-23-26.png,figure-23-27.png",
     "readTimeMinutes": "7"
   },
   {
@@ -1279,7 +1279,7 @@
     "distractor9a": "The insects are skewered on spikes and thorns that rim the funnel-shaped leaf",
     "distractor9b": "The insects ingest narcotics secreted by the leaf and fall into the funnel-shaped leaf",
     "distractor9c": "The insects are poisoned by lethal compounds in the nectar",
-    "images": "figure-23-28.png,figure-23-29.png,figure-23-30.png",
+    "imagesEnglish": "figure-23-28.png,figure-23-29.png,figure-23-30.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1372,7 +1372,7 @@
     "distractor8a": "Gravity potential (Ψg)",
     "distractor8b": "Matric potential (Ψm)",
     "distractor8c": "Atmospheric pressure",
-    "images": "figure-23-31.png",
+    "imagesEnglish": "figure-23-31.png",
     "readTimeMinutes": "7"
   },
   {
@@ -1424,7 +1424,7 @@
     "distractor9a": "Yes, water level can be equalized by adding solute to the right side of the tube so that water moves toward the left until the water levels are equal",
     "distractor9b": "Yes, water level can be equalized by adding solute to the left side of the tube so that water moves toward the left until the water levels are equal",
     "distractor9c": "No, water level cannot be equalized by adding solutes because solutes are always pulled down by gravity, thereby not letting water equalize",
-    "images": "figure-23-32.png",
+    "imagesEnglish": "figure-23-32.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1471,7 +1471,7 @@
     "distractor8a": "-0.6 to -0.8 MPa",
     "distractor8b": "2.5–3.0 MPa",
     "distractor8c": "0.0–0.1 MPa",
-    "images": "figure-23-32.png,figure-23-33.png",
+    "imagesEnglish": "figure-23-32.png,figure-23-33.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1605,7 +1605,7 @@
     "distractor9a": "Negative water potential draws water into the root hairs, cohesion and adhesion draw water up the xylem, and transpiration draws water from the leaf",
     "distractor9b": "Water potential decreases from the roots to the top of the plant",
     "distractor9c": "Water enters the plant through the root hairs and exits through stomata",
-    "images": "figure-23-34.png",
+    "imagesEnglish": "figure-23-34.png",
     "readTimeMinutes": "8"
   },
   {
@@ -1657,7 +1657,7 @@
     "distractor9a": "Larger stomata on the upper epidermis",
     "distractor9b": "Thinner cuticles",
     "distractor9c": "Fewer vascular bundles",
-    "images": "figure-23-35.png",
+    "imagesEnglish": "figure-23-35.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1750,7 +1750,7 @@
     "distractor8a": "It remains permanently inside the phloem",
     "distractor8b": "It is converted into sucrose",
     "distractor8c": "It diffuses into the atmosphere directly from the phloem",
-    "images": "figure-23-36.png,figure-23-37.png",
+    "imagesEnglish": "figure-23-36.png,figure-23-37.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1894,7 +1894,7 @@
     "distractor9a": "It occurs only after long nights",
     "distractor9b": "It occurs only after short nights",
     "distractor9c": "It depends exclusively on the Pr/Pfr ratio",
-    "images": "figure-23-38.png",
+    "imagesEnglish": "figure-23-38.png",
     "readTimeMinutes": "13"
   },
   {
@@ -1946,7 +1946,7 @@
     "distractor9a": "Translocation of sucrose in the phloem",
     "distractor9b": "Seed germination in response to red light",
     "distractor9c": "Formation of xylem vessels",
-    "images": "figure-23-39.png",
+    "imagesEnglish": "figure-23-39.png",
     "readTimeMinutes": "7"
   },
   {
@@ -2223,7 +2223,7 @@
     "distractor8a": "Transpiration",
     "distractor8b": "Photosynthesis",
     "distractor8c": "Root hair formation",
-    "images": "figure-23-40.png",
+    "imagesEnglish": "figure-23-40.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2413,7 +2413,7 @@
     "distractor9a": "Its leaves become thicker",
     "distractor9b": "Its stem immediately coils around nearby objects",
     "distractor9c": "Its flowers close permanently",
-    "images": "figure-23-14.png,figure-23-24.png,figure-23-41.png",
+    "imagesEnglish": "figure-23-14.png,figure-23-24.png,figure-23-41.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3609,7 +3609,7 @@
     "distractor117a": "to shorten the internode distance and accommodate larger fruit",
     "distractor117b": "to lengthen the internode distance and accommodate more flowers",
     "distractor117c": "to shorten the internode distance and accommodate more fruit",
-    "images": "figure-23-34.png,figure-23-42.png,figure-23-43.png,figure-23-44.png,figure-23-45.png,figure-23-46.png,figure-23-47.png,figure-23-48.png,figure-23-49.png,figure-23-50.png,figure-23-51.png,figure-23-52.png,figure-23-53.png,figure-23-54.png",
+    "imagesEnglish": "figure-23-34.png,figure-23-42.png,figure-23-43.png,figure-23-44.png,figure-23-45.png,figure-23-46.png,figure-23-47.png,figure-23-48.png,figure-23-49.png,figure-23-50.png,figure-23-51.png,figure-23-52.png,figure-23-53.png,figure-23-54.png",
     "readTimeMinutes": "16"
   }
 ]
