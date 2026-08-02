@@ -43,7 +43,7 @@
     "distractor8a": "Sexual reproduction allows cells to divide more rapidly than mitosis",
     "distractor8b": "Sexual reproduction eliminates the need for DNA replication",
     "distractor8c": "Sexual reproduction guarantees that all offspring are genetically identical to the parent",
-    "images": "figure-11-1.png",
+    "imagesEnglish": "figure-11-1.png",
     "readTimeMinutes": "6"
   },
   {
@@ -182,7 +182,7 @@
     "distractor10a": "It initiates DNA replication before meiosis II",
     "distractor10b": "It allows sister chromatids to separate during meiosis I",
     "distractor10c": "It prevents homologous chromosomes from pairing during synapsis",
-    "images": "figure-11-2.png,figure-11-3.png",
+    "imagesEnglish": "figure-11-2.png,figure-11-3.png",
     "readTimeMinutes": "9"
   },
   {
@@ -280,7 +280,7 @@
     "distractor10a": "The number of chromosomes in a diploid cell after meiosis",
     "distractor10b": "The number of crossover events expected during meiosis",
     "distractor10c": "The number of genes found on chromosome 23",
-    "images": "figure-11-4.png",
+    "imagesEnglish": "figure-11-4.png",
     "readTimeMinutes": "8"
   },
   {
@@ -337,7 +337,7 @@
     "distractor10a": "46 individual chromatids",
     "distractor10b": "23 individual chromatids",
     "distractor10c": "46 chromosomes, each composed of two sister chromatids",
-    "images": "figure-11-5.png",
+    "imagesEnglish": "figure-11-5.png",
     "readTimeMinutes": "1"
   },
   {
@@ -450,7 +450,7 @@
     "distractor10a": "Metaphase I",
     "distractor10b": "Prophase II",
     "distractor10c": "Anaphase I",
-    "images": "figure-11-6.png",
+    "imagesEnglish": "figure-11-6.png",
     "readTimeMinutes": "5"
   },
   {
@@ -507,7 +507,7 @@
     "distractor10a": "Sister chromatids separate during anaphase",
     "distractor10b": "Chromosomes condense before division",
     "distractor10c": "Spindle fibers attach to kinetochores",
-    "images": "figure-11-7.png",
+    "imagesEnglish": "figure-11-7.png",
     "readTimeMinutes": "7"
   },
   {
@@ -788,7 +788,7 @@
     "distractor10a": "Haploid-dominant life cycle",
     "distractor10b": "Alternation of generations",
     "distractor10c": "Asexual life cycle",
-    "images": "figure-11-8.png",
+    "imagesEnglish": "figure-11-8.png",
     "readTimeMinutes": "2"
   },
   {
@@ -845,7 +845,7 @@
     "distractor10a": "No, because the sexual mode of reproduction is the only mode of reproduction in fungi",
     "distractor10b": "No, because the absence of minus mating types will disrupt biological functions in fungi",
     "distractor10c": "Yes, the fungus will be able to reproduce asexually by action of some enzymes",
-    "images": "figure-11-9.png",
+    "imagesEnglish": "figure-11-9.png",
     "readTimeMinutes": "2"
   },
   {
@@ -902,7 +902,7 @@
     "distractor10a": "Diploid-dominant life cycle",
     "distractor10b": "Haploid-dominant life cycle",
     "distractor10c": "Binary fission",
-    "images": "figure-11-10.png",
+    "imagesEnglish": "figure-11-10.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1234,7 +1234,7 @@
     "distractor7a": "All genes follow Mendel's laws without exception",
     "distractor7b": "Modern genetics has replaced Mendel's principles completely",
     "distractor7c": "They explain chromosome mutations rather than inheritance",
-    "images": "figure-12-1.png",
+    "imagesEnglish": "figure-12-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1316,7 +1316,7 @@
     "distractor15a": "1/2; the sum rule",
     "distractor15b": "3/4; the product rule",
     "distractor15c": "1/4; the sum rule",
-    "images": "figure-12-2.png",
+    "imagesEnglish": "figure-12-2.png",
     "readTimeMinutes": "15"
   },
   {
@@ -1409,7 +1409,7 @@
     "distractor8a": "The F1 generation could not produce seeds",
     "distractor8b": "The F2 generation contained only dominant traits",
     "distractor8c": "The F1 generation lacked homologous chromosomes",
-    "images": "figure-12-3.png",
+    "imagesEnglish": "figure-12-3.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1892,7 +1892,7 @@
     "distractor10a": "They were homozygous dominant (YY)",
     "distractor10b": "They were homozygous recessive (yy)",
     "distractor10c": "They carried three alleles for seed color",
-    "images": "figure-12-4.png",
+    "imagesEnglish": "figure-12-4.png",
     "readTimeMinutes": "10"
   },
   {
@@ -1949,7 +1949,7 @@
     "distractor10a": "1-aa, 2-AA, 3-AA",
     "distractor10b": "1-aa, 2-Aa, 3-AA",
     "distractor10c": "1-Aa, 2-Aa, 3-Aa",
-    "images": "figure-12-5.png,figure-12-6.png",
+    "imagesEnglish": "figure-12-5.png,figure-12-6.png",
     "readTimeMinutes": "4"
   },
   {
@@ -2062,7 +2062,7 @@
     "distractor10a": "25%",
     "distractor10b": "75%",
     "distractor10c": "100%",
-    "images": "figure-12-7.png",
+    "imagesEnglish": "figure-12-7.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2175,7 +2175,7 @@
     "distractor10a": "The mutant allele is recessive and cannot affect the phenotype",
     "distractor10b": "The individual must carry three alleles for the gene",
     "distractor10c": "The mutation prevents chromosome segregation during meiosis",
-    "images": "figure-12-8.png,figure-12-9.png",
+    "imagesEnglish": "figure-12-8.png,figure-12-9.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2232,7 +2232,7 @@
     "distractor10a": "The drug-resistant dhps allele is co-dominant with the wild type allele",
     "distractor10b": "Only one dhps allele is present during all stages of the P. falciparum life cycle",
     "distractor10c": "The drug-resistant dhps allele prevents the wild type allele from being expressed",
-    "images": "figure-12-10.png",
+    "imagesEnglish": "figure-12-10.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2289,7 +2289,7 @@
     "distractor10a": "50% of the offspring are male and hemizygous dominant with red eyes and 50% are male hemizygous recessive with white eyes. 50% are female and heterozygous with red eyes and 50% are female and homozygous recessive with white eyes",
     "distractor10b": "25% of the males are hemizygous dominant with red eyes and 50% of the male are hemizygous recessive with white eyes. 25% females are heterozygous with red eyes and 50% of the females are homozygous with white eyes",
     "distractor10c": "50% of the males are hemizygous dominant with red eyes and 25% of the male are hemizygous recessive with white eyes. 50% females are heterozygous with red eyes and 25% are females and homozygous recessive with white eyes",
-    "images": "figure-12-11.png,figure-12-12.png",
+    "imagesEnglish": "figure-12-11.png,figure-12-12.png",
     "readTimeMinutes": "7"
   },
   {
@@ -2346,7 +2346,7 @@
     "distractor10a": "Affected fathers pass the disorder to all of their sons through the Y chromosome",
     "distractor10b": "Only females inherit X-linked recessive disorders because they have two X chromosomes",
     "distractor10c": "The disorder is dominant and therefore appears equally in both sexes",
-    "images": "figure-12-13.png",
+    "imagesEnglish": "figure-12-13.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2403,7 +2403,7 @@
     "distractor10a": "50%",
     "distractor10b": "33%",
     "distractor10c": "75%",
-    "images": "figure-12-14.png",
+    "imagesEnglish": "figure-12-14.png",
     "readTimeMinutes": "8"
   },
   {
@@ -2572,7 +2572,7 @@
     "distractor10a": "Both alleles always contribute equally to the phenotype",
     "distractor10b": "Recessive alleles are not inherited by offspring",
     "distractor10c": "Dominant alleles are expressed only in homozygous individuals",
-    "images": "figure-12-15.png",
+    "imagesEnglish": "figure-12-15.png",
     "readTimeMinutes": "2"
   },
   {
@@ -2690,7 +2690,7 @@
     "distractor11a": "ppYY, Ppyy, ppYY, ppyy yielding white flowers with yellow peas, purple flowers with yellow peas, and white flowers with green peas. You can find this with a 3 × 3 Punnett square",
     "distractor11b": "PPYY, PpYy, ppYY, ppyy yielding purple flowers with yellow peas, white flowers with yellow peas, and white flowers with green peas. You can find this with a 2 × 2 Punnett square",
     "distractor11c": "Ppyy, PpYy, ppYY, ppyy yielding purple flowers with green peas, purple flowers with yellow peas, white flowers with yellow peas, and white flowers with green peas. You can find this with a 3 × 3 Punnett square",
-    "images": "figure-12-16.png",
+    "imagesEnglish": "figure-12-16.png",
     "readTimeMinutes": "9"
   },
   {
@@ -2747,7 +2747,7 @@
     "distractor10a": "Because the forked-line method ignores recessive alleles",
     "distractor10b": "Because Punnett squares cannot analyze independently assorting genes",
     "distractor10c": "Because the forked-line method only predicts dominant phenotypes",
-    "images": "figure-12-17.png",
+    "imagesEnglish": "figure-12-17.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2896,7 +2896,7 @@
     "distractor10a": "Pea plants do not undergo crossing over",
     "distractor10b": "Linked genes only occur in animals, not plants",
     "distractor10c": "Mendel only studied haploid cells, where linkage cannot occur",
-    "images": "figure-12-18.png",
+    "imagesEnglish": "figure-12-18.png",
     "readTimeMinutes": "10"
   },
   {
@@ -2953,7 +2953,7 @@
     "distractor10a": "Both parents are homozygous dominant for brown eyes",
     "distractor10b": "Both parents are heterozygous with recessive brown-eye alleles",
     "distractor10c": "Both parents are homozygous for the green-eye trait",
-    "images": "figure-12-20.png",
+    "imagesEnglish": "figure-12-20.png",
     "readTimeMinutes": "10"
   },
   {
@@ -3428,7 +3428,7 @@
     "distractor49a": "Codominance",
     "distractor49b": "Incomplete dominance",
     "distractor49c": "Partial linkage",
-    "images": "figure-12-12.png,figure-12-21.png",
+    "imagesEnglish": "figure-12-12.png,figure-12-21.png",
     "readTimeMinutes": "13"
   },
   {
@@ -3460,7 +3460,7 @@
     "distractor5a": "Environment always overrides all genetic effects",
     "distractor5b": "Environment has no role in behavioral traits",
     "distractor5c": "Environment changes the number of X chromosomes inherited",
-    "images": "figure-13-1.png",
+    "imagesEnglish": "figure-13-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -3563,7 +3563,7 @@
     "distractor10a": "Gregor Mendel",
     "distractor10b": "Walter Sutton",
     "distractor10c": "Theodor Boveri",
-    "images": "figure-13-2.png",
+    "imagesEnglish": "figure-13-2.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3803,7 +3803,7 @@
     "distractor18a": "Recombination of the red/brown eye and long/short aristae alleles will occur more frequently than recombination of the alleles for wing length and body color",
     "distractor18b": "Recombination of the body color and red/cinnabar eye alleles will occur more frequently than recombination of the alleles for wing length and aristae length",
     "distractor18c": "Recombination of the gray/black body color and long/short aristae alleles will not occur",
-    "images": "figure-13-4.png",
+    "imagesEnglish": "figure-13-4.png",
     "readTimeMinutes": "12"
   },
   {
@@ -3981,7 +3981,7 @@
     "distractor15a": "It determines chromosome function",
     "distractor15b": "It predicts inheritance patterns",
     "distractor15c": "It identifies protein sequences",
-    "images": "figure-13-5.png",
+    "imagesEnglish": "figure-13-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -4073,7 +4073,7 @@
     "distractor17a": "They can determine every future trait of a child",
     "distractor17b": "They can prevent nondisjunction during meiosis",
     "distractor17c": "They can identify all single-gene mutations",
-    "images": "figure-13-5.png",
+    "imagesEnglish": "figure-13-5.png",
     "readTimeMinutes": "8"
   },
   {
@@ -4155,7 +4155,7 @@
     "distractor15a": "Nondisjunction only results in gametes with n+1 or n−1 chromosomes",
     "distractor15b": "Nondisjunction during meiosis I results in 50% normal gametes",
     "distractor15c": "Nondisjunction always results in four different kinds of gametes",
-    "images": "figure-13-6.png",
+    "imagesEnglish": "figure-13-6.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4237,7 +4237,7 @@
     "distractor15a": "Because extra chromosomes prevent DNA replication",
     "distractor15b": "Because extra chromosomes stop fertilization",
     "distractor15c": "Because extra chromosomes eliminate all dominant alleles",
-    "images": "figure-13-7.png",
+    "imagesEnglish": "figure-13-7.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4304,7 +4304,7 @@
     "distractor12a": "Polyploidy is equally common in both plants and animals",
     "distractor12b": "Polyploidy is common only in mammals",
     "distractor12c": "Polyploidy occurs only in animals",
-    "images": "figure-13-8.png",
+    "imagesEnglish": "figure-13-8.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4386,7 +4386,7 @@
     "distractor15a": "It develops into a normal male",
     "distractor15b": "It develops into a normal female",
     "distractor15c": "It develops with Klinefelter syndrome",
-    "images": "figure-13-9.png",
+    "imagesEnglish": "figure-13-9.png",
     "readTimeMinutes": "7"
   },
   {
@@ -4428,7 +4428,7 @@
     "distractor7a": "Blue skin at birth",
     "distractor7b": "Excessive body hair",
     "distractor7c": "Complete absence of crying",
-    "images": "figure-13-10.png",
+    "imagesEnglish": "figure-13-10.png",
     "readTimeMinutes": "2"
   },
   {
@@ -4505,7 +4505,7 @@
     "distractor14a": "It guarantees perfectly accurate recombination",
     "distractor14b": "It prevents homologous chromosomes from pairing",
     "distractor14c": "It causes immediate chromosome duplication",
-    "images": "figure-13-11.png,figure-13-12.png",
+    "imagesEnglish": "figure-13-11.png,figure-13-12.png",
     "readTimeMinutes": "5"
   },
   {
@@ -4618,7 +4618,7 @@
     "distractor6a": "Genetic information is always duplicated",
     "distractor6b": "Half of the genetic information is lost",
     "distractor6c": "New genes are always created",
-    "images": "figure-13-13.png",
+    "imagesEnglish": "figure-13-13.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4842,7 +4842,7 @@
     "distractor18a": "more severe than Down syndrome, due to gene deletions in this syndrome",
     "distractor18b": "more severe than Down syndrome, due to trisomy in Klinefelter syndrome",
     "distractor18c": "less severe than Down syndrome, due to monosomy in Down Syndrome",
-    "images": "figure-13-6.png,figure-13-14.png,figure-13-15.png,figure-13-16.png,figure-13-17.png,figure-13-18.png",
+    "imagesEnglish": "figure-13-6.png,figure-13-14.png,figure-13-15.png,figure-13-16.png,figure-13-17.png,figure-13-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -5011,7 +5011,7 @@
     "distractor18a": "They proved proteins carry genetic information",
     "distractor18b": "They demonstrated bacterial transformation",
     "distractor18c": "They explained DNA replication directly",
-    "images": "figure-14-2.png,figure-14-3.png,figure-14-4.png",
+    "imagesEnglish": "figure-14-2.png,figure-14-3.png,figure-14-4.png",
     "readTimeMinutes": "14"
   },
   {
@@ -5174,7 +5174,7 @@
     "distractor20a": "Alpha helices and beta sheets",
     "distractor20b": "Ribosomes and nucleosomes",
     "distractor20c": "Centromeres and telomeres",
-    "images": "figure-14-5.png,figure-14-6.png,figure-14-7.png",
+    "imagesEnglish": "figure-14-5.png,figure-14-6.png,figure-14-7.png",
     "readTimeMinutes": "8"
   },
   {
@@ -5266,7 +5266,7 @@
     "distractor17a": "The gel is coated with antibodies",
     "distractor17b": "The gel is frozen",
     "distractor17c": "The gel is exposed to ultraviolet radiation without staining",
-    "images": "figure-14-8.png,figure-14-9.png",
+    "imagesEnglish": "figure-14-8.png,figure-14-9.png",
     "readTimeMinutes": "7"
   },
   {
@@ -5343,7 +5343,7 @@
     "distractor14a": "Viruses have genome sizes that are larger than bacteria",
     "distractor14b": "Simple eukaryotes have genome sizes similar to bacteria",
     "distractor14c": "Mammals have much larger genomes than simpler animals",
-    "images": "figure-14-1.png",
+    "imagesEnglish": "figure-14-1.png",
     "readTimeMinutes": "6"
   },
   {
@@ -5430,7 +5430,7 @@
     "distractor16a": "Compartmentalization in prokaryotic cells enables the building of more complex proteins and RNA products. In eukaryotes, the advantage is that RNA and protein synthesis occurs much more quickly because they occur in a single compartment",
     "distractor16b": "Compartmentalization in eukaryotic cells enables the building of simpler proteins and RNA products. In prokaryotes, the advantage is only simpler proteins and RNA products because complex ones are not needed",
     "distractor16c": "Compartmentalization in eukaryotic cells enables the building of more complex proteins and RNA products. In prokaryotes, the advantage is that RNA and protein synthesis takes more time because it occurs in a single compartment",
-    "images": "figure-14-10.png,figure-14-11.png",
+    "imagesEnglish": "figure-14-10.png,figure-14-11.png",
     "readTimeMinutes": "6"
   },
   {
@@ -5538,7 +5538,7 @@
     "distractor15a": "One daughter cell receives both parental strands",
     "distractor15b": "Each daughter cell receives only newly synthesized DNA",
     "distractor15c": "DNA is randomly distributed between daughter cells",
-    "images": "figure-14-12.png,figure-14-13.png",
+    "imagesEnglish": "figure-14-12.png,figure-14-13.png",
     "readTimeMinutes": "7"
   },
   {
@@ -5736,7 +5736,7 @@
     "distractor23a": "DNA polymerase III",
     "distractor23b": "helicase",
     "distractor23c": "topoisomerase",
-    "images": "figure-14-14.png",
+    "imagesEnglish": "figure-14-14.png",
     "readTimeMinutes": "18"
   },
   {
@@ -5849,7 +5849,7 @@
     "distractor10a": "They prevent DNA polymerase from reaching chromosome ends",
     "distractor10b": "They permanently stop chromosomes from shortening",
     "distractor10c": "They replace all damaged genes after every cell division",
-    "images": "figure-14-15.png,figure-14-16.png",
+    "imagesEnglish": "figure-14-15.png,figure-14-16.png",
     "readTimeMinutes": "5"
   },
   {
@@ -6048,7 +6048,7 @@
     "distractor16a": "Cells stop dividing immediately",
     "distractor16b": "DNA replication becomes completely error-free",
     "distractor16c": "Mutations occur only in noncoding DNA",
-    "images": "figure-14-17.png,figure-14-18.png,figure-14-19.png,figure-14-20.png,figure-14-21.png,figure-14-22.png",
+    "imagesEnglish": "figure-14-17.png,figure-14-18.png,figure-14-19.png,figure-14-20.png,figure-14-21.png,figure-14-22.png",
     "readTimeMinutes": "14"
   },
   {
@@ -6552,7 +6552,7 @@
     "distractor68a": "Substitution mutations may cause multiple amino acid changes, increasing chances that a new protein will form, leading to radically different characteristics in the offspring. Frameshift mutations may cause a different amino acid to be placed at a specific location, causing small changes in a protein",
     "distractor68b": "Substitution mutations may cause a different amino acid to be placed at a specific location, resulting in major changes to the protein and leading to radically different characteristics in the offspring. Frameshift mutations cause multiple amino acid differences in a protein, leading to small changes in the protein",
     "distractor68c": "Substitution mutations result in a different amino acid being placed at a specific position in a protein, causing small changes. Silent mutations could result in new characteristics possessed by an offspring when a stop codon is substituted for an amino acid",
-    "images": "figure-14-23.png,figure-14-24.png,figure-14-25.png,figure-14-26.png,figure-14-27.png,figure-14-28.png",
+    "imagesEnglish": "figure-14-23.png,figure-14-24.png,figure-14-25.png,figure-14-26.png,figure-14-27.png,figure-14-28.png",
     "readTimeMinutes": "14"
   },
   {
@@ -6599,7 +6599,7 @@
     "distractor8a": "Genes are proteins that directly build chromosomes",
     "distractor8b": "Genes exist only in reproductive cells",
     "distractor8c": "Genes are produced only when mutations occur",
-    "images": "figure-15-1.png",
+    "imagesEnglish": "figure-15-1.png",
     "readTimeMinutes": "2"
   },
   {
@@ -6696,7 +6696,7 @@
     "distractor18a": "mRNA",
     "distractor18b": "tRNA",
     "distractor18c": "miRNA",
-    "images": "figure-15-2.png",
+    "imagesEnglish": "figure-15-2.png",
     "readTimeMinutes": "15"
   },
   {
@@ -6743,7 +6743,7 @@
     "distractor8a": "The last amino acid in the polypeptide",
     "distractor8b": "Only the DNA molecule",
     "distractor8c": "The ribosome, but not the protein sequence",
-    "images": "figure-15-3.png",
+    "imagesEnglish": "figure-15-3.png",
     "readTimeMinutes": "3"
   },
   {
@@ -6800,7 +6800,7 @@
     "distractor10a": "The genetic code is overlapping",
     "distractor10b": "The genetic code is ambiguous",
     "distractor10c": "The genetic code is discontinuous",
-    "images": "figure-15-4.png,figure-15-5.png",
+    "imagesEnglish": "figure-15-4.png,figure-15-5.png",
     "readTimeMinutes": "8"
   },
   {
@@ -6990,7 +6990,7 @@
     "distractor8a": "Long mRNA molecules that contain multiple genes",
     "distractor8b": "RNA primers synthesized before DNA replication",
     "distractor8c": "Fragments of degraded mRNA removed after translation",
-    "images": "figure-15-7.png",
+    "imagesEnglish": "figure-15-7.png",
     "readTimeMinutes": "3"
   },
   {
@@ -7032,7 +7032,7 @@
     "distractor7a": "It remains permanently attached to RNA polymerase throughout transcription",
     "distractor7b": "It synthesizes the mRNA molecule independently",
     "distractor7c": "It terminates transcription by binding the stop codon",
-    "images": "figure-15-8.png",
+    "imagesEnglish": "figure-15-8.png",
     "readTimeMinutes": "2"
   },
   {
@@ -7079,7 +7079,7 @@
     "distractor8a": "DNA replication of the same gene",
     "distractor8b": "Formation of nucleosomes around the mRNA",
     "distractor8c": "Splicing of introns from the mRNA",
-    "images": "figure-15-9.png",
+    "imagesEnglish": "figure-15-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7238,7 +7238,7 @@
     "distractor10a": "Initially the bacterium will not transcribe it, but will transcribe after 5’ capping",
     "distractor10b": "It will not transcribe it because there is no poly A tail in prokaryotes",
     "distractor10c": "Yes, the bacterium would transcribe the eukaryotic gene",
-    "images": "figure-15-10.png,figure-15-11.png",
+    "imagesEnglish": "figure-15-10.png,figure-15-11.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7290,7 +7290,7 @@
     "distractor9a": "A mutation that abolished activity of SF1 would increase the effect of a SRY mutation, making the person more feminine",
     "distractor9b": "A mutation that abolished activity of SF1 would cancel out a mutation in SRY, so if both mutations occur together male sex characteristics would develop normally",
     "distractor9c": "A mutation in the SRY protein that abolished activity would result in abnormal development of male sex characteristics but a mutation of SF1 would not",
-    "images": "figure-15-12.png",
+    "imagesEnglish": "figure-15-12.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7485,7 +7485,7 @@
     "distractor11a": "Mutations in the spliceosome recognition sequence at each end of an intron, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also add new spliceosome recognition sites",
     "distractor11b": "Mutations in the spliceosome recognition sequence at each end of an exon, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also add new spliceosome recognition sites",
     "distractor11c": "Mutations in the spliceosome recognition sequence at each end of an intron, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also delete existing spliceosome recognition sites",
-    "images": "figure-15-14.png",
+    "imagesEnglish": "figure-15-14.png",
     "readTimeMinutes": "10"
   },
   {
@@ -7542,7 +7542,7 @@
     "distractor10a": "Mutations in the spliceosome recognition sequence at each end of an intron, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also add new spliceosome recognition sites",
     "distractor10b": "Mutations in the spliceosome recognition sequence at each end of an exon, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also add new spliceosome recognition sites",
     "distractor10c": "Mutations in the spliceosome recognition sequence at each end of an intron, or in the proteins and RNAs that make up the spliceosome, may occur. Mutations may also delete existing spliceosome recognition sites",
-    "images": "figure-15-13.png,figure-15-14.png",
+    "imagesEnglish": "figure-15-13.png,figure-15-14.png",
     "readTimeMinutes": "6"
   },
   {
@@ -7599,14 +7599,14 @@
     "distractor10a": "The tRNA will be translated into a defective protein",
     "distractor10b": "The mutation will prevent DNA replication but not translation",
     "distractor10c": "The ribosome will no longer require tRNAs for protein synthesis",
-    "images": "figure-15-15.png",
+    "imagesEnglish": "figure-15-15.png",
     "readTimeMinutes": "4"
   },
   {
     "chapterName": "3. Genetics | 15. Genes and Proteins | 15.5 Ribosomes and Protein Synthesis | Connection for AP® Courses",
     "chapterNameEnglish": "3. Genetics | 15. Genes and Proteins | 15.5 Ribosomes and Protein Synthesis | Connection for AP® Courses",
     "chapterContent": "After the information in the gene has been transcribed to mRNA, it is ready to be translated to polypeptide. The players in translation include the mRNA template, ribosomes, tRNA molecules, amino acids, and various enzymes. Ribosomes consist of small and large subunits of protein and rRNA which bind with mRNA; many ribosomes can move along the same mRNA at a time. Translation begins at the initiating AUG on mRNA, specifying methionine, the first amino acid in any polypeptide. Each amino acid is carried to the ribosome by attaching to a specific molecule of tRNA. A tRNA molecule often is depicted as a cloverleaf, with an anticodon on one end, and the amino acid attachment site at the other. Amino-acid charging enzymes ensure that the correct amino acid is attached to the correct tRNA. The anticodons on tRNA are complementary to the codons on mRNA; for example, the anticodon AAA on tRNA corresponds to TTT on mRNA. Sequential amino acids are linked by peptide bonds. The mRNA is translated, elongating the polypeptide, until a STOP or nonsense codon is reached. When this happens, a release factor dissociates the components and frees the new polypeptide. Folding of the protein occurs during and after translation. Once a polypeptide is synthesized, its role as a protein is established, such as determining a physical phenotype of an organism.\n\nInformation presented and the examples highlighted in the section support concepts outlined in Big Idea 3 of the AP® Biology Curriculum Framework. The Learning Objectives listed in the Curriculum Framework provide a transparent foundation for the AP® Biology course, an inquiry-based laboratory experience, instructional activities, and AP® Exam questions. A Learning Objective merges required content with one or more of the seven Science Practices.\n\nBig Idea 3\nLiving systems store, retrieve, transmit and respond to information essential to life processes.\n\nEnduring Understanding 3.A\nHeritable information provides for continuity of life.\n\nEssential Knowledge\n3.A.1 DNA, and in some cases RNA, is the primary source of heritable information.\n\nScience Practice\n1.2 The student can describe representations and models of natural or man-made phenomena and systems in the domain.\n\nLearning Objective\n3.4 The student is able to describe representations and models illustrating how genetic information is translated into polypeptides.\n\nEssential Knowledge\n3.A.1 DNA, and in some cases RNA, is the primary source of heritable information.\n\nScience Practice\n6.4 The student can make claims and predictions about natural phenomena based on scientific theories and models.\n\nLearning Objective\n3.6 The student can predict how a change in a specific DNA or RNA sequence can result in changes in gene expression.\n\nThe Science Practice Challenge Questions contain additional test questions for this section that will help you prepare for the AP exam. These questions address the following standards:\n[APLO 1.16][APLO 4.22][APLO 3.6]\n\nThe synthesis of proteins consumes more of a cell’s energy than any other metabolic process. In turn, proteins account for more mass than any other component of living organisms (with the exception of water), and proteins perform virtually every function of a cell. The process of translation, or protein synthesis, involves the decoding of an mRNA message into a polypeptide product. Amino acids are covalently strung together by interlinking peptide bonds in lengths ranging from approximately 50 amino acid residues to more than 1,000. Each individual amino acid has an amino group (NH2) and a carboxyl (COOH) group. Polypeptides are formed when the amino group of one amino acid forms an amide (i.e., peptide) bond with the carboxyl group of another amino acid (Figure 15.16). This reaction is catalyzed by ribosomes and generates one water molecule",
-    "images": "figure-15-16.png",
+    "imagesEnglish": "figure-15-16.png",
     "question1": "What is the process of translation?",
     "answer1": "The decoding of an mRNA sequence into a polypeptide (protein)",
     "distractor1a": "The copying of DNA into mRNA",
@@ -7825,7 +7825,7 @@
     "distractor10a": "Translation will stop immediately at the start codon",
     "distractor10b": "The ribosome will no longer bind tRNAs",
     "distractor10c": "The mRNA will be unable to bind the small ribosomal subunit",
-    "images": "figure-15-17.png",
+    "imagesEnglish": "figure-15-17.png",
     "readTimeMinutes": "10"
   },
   {
@@ -8402,7 +8402,7 @@
     "distractor51a": "There is a silent mutation in peptide 3 and peptide 2 has a stop codon due to mutation",
     "distractor51b": "There is a different amino acid in peptide 2 and peptide 3 has a stop codon due to mutation",
     "distractor51c": "There isn’t a mutation in peptide 2 and peptide 3 has a stop codon due to mutation",
-    "images": "figure-15-5.png,figure-15-18.png",
+    "imagesEnglish": "figure-15-5.png,figure-15-18.png",
     "readTimeMinutes": "9"
   },
   {
@@ -8444,7 +8444,7 @@
     "distractor7a": "Exercise caused beneficial DNA mutations in muscle cells",
     "distractor7b": "Exercise changed the universal genetic code",
     "distractor7c": "Exercise permanently altered chromosome number",
-    "images": "figure-16-1.png",
+    "imagesEnglish": "figure-16-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8547,7 +8547,7 @@
     "distractor8a": "Gene regulation occurs only during translation",
     "distractor8b": "Gene regulation occurs only after proteins are synthesized",
     "distractor8c": "Gene regulation occurs only during DNA replication",
-    "images": "figure-16-2.png",
+    "imagesEnglish": "figure-16-2.png",
     "readTimeMinutes": "8"
   },
   {
@@ -8635,7 +8635,7 @@
     "distractor8a": "Enhancers, silencers, and spliceosomes",
     "distractor8b": "Histones, nucleosomes, and telomerase",
     "distractor8c": "Exons, introns, and promoters",
-    "images": "figure-16-3.png,figure-16-4.png",
+    "imagesEnglish": "figure-16-3.png,figure-16-4.png",
     "readTimeMinutes": "11"
   },
   {
@@ -8682,7 +8682,7 @@
     "distractor8a": "The terminator sequence",
     "distractor8b": "The Shine-Dalgarno sequence",
     "distractor8c": "The enhancer sequence",
-    "images": "figure-16-3.png",
+    "imagesEnglish": "figure-16-3.png",
     "readTimeMinutes": "6"
   },
   {
@@ -8729,7 +8729,7 @@
     "distractor8a": "High glucose levels and low cAMP concentrations",
     "distractor8b": "High tryptophan levels",
     "distractor8c": "Absence of RNA polymerase",
-    "images": "figure-16-4.png",
+    "imagesEnglish": "figure-16-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -8776,7 +8776,7 @@
     "distractor8a": "The trp operon is inducible and is positively regulated. Therefore it is ON by default whereas the lac operon is repressible and is OFF by default",
     "distractor8b": "The trp operon is constitutive and remains ON by default, whereas the lac operon is repressible and therefore is OFF by default",
     "distractor8c": "The lac operon undergoes transcriptional attenuation and therefore is OFF by default, whereas the trp operon is not regulated by any such mechanism and is ON by default",
-    "images": "figure-16-5.png",
+    "imagesEnglish": "figure-16-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8879,7 +8879,7 @@
     "distractor10a": "Methylation of DNA and hypo-acetylation of histones causes the nucleosomes to pack tightly together, inactivating the top half of the paternal chromosome and the bottom half of the maternal chromosome",
     "distractor10b": "Acetylation of DNA and hyper-methylation of histones causes the nucleosomes to unwind, inactivating one of the X chromosomes at random in each cell",
     "distractor10c": "Acetylation of DNA and hyper-methylation of histones causes the nucleosomes to unwind, inactivating only the paternal chromosome",
-    "images": "figure-16-6.png,figure-16-7.png,figure-16-8.png",
+    "imagesEnglish": "figure-16-6.png,figure-16-7.png,figure-16-8.png",
     "readTimeMinutes": "11"
   },
   {
@@ -8936,7 +8936,7 @@
     "distractor10a": "They permanently change DNA sequences",
     "distractor10b": "They ensure every gene is expressed in every cell",
     "distractor10c": "They convert mRNA directly into DNA",
-    "images": "figure-16-9.png",
+    "imagesEnglish": "figure-16-9.png",
     "readTimeMinutes": "11"
   },
   {
@@ -8993,7 +8993,7 @@
     "distractor10a": "Environmental signals permanently mutate promoter sequences",
     "distractor10b": "Environmental signals convert DNA directly into protein",
     "distractor10c": "Environmental signals remove all histones from chromosomes",
-    "images": "figure-16-10.png",
+    "imagesEnglish": "figure-16-10.png",
     "readTimeMinutes": "7"
   },
   {
@@ -9050,7 +9050,7 @@
     "distractor10a": "Enhancers initiate DNA replication, whereas promoters terminate transcription",
     "distractor10b": "Promoters only function in prokaryotes, whereas enhancers only function in eukaryotes",
     "distractor10c": "Enhancers encode proteins, whereas promoters encode RNA",
-    "images": "figure-16-10.png",
+    "imagesEnglish": "figure-16-10.png",
     "readTimeMinutes": "3"
   },
   {
@@ -9189,7 +9189,7 @@
     "distractor8a": "Flexibility increases because genes can be divided and recombined into new genes",
     "distractor8b": "Flexibility decreases because the mRNA molecule becomes smaller",
     "distractor8c": "Flexibility decreases because DNA is degraded during alternative splicing",
-    "images": "figure-16-11.png,figure-16-12.png",
+    "imagesEnglish": "figure-16-11.png,figure-16-12.png",
     "readTimeMinutes": "4"
   },
   {
@@ -9246,7 +9246,7 @@
     "distractor10a": "They increase RNA polymerase binding to promoters",
     "distractor10b": "They methylate DNA promoters",
     "distractor10c": "They attach amino acids to tRNAs",
-    "images": "figure-16-13.png",
+    "imagesEnglish": "figure-16-13.png",
     "readTimeMinutes": "7"
   },
   {
@@ -9354,7 +9354,7 @@
     "distractor11a": "It will increase the rate of translation",
     "distractor11b": "It will not affect the translation process",
     "distractor11c": "It will produce multiple fragments of polypeptides",
-    "images": "figure-16-14.png",
+    "imagesEnglish": "figure-16-14.png",
     "readTimeMinutes": "4"
   },
   {
@@ -9411,7 +9411,7 @@
     "distractor10a": "Changing codons in mature mRNA",
     "distractor10b": "Replacing DNA with RNA",
     "distractor10c": "Removing exons from mature proteins",
-    "images": "figure-16-15.png",
+    "imagesEnglish": "figure-16-15.png",
     "readTimeMinutes": "5"
   },
   {
@@ -10466,7 +10466,7 @@
     "distractor58a": "A strain that overexpresses the patS gene should develop many more heterocysts in a low nitrogen environment",
     "distractor58b": "In an environment with abundant fixed nitrogen, free calcium levels should be high in all cells, preventing heterocysts from developing",
     "distractor58c": "In environments with abundant fixed nitrogen, loss of the hetR gene should induce heterocyst development",
-    "images": "figure-16-16.png,figure-16-17.png,figure-16-18.png,figure-16-19.png,figure-16-20.png,figure-16-21.png,figure-16-22.png,figure-16-23.png,figure-16-24.png",
+    "imagesEnglish": "figure-16-16.png,figure-16-17.png,figure-16-18.png,figure-16-19.png,figure-16-20.png,figure-16-21.png,figure-16-22.png,figure-16-23.png,figure-16-24.png",
     "readTimeMinutes": "16"
   },
   {
@@ -10513,7 +10513,7 @@
     "distractor8a": "It uses only mechanical parts to replace organs",
     "distractor8b": "It avoids the use of cells or biological material",
     "distractor8c": "It studies fossils to determine evolutionary relationships",
-    "images": "figure-17-1.png",
+    "imagesEnglish": "figure-17-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10652,7 +10652,7 @@
     "distractor8a": "To permanently stabilize all proteins",
     "distractor8b": "To convert RNA into DNA",
     "distractor8c": "To increase the number of chromosomes",
-    "images": "figure-17-2.png",
+    "imagesEnglish": "figure-17-2.png",
     "readTimeMinutes": "4"
   },
   {
@@ -10699,7 +10699,7 @@
     "distractor8a": "Because uncut DNA is positively charged",
     "distractor8b": "Because uncut DNA migrates faster than small fragments",
     "distractor8c": "Because uncut DNA cannot bind staining dyes",
-    "images": "figure-17-3.png",
+    "imagesEnglish": "figure-17-3.png",
     "readTimeMinutes": "4"
   },
   {
@@ -10746,7 +10746,7 @@
     "distractor8a": "The cDNA is translated directly into protein",
     "distractor8b": "The cDNA is degraded by reverse transcriptase",
     "distractor8c": "The cDNA is separated by centrifugation without amplification",
-    "images": "figure-17-4.png",
+    "imagesEnglish": "figure-17-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10793,7 +10793,7 @@
     "distractor8a": "To convert RNA into DNA",
     "distractor8b": "To label the fragments with fluorescent dyes",
     "distractor8c": "To remove complementary base pairing",
-    "images": "figure-17-5.png",
+    "imagesEnglish": "figure-17-5.png",
     "readTimeMinutes": "3"
   },
   {
@@ -10845,7 +10845,7 @@
     "distractor9a": "They increase the rate of DNA replication",
     "distractor9b": "They prevent restriction enzymes from cutting DNA",
     "distractor9c": "They allow plasmids to integrate into chromosomes",
-    "images": "figure-17-6.png",
+    "imagesEnglish": "figure-17-6.png",
     "readTimeMinutes": "7"
   },
   {
@@ -10892,7 +10892,7 @@
     "distractor8a": "Restriction enzymes restrict the recombination process. DNA ligase ligates the products of recombination with each other",
     "distractor8b": "DNA ligase splices DNA at a specific point, so the new piece of DNA can be inserted. Restriction enzymes stitch together the new gene to the existing piece of DNA",
     "distractor8c": "Restriction enzymes splice the existing piece of DNA only to accommodate the new piece of DNA. DNA ligase ligates the new DNA with the existing DNA",
-    "images": "figure-17-6.png",
+    "imagesEnglish": "figure-17-6.png",
     "readTimeMinutes": "6"
   },
   {
@@ -10980,7 +10980,7 @@
     "distractor9a": "Dolly was a Scottish Blackface sheep because this outcome follows cytoplasmic inheritance",
     "distractor9b": "Dolly was a Finn-Dorset sheep because this outcome follows cytoplasmic inheritance",
     "distractor9c": "Dolly was a Scottish Blackface sheep due to epigenetic inheritance",
-    "images": "figure-17-7.png",
+    "imagesEnglish": "figure-17-7.png",
     "readTimeMinutes": "7"
   },
   {
@@ -11078,7 +11078,7 @@
     "distractor9a": "Cystic fibrosis",
     "distractor9b": "Sickle cell disease",
     "distractor9c": "Huntington disease",
-    "images": "figure-17-8.png",
+    "imagesEnglish": "figure-17-8.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11217,7 +11217,7 @@
     "distractor8a": "Farmers used recombinant DNA technology",
     "distractor8b": "Farmers routinely cloned crop plants",
     "distractor8c": "Farmers performed PCR on crop genomes",
-    "images": "figure-17-9.png",
+    "imagesEnglish": "figure-17-9.png",
     "readTimeMinutes": "3"
   },
   {
@@ -11468,7 +11468,7 @@
     "distractor10a": "Because genetic maps cannot identify linked genes",
     "distractor10b": "Because physical maps replace recombination data completely",
     "distractor10c": "Because recombination occurs only in bacteria",
-    "images": "figure-17-10.png",
+    "imagesEnglish": "figure-17-10.png",
     "readTimeMinutes": "11"
   },
   {
@@ -11525,7 +11525,7 @@
     "distractor10a": "It replaces all sequence-tagged sites in genome mapping",
     "distractor10b": "It prevents recombination during meiosis",
     "distractor10c": "It functions as a restriction enzyme",
-    "images": "figure-17-11.png",
+    "imagesEnglish": "figure-17-11.png",
     "readTimeMinutes": "5"
   },
   {
@@ -11664,7 +11664,7 @@
     "distractor8a": "A ddNTP contains ribose instead of deoxyribose",
     "distractor8b": "A ddNTP contains two phosphate groups instead of three",
     "distractor8c": "A ddNTP cannot pair with complementary DNA bases",
-    "images": "figure-17-12.png,figure-17-13.png",
+    "imagesEnglish": "figure-17-12.png,figure-17-13.png",
     "readTimeMinutes": "4"
   },
   {
@@ -11808,7 +11808,7 @@
     "distractor9a": "Sequence coverage is higher in Sanger sequencing as compared to deep sequencing",
     "distractor9b": "Sanger sequencing is suitable when there is only one nucleotide difference between chains, whereas deep sequencing is suitable when there is more than one nucleotide difference between chains",
     "distractor9c": "Sanger sequencing reads and sequences a genome multiple times, whereas deep sequencing accurately reads sequences the whole genome in a single time",
-    "images": "figure-17-13.png",
+    "imagesEnglish": "figure-17-13.png",
     "readTimeMinutes": "4"
   },
   {
@@ -11947,7 +11947,7 @@
     "distractor8a": "The highest efficiency is Escherichia coli producing ethanol",
     "distractor8b": "Fatty acids are the most common biofuel produced by these organisms",
     "distractor8c": "Zymomonas mobilis can successfully produce ethanol or 2, 3-butanediol",
-    "images": "figure-17-14.png,figure-17-14-1.png",
+    "imagesEnglish": "figure-17-14.png,figure-17-14-1.png",
     "readTimeMinutes": "4"
   },
   {
@@ -12025,7 +12025,7 @@
     "distractor5a": "Producing genetically modified crop plants",
     "distractor5b": "Sequencing the human genome",
     "distractor5c": "Developing vaccines using animal cell cultures",
-    "images": "figure-17-15.png",
+    "imagesEnglish": "figure-17-15.png",
     "readTimeMinutes": "3"
   },
   {
@@ -12256,7 +12256,7 @@
     "distractor8a": "Proteins cannot be studied using computers",
     "distractor8b": "Proteins cannot be separated from DNA",
     "distractor8c": "Proteins are more stable than DNA and therefore difficult to modify",
-    "images": "figure-17-16.png",
+    "imagesEnglish": "figure-17-16.png",
     "readTimeMinutes": "7"
   },
   {
@@ -12974,7 +12974,7 @@
     "distractor49a": "Cytogenetic map.",
     "distractor49b": "Radiation hybrid map.",
     "distractor49c": "Expressed sequence tag.",
-    "images": "figure-17-11.png,figure-17-16.png,figure-17-17.png,figure-17-18.png",
+    "imagesEnglish": "figure-17-11.png,figure-17-16.png,figure-17-17.png,figure-17-18.png",
     "readTimeMinutes": "10"
   }
 ]
