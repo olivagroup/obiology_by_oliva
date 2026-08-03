@@ -38,7 +38,7 @@
     "distractor7a": "Humans became the preferred host because deer disappeared",
     "distractor7b": "Cooler temperatures caused ticks to stop feeding on animals",
     "distractor7c": "The Lyme disease bacterium can only survive in humans",
-    "images": "figure-35-1.png",
+    "imagesEnglish": "figure-35-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -121,7 +121,7 @@
     "distractor7a": "They always study only one level in complete isolation",
     "distractor7b": "They study only ecosystems because other levels are not useful",
     "distractor7c": "They study only populations and ignore organisms and communities",
-    "images": "figure-35-2.png",
+    "imagesEnglish": "figure-35-2.png",
     "readTimeMinutes": "3"
   },
   {
@@ -168,7 +168,7 @@
     "distractor8a": "How atmospheric carbon dioxide affects photosynthesis",
     "distractor8b": "How soil minerals cycle through ecosystems",
     "distractor8c": "How population density changes over centuries",
-    "images": "figure-35-3.png,figure-35-4.png",
+    "imagesEnglish": "figure-35-3.png,figure-35-4.png",
     "readTimeMinutes": "3"
   },
   {
@@ -358,7 +358,7 @@
     "distractor8a": "Expertise only in foreign languages",
     "distractor8b": "Training only in economics and finance",
     "distractor8c": "Knowledge only of computer graphics",
-    "images": "figure-35-5.png",
+    "imagesEnglish": "figure-35-5.png",
     "readTimeMinutes": "4"
   },
   {
@@ -461,7 +461,7 @@
     "distractor9a": "It is found worldwide but rarely flowers",
     "distractor9b": "It grows only in deserts with abundant rainfall",
     "distractor9c": "It has become invasive throughout the Pacific",
-    "images": "figure-35-6.png,figure-35-7.png",
+    "imagesEnglish": "figure-35-6.png,figure-35-7.png",
     "readTimeMinutes": "10"
   },
   {
@@ -518,7 +518,7 @@
     "distractor10a": "The depth of the thermocline does not change over the year",
     "distractor10b": "In winter months, the thermocline starts near the surface",
     "distractor10c": "The thermocline is absent in winter months",
-    "images": "figure-35-8.png,figure-35-9.png,figure-35-10.png,figure-35-10-1.png",
+    "imagesEnglish": "figure-35-8.png,figure-35-9.png,figure-35-10.png,figure-35-10-1.png",
     "readTimeMinutes": "11"
   },
   {
@@ -739,7 +739,7 @@
     "distractor7a": "By increasing the number of competing plant species",
     "distractor7b": "By preventing seeds from germinating",
     "distractor7c": "By lowering soil nutrient availability",
-    "images": "figure-35-11.png",
+    "imagesEnglish": "figure-35-11.png",
     "readTimeMinutes": "2"
   },
   {
@@ -832,7 +832,7 @@
     "distractor8a": "Chaparral is dominated by shrubs",
     "distractor8b": "Grasses dominate savannas and temperate grasslands",
     "distractor8c": "Lichens are common in the arctic tundra",
-    "images": "figure-35-12.png",
+    "imagesEnglish": "figure-35-12.png",
     "readTimeMinutes": "7"
   },
   {
@@ -884,7 +884,7 @@
     "distractor9a": "Seasonal freezing limits dominant species",
     "distractor9b": "Low rainfall reduces competition",
     "distractor9c": "Frequent fires create uniform habitats",
-    "images": "figure-35-12.png,figure-35-13.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-13.png",
     "readTimeMinutes": "8"
   },
   {
@@ -931,7 +931,7 @@
     "distractor8a": "It permanently eliminates all vegetation",
     "distractor8b": "It prevents grasses from growing",
     "distractor8c": "It causes annual flooding of the biome",
-    "images": "figure-35-12.png,figure-35-14.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-14.png",
     "readTimeMinutes": "2"
   },
   {
@@ -978,7 +978,7 @@
     "distractor8a": "Predators have eliminated most animal species",
     "distractor8b": "Deserts receive too much rainfall",
     "distractor8c": "There is no sunlight available for primary productivity",
-    "images": "figure-35-12.png,figure-35-15.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-15.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1025,7 +1025,7 @@
     "distractor8a": "Fire permanently increases rainfall",
     "distractor8b": "Fire removes all microorganisms from the soil",
     "distractor8c": "Fire converts shrubs into grasses",
-    "images": "figure-35-12.png,figure-35-16.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-16.png",
     "readTimeMinutes": "2"
   },
   {
@@ -1077,7 +1077,7 @@
     "distractor9a": "To permanently eliminate all vegetation",
     "distractor9b": "To increase annual precipitation",
     "distractor9c": "To encourage dense forest development",
-    "images": "figure-35-12.png,figure-35-17.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-17.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1129,7 +1129,7 @@
     "distractor9a": "Temperate forests contain no canopy",
     "distractor9b": "Temperate forests receive no shade from trees",
     "distractor9c": "All temperate forest trees are evergreen",
-    "images": "figure-35-12.png,figure-35-18.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-18.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1181,7 +1181,7 @@
     "distractor9a": "Conifers do not shed needles",
     "distractor9b": "The soil contains no decomposers",
     "distractor9c": "Rainfall removes all nutrients before decomposition occurs",
-    "images": "figure-35-12.png,figure-35-19.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-19.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1233,7 +1233,7 @@
     "distractor9a": "Tall deciduous trees",
     "distractor9b": "Dense evergreen forests",
     "distractor9c": "Large cacti",
-    "images": "figure-35-12.png,figure-35-20.png",
+    "imagesEnglish": "figure-35-12.png,figure-35-20.png",
     "readTimeMinutes": "4"
   },
   {
@@ -1326,7 +1326,7 @@
     "distractor9a": "Because ocean water contains no carbon dioxide",
     "distractor9b": "Because ocean temperatures are always below freezing",
     "distractor9c": "Because all nutrients are confined to the ocean floor",
-    "images": "figure-35-21.png",
+    "imagesEnglish": "figure-35-21.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1378,7 +1378,7 @@
     "distractor9a": "By photosynthesis using sunlight",
     "distractor9b": "By consuming phytoplankton",
     "distractor9c": "By absorbing dissolved oxygen",
-    "images": "figure-35-21.png,figure-35-22.png",
+    "imagesEnglish": "figure-35-21.png,figure-35-22.png",
     "readTimeMinutes": "12"
   },
   {
@@ -1430,7 +1430,7 @@
     "distractor9a": "They build the calcium carbonate skeleton",
     "distractor9b": "They protect corals by stinging predators",
     "distractor9c": "They increase the salinity of seawater",
-    "images": "figure-35-23.png",
+    "imagesEnglish": "figure-35-23.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1533,7 +1533,7 @@
     "distractor9a": "The depth of the thermocline does not change over the year",
     "distractor9b": "In winter months, the thermocline starts near the surface",
     "distractor9c": "The thermocline is absent in winter months",
-    "images": "figure-35-24.png,figure-35-24-1.png",
+    "imagesEnglish": "figure-35-24.png,figure-35-24-1.png",
     "readTimeMinutes": "5"
   },
   {
@@ -1585,7 +1585,7 @@
     "distractor9a": "Planting trees along riverbanks",
     "distractor9b": "Reducing fertilizer use",
     "distractor9c": "Restoring wetlands",
-    "images": "figure-35-25.png",
+    "imagesEnglish": "figure-35-25.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1688,7 +1688,7 @@
     "distractor9a": "They receive too much sunlight",
     "distractor9b": "They have excessively high nutrient concentrations",
     "distractor9c": "The water flows too rapidly for plants to establish",
-    "images": "figure-35-26.png",
+    "imagesEnglish": "figure-35-26.png",
     "readTimeMinutes": "6"
   },
   {
@@ -1827,7 +1827,7 @@
     "distractor9a": "The Little Ice Age increased agricultural productivity",
     "distractor9b": "The Industrial Revolution created faster ships",
     "distractor9c": "Volcanic eruptions melted Arctic ice",
-    "images": "figure-35-27.png,figure-35-28.png",
+    "imagesEnglish": "figure-35-27.png,figure-35-28.png",
     "readTimeMinutes": "11"
   },
   {
@@ -1879,7 +1879,7 @@
     "distractor9a": "Methane cools the atmosphere and slows warming",
     "distractor9b": "Methane reduces atmospheric carbon dioxide concentrations",
     "distractor9c": "Melting clathrates permanently remove greenhouse gases from the atmosphere",
-    "images": "figure-35-29.png",
+    "imagesEnglish": "figure-35-29.png",
     "readTimeMinutes": "16"
   },
   {
@@ -1931,7 +1931,7 @@
     "distractor9a": "The changes in the ice are caused by human activity",
     "distractor9b": "The changes in the ice are part of the cyclic climate changes that happen on Earth",
     "distractor9c": "There are no plants affected by the change in ice cover",
-    "images": "figure-35-29-1.png",
+    "imagesEnglish": "figure-35-29-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -1983,7 +1983,7 @@
     "distractor9a": "Wind speed and atmospheric pressure",
     "distractor9b": "Ocean salinity and tides",
     "distractor9c": "Latitude and longitude",
-    "images": "figure-35-30.png",
+    "imagesEnglish": "figure-35-30.png",
     "readTimeMinutes": "6"
   },
   {
@@ -2550,7 +2550,7 @@
     "distractor77a": "Short term changes include melting of glaciers, rise in levels of water bodies which may cover islands close to sea level, destroying the local ecosystem and animals, and so on. Long-term changes experienced could include changes in seasonal patterns, unseasonal rainfall, and changes in the life cycle of insects",
     "distractor77b": "Short term changes include changes in seasonal patterns, unseasonal rainfall, changes in the life cycle of insects and animals, and so on. Long-term changes could be change in flowering times of flowers, and the rise in levels of water bodies, which may cover islands close to sea level, destroying the local ecosystem",
     "distractor77c": "Short term changes include melting of glaciers, unseasonal rainfall, changes in the life cycle of insects and animals, etc. Long-term changes could be rise in levels of water bodies which may cover islands close to sea level, destroying the local ecosystem",
-    "images": "figure-35-2.png,figure-35-31.png,figure-35-32.png,figure-35-33.png,figure-35-34.png,figure-35-35.png,figure-35-36.png,figure-35-37.png,figure-35-38.png,figure-35-39.png,figure-35-40.png,figure-35-41.png",
+    "imagesEnglish": "figure-35-2.png,figure-35-31.png,figure-35-32.png,figure-35-33.png,figure-35-34.png,figure-35-35.png,figure-35-36.png,figure-35-37.png,figure-35-38.png,figure-35-39.png,figure-35-40.png,figure-35-41.png",
     "readTimeMinutes": "13"
   },
   {
@@ -2592,7 +2592,7 @@
     "distractor7a": "They always increase the number of native species",
     "distractor7b": "They affect only nonliving components of ecosystems",
     "distractor7c": "They have no measurable effect on ecosystem interactions",
-    "images": "figure-36-1.png",
+    "imagesEnglish": "figure-36-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2680,7 +2680,7 @@
     "distractor7a": "They determine the evolutionary history of the species",
     "distractor7b": "They identify all abiotic factors in an ecosystem",
     "distractor7c": "They measure the rate of photosynthesis",
-    "images": "figure-36-2.png",
+    "imagesEnglish": "figure-36-2.png",
     "readTimeMinutes": "3"
   },
   {
@@ -2732,7 +2732,7 @@
     "distractor9a": "Measuring chlorophyll concentration",
     "distractor9b": "Sequencing the DNA of every organism",
     "distractor9c": "Counting only juvenile individuals",
-    "images": "figure-36-3.png,figure-36-4.png",
+    "imagesEnglish": "figure-36-3.png,figure-36-4.png",
     "readTimeMinutes": "10"
   },
   {
@@ -2784,7 +2784,7 @@
     "distractor9a": "They cannot survive in groups",
     "distractor9b": "They produce fewer offspring than clumped species",
     "distractor9c": "They are unable to adapt to environmental change",
-    "images": "figure-36-5.png",
+    "imagesEnglish": "figure-36-5.png",
     "readTimeMinutes": "5"
   },
   {
@@ -2928,7 +2928,7 @@
     "distractor8a": "Large numbers of offspring always receive extensive parental care",
     "distractor8b": "Their offspring are immune to predation",
     "distractor8c": "They reproduce only once every decade",
-    "images": "figure-36-6.png",
+    "imagesEnglish": "figure-36-6.png",
     "readTimeMinutes": "4"
   },
   {
@@ -3159,7 +3159,7 @@
     "distractor8a": "Because Chinook salmon always survive and reproduce again",
     "distractor8b": "Because they die only from predation",
     "distractor8c": "Because they migrate back to the ocean before reproducing",
-    "images": "figure-36-7.png",
+    "imagesEnglish": "figure-36-7.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3206,7 +3206,7 @@
     "distractor8a": "The availability of energy to lay more eggs is a limiting factor here. Females store a lot of energy before they start producing eggs",
     "distractor8b": "The availability of energy to lay more eggs is a limiting factor here. Females start producing eggs as early as possible, to be able to produce more eggs",
     "distractor8c": "The availability of energy for producing sperm is a limiting factor here. Males with less sperm try to mate with any female they find because they are close to the end of their life cycle",
-    "images": "figure-36-8.png",
+    "imagesEnglish": "figure-36-8.png",
     "readTimeMinutes": "8"
   },
   {
@@ -3299,7 +3299,7 @@
     "distractor9a": "The maximum number of individuals an ecosystem can support",
     "distractor9b": "The average lifespan of the species",
     "distractor9c": "The total number of offspring produced during one lifetime",
-    "images": "figure-36-9.png",
+    "imagesEnglish": "figure-36-9.png",
     "readTimeMinutes": "10"
   },
   {
@@ -3392,7 +3392,7 @@
     "distractor9a": "It assumes resources are unlimited forever",
     "distractor9b": "It ignores birth and death rates",
     "distractor9c": "It predicts that all populations grow at the same rate",
-    "images": "figure-36-9.png",
+    "imagesEnglish": "figure-36-9.png",
     "readTimeMinutes": "6"
   },
   {
@@ -3485,7 +3485,7 @@
     "distractor8a": "It never experiences resource limitation",
     "distractor8b": "It reproduces only once during its lifetime",
     "distractor8c": "It is unaffected by environmental conditions",
-    "images": "figure-36-10.png",
+    "imagesEnglish": "figure-36-10.png",
     "readTimeMinutes": "2"
   },
   {
@@ -3578,7 +3578,7 @@
     "distractor8a": "This is an example of a density-independent factor because it becomes worse as the population density increases",
     "distractor8b": "This is an example of a density-dependent factor because it becomes better as the population density increases",
     "distractor8c": "This is an example of a density-independent factor since it becomes better as the population density increases",
-    "images": "figure-36-11.png,figure-36-12.png",
+    "imagesEnglish": "figure-36-11.png,figure-36-12.png",
     "readTimeMinutes": "4"
   },
   {
@@ -3671,7 +3671,7 @@
     "distractor8a": "Deforestation affected the ability of the woolly mammoth to find adequate habitat and food, and humans contributed to declines in their population by hunting them",
     "distractor8b": "Climate change affected the ability of the woolly mammoth to find adequate food even though they had plenty of habitat, and humans contributed to declines in their population by hunting them",
     "distractor8c": "Climate change affected the ability of the woolly mammoth to find adequate habitat and food, and a plague affected Earth during that time causing their extinction",
-    "images": "figure-36-13.png",
+    "imagesEnglish": "figure-36-13.png",
     "readTimeMinutes": "5"
   },
   {
@@ -3723,7 +3723,7 @@
     "distractor9a": "K-selected species mature early and produce many offspring, whereas r-selected species mature late with few offspring",
     "distractor9b": "Both K-selected and r-selected species mature late and provide extensive parental care",
     "distractor9c": "Both K-selected and r-selected species produce few large offspring",
-    "images": "figure-36-14.png",
+    "imagesEnglish": "figure-36-14.png",
     "readTimeMinutes": "10"
   },
   {
@@ -3816,7 +3816,7 @@
     "distractor9a": "Because the human population is expected to decline rapidly",
     "distractor9b": "Because birth rates are predicted to become zero",
     "distractor9c": "Because carrying capacity is expected to become unlimited",
-    "images": "figure-36-15.png,figure-36-16.png",
+    "imagesEnglish": "figure-36-15.png,figure-36-16.png",
     "readTimeMinutes": "14"
   },
   {
@@ -3909,7 +3909,7 @@
     "distractor8a": "Birth rates and death rates remains same in both Stage 3 and Stage 4",
     "distractor8b": "Death rates decline in Stage 4 compared to Stage 3, but birth rates remain the same",
     "distractor8c": "Birth rates decline in Stage 4 compared to Stage 3, but death rates remain the same",
-    "images": "figure-36-17.png,figure-36-18.png",
+    "imagesEnglish": "figure-36-17.png,figure-36-18.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4053,7 +4053,7 @@
     "distractor9a": "Herbivores increase the photosynthetic rate of plants",
     "distractor9b": "Herbivores eliminate all plant competition",
     "distractor9c": "Herbivory prevents seed production",
-    "images": "figure-36-19.png",
+    "imagesEnglish": "figure-36-19.png",
     "readTimeMinutes": "6"
   },
   {
@@ -4105,7 +4105,7 @@
     "distractor9a": "The coloration makes the organisms invisible",
     "distractor9b": "The coloration prevents predators from finding them",
     "distractor9c": "The coloration causes predators to lose their vision",
-    "images": "figure-36-20.png,figure-36-21.png,figure-36-22.png,figure-36-23.png,figure-36-24.png",
+    "imagesEnglish": "figure-36-20.png,figure-36-21.png,figure-36-22.png,figure-36-23.png,figure-36-24.png",
     "readTimeMinutes": "10"
   },
   {
@@ -4152,7 +4152,7 @@
     "distractor8a": "The total geographic range of a species",
     "distractor8b": "The carrying capacity of an ecosystem",
     "distractor8c": "The reproductive rate of a population",
-    "images": "figure-36-25.png",
+    "imagesEnglish": "figure-36-25.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4235,7 +4235,7 @@
     "distractor7a": "The shark receives extra food",
     "distractor7b": "The shark is harmed because food is stolen",
     "distractor7c": "The shark becomes more vulnerable to predators",
-    "images": "figure-36-26.png",
+    "imagesEnglish": "figure-36-26.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4282,7 +4282,7 @@
     "distractor8a": "They cannot chew wood",
     "distractor8b": "They cannot absorb water from wood",
     "distractor8c": "They cannot reproduce without protozoa",
-    "images": "figure-36-27.png",
+    "imagesEnglish": "figure-36-27.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4334,7 +4334,7 @@
     "distractor9a": "They cannot reproduce within a single organism",
     "distractor9b": "They must avoid all vertebrate hosts",
     "distractor9c": "They require photosynthesis during part of their life cycle",
-    "images": "figure-36-28.png",
+    "imagesEnglish": "figure-36-28.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4422,7 +4422,7 @@
     "distractor8a": "Parasitism",
     "distractor8b": "Commensalism",
     "distractor8c": "Predation",
-    "images": "figure-36-29.png",
+    "imagesEnglish": "figure-36-29.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4469,7 +4469,7 @@
     "distractor8a": "Top predators",
     "distractor8b": "Parasites",
     "distractor8c": "Keystone species",
-    "images": "figure-36-30.png",
+    "imagesEnglish": "figure-36-30.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4516,7 +4516,7 @@
     "distractor8a": "Keystone species are always primary producers",
     "distractor8b": "Foundation species are always predators",
     "distractor8c": "There is no ecological difference between the two",
-    "images": "figure-36-31.png",
+    "imagesEnglish": "figure-36-31.png",
     "readTimeMinutes": "2"
   },
   {
@@ -4568,7 +4568,7 @@
     "distractor9a": "Cell biology and genetics",
     "distractor9b": "Embryology and physiology",
     "distractor9c": "Histology and anatomy",
-    "images": "figure-36-32.png",
+    "imagesEnglish": "figure-36-32.png",
     "readTimeMinutes": "9"
   },
   {
@@ -4656,7 +4656,7 @@
     "distractor8a": "The habitat returns to bare rock",
     "distractor8b": "Only pioneer species remain",
     "distractor8c": "No additional species can colonize the area",
-    "images": "figure-36-33.png",
+    "imagesEnglish": "figure-36-33.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4703,7 +4703,7 @@
     "distractor8a": "The area remains permanently covered by grasses",
     "distractor8b": "Only pioneer species survive",
     "distractor8c": "The soil is permanently lost after the fire",
-    "images": "figure-36-34.png",
+    "imagesEnglish": "figure-36-34.png",
     "readTimeMinutes": "4"
   },
   {
@@ -4883,7 +4883,7 @@
     "distractor7a": "They are acquired through repeated experience",
     "distractor7b": "They occur only after parental instruction",
     "distractor7c": "They depend entirely on environmental conditioning",
-    "images": "figure-36-35.png",
+    "imagesEnglish": "figure-36-35.png",
     "readTimeMinutes": "2"
   },
   {
@@ -4930,7 +4930,7 @@
     "distractor8a": "They migrate only when temperatures increase",
     "distractor8b": "They migrate only during breeding season regardless of food availability",
     "distractor8c": "They migrate because daylight hours never change",
-    "images": "figure-36-36.png",
+    "imagesEnglish": "figure-36-36.png",
     "readTimeMinutes": "3"
   },
   {
@@ -4972,7 +4972,7 @@
     "distractor7a": "To spend the maximum amount of time searching for food",
     "distractor7b": "To avoid all interaction with other species",
     "distractor7c": "To consume the greatest possible variety of food regardless of energy cost",
-    "images": "figure-36-37.png",
+    "imagesEnglish": "figure-36-37.png",
     "readTimeMinutes": "1"
   },
   {
@@ -5065,7 +5065,7 @@
     "distractor9a": "The display automatically repeats until successful",
     "distractor9b": "The animals immediately become aggressive",
     "distractor9c": "The pair mates regardless of the display",
-    "images": "figure-36-38.png",
+    "imagesEnglish": "figure-36-38.png",
     "readTimeMinutes": "11"
   },
   {
@@ -5218,7 +5218,7 @@
     "distractor19a": "Females provide all parental care after fertilization",
     "distractor19b": "Both parents abandon the eggs immediately after fertilization",
     "distractor19c": "Eggs develop externally without parental care",
-    "images": "figure-36-39.png",
+    "imagesEnglish": "figure-36-39.png",
     "readTimeMinutes": "11"
   },
   {
@@ -5270,7 +5270,7 @@
     "distractor9a": "It ignores both the human and its mother",
     "distractor9b": "It immediately becomes independent",
     "distractor9c": "It permanently loses the ability to imprint",
-    "images": "figure-36-40.png",
+    "imagesEnglish": "figure-36-40.png",
     "readTimeMinutes": "5"
   },
   {
@@ -5363,7 +5363,7 @@
     "distractor9a": "The bell naturally caused salivation without learning",
     "distractor9b": "The dogs were responding to the smell of hidden food",
     "distractor9c": "The bell acted as an unconditioned stimulus",
-    "images": "figure-36-41.png",
+    "imagesEnglish": "figure-36-41.png",
     "readTimeMinutes": "5"
   },
   {
@@ -5415,7 +5415,7 @@
     "distractor9a": "The behaviors are entirely instinctive",
     "distractor9b": "The dolphins naturally perform all tricks in the wild",
     "distractor9c": "The tricks are learned through imprinting",
-    "images": "figure-36-42.png",
+    "imagesEnglish": "figure-36-42.png",
     "readTimeMinutes": "3"
   },
   {
@@ -5467,7 +5467,7 @@
     "distractor9a": "It proved that only humans can solve spatial problems",
     "distractor9b": "It showed that maze learning depends entirely on conditioning",
     "distractor9c": "It demonstrated that memory plays no role in navigation",
-    "images": "figure-36-43.png",
+    "imagesEnglish": "figure-36-43.png",
     "readTimeMinutes": "9"
   },
   {
@@ -6714,7 +6714,7 @@
     "distractor138a": "It is a mating display. Males who can guard without eating are more fit and are more attractive to females",
     "distractor138b": "It is a fixed action pattern. When some meerkats start foraging, the last meerkat keeps repeating this behavior",
     "distractor138c": "It is a kinesis. When multiple meerkats bend down, some meerkats get into the guarding pose in response",
-    "images": "figure-36-44.png,figure-36-45.png,figure-36-46.png,figure-36-47.png,figure-36-48.png,figure-36-49.png,figure-36-50.png,figure-36-51.png,figure-36-52.png,figure-36-53.png,figure-36-54.png,figure-36-55.png,figure-36-56.png,figure-36-57.png,figure-36-58.png,figure-36-59.png,figure-36-60.png,figure-36-61.png,figure-36-62.png,figure-36-63.png,figure-36-64.png,figure-36-65.png,figure-36-66.png,figure-36-67.png,figure-36-68.png,figure-36-69.png,figure-36-70.png,figure-36-71.png,figure-36-72.png,figure-36-73.png,figure-36-74.png",
+    "imagesEnglish": "figure-36-44.png,figure-36-45.png,figure-36-46.png,figure-36-47.png,figure-36-48.png,figure-36-49.png,figure-36-50.png,figure-36-51.png,figure-36-52.png,figure-36-53.png,figure-36-54.png,figure-36-55.png,figure-36-56.png,figure-36-57.png,figure-36-58.png,figure-36-59.png,figure-36-60.png,figure-36-61.png,figure-36-62.png,figure-36-63.png,figure-36-64.png,figure-36-65.png,figure-36-66.png,figure-36-67.png,figure-36-68.png,figure-36-69.png,figure-36-70.png,figure-36-71.png,figure-36-72.png,figure-36-73.png,figure-36-74.png",
     "readTimeMinutes": "10"
   },
   {
@@ -6761,7 +6761,7 @@
     "distractor8a": "Climate change directly created a new virus",
     "distractor8b": "The disease spread only through human-to-human contact",
     "distractor8c": "The outbreak occurred independently of ecological interactions",
-    "images": "figure-37-1.png",
+    "imagesEnglish": "figure-37-1.png",
     "readTimeMinutes": "3"
   },
   {
@@ -6864,7 +6864,7 @@
     "distractor10a": "Natural succession",
     "distractor10b": "Seasonal rainfall",
     "distractor10c": "Plant growth",
-    "images": "figure-37-2.png,figure-37-3.png",
+    "imagesEnglish": "figure-37-2.png,figure-37-3.png",
     "readTimeMinutes": "10"
   },
   {
@@ -6916,7 +6916,7 @@
     "distractor9a": "There are proportionally fewer tertiary and secondary consumers in both open ocean and coastal areas. Both areas got affected equally",
     "distractor9b": "There are proportionally fewer primary producers and primary consumers in both open ocean and coastal areas. Both areas got affected equally",
     "distractor9c": "There are proportionally fewer primary producers and primary consumers in both open ocean and coastal areas. Open ocean got affected more severely",
-    "images": "figure-37-4.png,figure-37-5.png,figure-37-6.png,figure-37-6-1.png",
+    "imagesEnglish": "figure-37-4.png,figure-37-5.png,figure-37-6.png,figure-37-6-1.png",
     "readTimeMinutes": "12"
   },
   {
@@ -6968,7 +6968,7 @@
     "distractor9a": "Because two stickleback species consume all of the nutrients required by the algae to bloom",
     "distractor9b": "Because one species had more dissolved organic matter available in their habitat than the other species",
     "distractor9c": "Because more algae is consumed in the presence of two stickleback species versus only one species",
-    "images": "figure-37-7.png",
+    "imagesEnglish": "figure-37-7.png",
     "readTimeMinutes": "7"
   },
   {
@@ -7071,7 +7071,7 @@
     "distractor9a": "Total heat and respiration refers to the energy used by all trophic levels and the energy provided by the primary producers is more than the energy provided by primary consumers to these levels",
     "distractor9b": "Gross productivity of primary producers is the same as the value for total heat and respiration because of the high efficiency of conversion of solar energy to energy used by all trophic levels by primary producers",
     "distractor9c": "The value for gross productivity of primary producers and total heat and respiration is same as primary producers provide energy to primary consumers and secondary consumers only",
-    "images": "figure-37-8.png",
+    "imagesEnglish": "figure-37-8.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7225,7 +7225,7 @@
     "distractor9a": "They convert glucose directly into sunlight",
     "distractor9b": "They consume all primary producers",
     "distractor9c": "They prevent energy transfer through food webs",
-    "images": "figure-37-9.png",
+    "imagesEnglish": "figure-37-9.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7272,7 +7272,7 @@
     "distractor8a": "20,810 kcal/m2/yr",
     "distractor8b": "13,187 kcal/m2/yr",
     "distractor8c": "383 kcal/m2/yr",
-    "images": "figure-37-8.png",
+    "imagesEnglish": "figure-37-8.png",
     "readTimeMinutes": "5"
   },
   {
@@ -7329,7 +7329,7 @@
     "distractor10a": "Increasing consumption of beef only",
     "distractor10b": "Feeding livestock more meat",
     "distractor10c": "Eliminating primary producers from food webs",
-    "images": "figure-37-8.png",
+    "imagesEnglish": "figure-37-8.png",
     "readTimeMinutes": "12"
   },
   {
@@ -7381,7 +7381,7 @@
     "distractor9a": "Geese",
     "distractor9b": "Sheep",
     "distractor9c": "Cows",
-    "images": "figure-37-8.png,figure-37-10.png,figure-37-10-1.png",
+    "imagesEnglish": "figure-37-8.png,figure-37-10.png,figure-37-10-1.png",
     "readTimeMinutes": "7"
   },
   {
@@ -7438,7 +7438,7 @@
     "distractor10a": "Geese and broiler chickens have the same efficiency",
     "distractor10b": "Ducks are marginally more efficient than turkeys",
     "distractor10c": "Beef is the most efficient animal to raise for meat",
-    "images": "figure-37-10-1.png,figure-37-11.png,figure-37-12.png",
+    "imagesEnglish": "figure-37-10-1.png,figure-37-11.png,figure-37-12.png",
     "readTimeMinutes": "7"
   },
   {
@@ -7541,7 +7541,7 @@
     "distractor9a": "It permanently removes nutrients from ecosystems",
     "distractor9b": "It prevents weathering and erosion",
     "distractor9c": "It converts minerals into atmospheric gases",
-    "images": "figure-37-13.png,figure-37-14.png,figure-37-15.png",
+    "imagesEnglish": "figure-37-13.png,figure-37-14.png,figure-37-15.png",
     "readTimeMinutes": "8"
   },
   {
@@ -7593,7 +7593,7 @@
     "distractor9a": "Cloud formation",
     "distractor9b": "Nitrogen fixation",
     "distractor9c": "Ocean evaporation",
-    "images": "figure-37-16.png",
+    "imagesEnglish": "figure-37-16.png",
     "readTimeMinutes": "3"
   },
   {
@@ -7701,7 +7701,7 @@
     "distractor10a": "Because human activities have no effect on the carbon cycle",
     "distractor10b": "Because only volcanoes affect atmospheric carbon dioxide",
     "distractor10c": "Because fossil fuels are the only source of atmospheric carbon",
-    "images": "figure-37-17.png",
+    "imagesEnglish": "figure-37-17.png",
     "readTimeMinutes": "8"
   },
   {
@@ -7758,7 +7758,7 @@
     "distractor10a": "Ammonification converts organic nitrogenous matter from living organisms into ammonium (NH4+)",
     "distractor10b": "Denitrification by bacteria converts nitrates (NO3-) to nitrogen gas (N2)",
     "distractor10c": "Nitrogen fixing bacteria convert nitrogen gas (N2) into organic compounds",
-    "images": "figure-37-18.png",
+    "imagesEnglish": "figure-37-18.png",
     "readTimeMinutes": "9"
   },
   {
@@ -7810,7 +7810,7 @@
     "distractor9a": "Oil drilling in the Arctic Ocean",
     "distractor9b": "Volcanic eruptions in Hawaii",
     "distractor9c": "Deforestation in the Appalachian Mountains",
-    "images": "figure-37-20.png,figure-37-19.png",
+    "imagesEnglish": "figure-37-20.png,figure-37-19.png",
     "readTimeMinutes": "6"
   },
   {
@@ -7923,7 +7923,7 @@
     "distractor10a": "Most of the nitrogen on Earth is in the oceans",
     "distractor10b": "In the oceans, nitrogen is in the form of N2 gas",
     "distractor10c": "Marine organisms contain more nitrogen than land organisms",
-    "images": "figure-37-21.png,figure-37-22.png,figure-37-23.png,figure-37-9.png,figure-37-24.png",
+    "imagesEnglish": "figure-37-21.png,figure-37-22.png,figure-37-23.png,figure-37-9.png,figure-37-24.png",
     "readTimeMinutes": "7"
   },
   {
@@ -8422,7 +8422,7 @@
     "distractor49a": "burning fossil fuels",
     "distractor49b": "methane from cattle",
     "distractor49c": "volcanic eruption",
-    "images": "figure-37-25.png,figure-37-26.png,figure-37-27.png,figure-37-28.png,figure-37-29.png,figure-37-30.png,figure-37-31.png,figure-37-32.png,figure-37-33.png,figure-37-34.png",
+    "imagesEnglish": "figure-37-25.png,figure-37-26.png,figure-37-27.png,figure-37-28.png,figure-37-29.png,figure-37-30.png,figure-37-31.png,figure-37-32.png,figure-37-33.png,figure-37-34.png",
     "readTimeMinutes": "5"
   },
   {
@@ -8525,7 +8525,7 @@
     "distractor10a": "Photosynthesis, nitrogen fixation, and succession",
     "distractor10b": "Pollination, decomposition, and respiration",
     "distractor10c": "Weathering, erosion, and volcanic activity",
-    "images": "figure-38-1.png",
+    "imagesEnglish": "figure-38-1.png",
     "readTimeMinutes": "18"
   },
   {
@@ -8582,7 +8582,7 @@
     "distractor10a": "The tundra",
     "distractor10b": "The boreal forest",
     "distractor10c": "The temperate rainforest",
-    "images": "figure-38-2.png",
+    "imagesEnglish": "figure-38-2.png",
     "readTimeMinutes": "8"
   },
   {
@@ -8710,7 +8710,7 @@
     "distractor14a": "Species richness generally increases from the equator toward the poles",
     "distractor14b": "Species richness is unrelated to latitude",
     "distractor14c": "Species richness is greatest at mid-latitudes",
-    "images": "figure-38-3.png",
+    "imagesEnglish": "figure-38-3.png",
     "readTimeMinutes": "8"
   },
   {
@@ -8767,7 +8767,7 @@
     "distractor10a": "Because hotspots contain only widespread species",
     "distractor10b": "Because hotspots prevent all evolution",
     "distractor10c": "Because hotspots contain no human disturbance",
-    "images": "figure-38-4.png",
+    "imagesEnglish": "figure-38-4.png",
     "readTimeMinutes": "2"
   },
   {
@@ -8824,7 +8824,7 @@
     "distractor10a": "Biodiversity has continuously increased without interruption",
     "distractor10b": "Biodiversity has remained essentially constant",
     "distractor10c": "Extinction has always occurred at a higher rate than speciation",
-    "images": "figure-38-5.png",
+    "imagesEnglish": "figure-38-5.png",
     "readTimeMinutes": "4"
   },
   {
@@ -8881,7 +8881,7 @@
     "distractor10a": "Scientists have confirmed it was caused by global glaciation",
     "distractor10b": "It is the only extinction event preserved in the fossil record",
     "distractor10c": "Its cause was directly observed by humans",
-    "images": "figure-38-6.png",
+    "imagesEnglish": "figure-38-6.png",
     "readTimeMinutes": "14"
   },
   {
@@ -9040,7 +9040,7 @@
     "distractor10a": "5 times higher",
     "distractor10b": "50 times higher",
     "distractor10c": "The same as the background rate",
-    "images": "figure-38-7.png",
+    "imagesEnglish": "figure-38-7.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9153,7 +9153,7 @@
     "distractor10a": "It increases the number of natural medicines available",
     "distractor10b": "It has no effect because all useful compounds have already been discovered",
     "distractor10c": "It only affects agricultural crops",
-    "images": "figure-38-8.png",
+    "imagesEnglish": "figure-38-8.png",
     "readTimeMinutes": "6"
   },
   {
@@ -9210,7 +9210,7 @@
     "distractor10a": "It eliminates all insect pests immediately",
     "distractor10b": "It reduces pollinator diversity",
     "distractor10c": "It increases dependence on chemical pesticides",
-    "images": "figure-38-9.png",
+    "imagesEnglish": "figure-38-9.png",
     "readTimeMinutes": "15"
   },
   {
@@ -9344,7 +9344,7 @@
     "distractor9a": "Describing the structure of DNA",
     "distractor9b": "Explaining protein synthesis",
     "distractor9c": "Calculating Hardy-Weinberg equilibrium",
-    "images": "figure-38-10.png",
+    "imagesEnglish": "figure-38-10.png",
     "readTimeMinutes": "10"
   },
   {
@@ -9401,7 +9401,7 @@
     "distractor10a": "Because they reproduce more slowly than widespread species",
     "distractor10b": "Because they are always apex predators",
     "distractor10c": "Because they can easily migrate to any habitat",
-    "images": "figure-38-11.png",
+    "imagesEnglish": "figure-38-11.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9575,7 +9575,7 @@
     "distractor13a": "a bacterium",
     "distractor13b": "a helminth",
     "distractor13c": "a virus",
-    "images": "figure-38-12.png,figure-38-13.png,figure-38-14.png,figure-38-15.png",
+    "imagesEnglish": "figure-38-12.png,figure-38-13.png,figure-38-14.png,figure-38-15.png",
     "readTimeMinutes": "12"
   },
   {
@@ -9632,7 +9632,7 @@
     "distractor10a": "An increase in global freshwater supplies",
     "distractor10b": "A decrease in ocean volume",
     "distractor10c": "The elimination of all coastal ecosystems",
-    "images": "figure-38-16.png",
+    "imagesEnglish": "figure-38-16.png",
     "readTimeMinutes": "8"
   },
   {
@@ -9725,7 +9725,7 @@
     "distractor10a": "There are more vulnerable fishes than critically endangered and endangered fishes combined",
     "distractor10b": "There are more critically endangered amphibians than vulnerable, endangered and critically endangered reptiles combined",
     "distractor10c": "A greater percentage of bird species are critically endangered than mollusk species",
-    "images": "figure-38-17.png",
+    "imagesEnglish": "figure-38-17.png",
     "readTimeMinutes": "5"
   },
   {
@@ -10012,7 +10012,7 @@
     "distractor12a": "Fish that spend their entire lives in freshwater",
     "distractor12b": "Fish that spend their entire lives in the ocean",
     "distractor12c": "Fish that migrate from freshwater to land to reproduce",
-    "images": "figure-38-18.png",
+    "imagesEnglish": "figure-38-18.png",
     "readTimeMinutes": "8"
   },
   {
@@ -10491,7 +10491,7 @@
     "distractor63a": "Every additional human directly replaces a different species of organism",
     "distractor63b": "More people always increase global temperature directly, causing species loss",
     "distractor63c": "Increasing human population only reduces the amount of land available for other species",
-    "images": "figure-38-19.png,figure-38-20.png,figure-38-21.png,figure-38-22.png,figure-38-23.png,figure-38-24.png,figure-38-25.png,figure-38-26.png,figure-38-27.png",
+    "imagesEnglish": "figure-38-19.png,figure-38-20.png,figure-38-21.png,figure-38-22.png,figure-38-23.png,figure-38-24.png,figure-38-25.png,figure-38-26.png,figure-38-27.png",
     "readTimeMinutes": "14"
   }
 ]
