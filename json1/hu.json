@@ -8172,7 +8172,7 @@
 "distractor17b":"Timin, uracil, guanin és citozin",
 "distractor17c":"Adenin, timin, guanin és uracil",
 "question18":"Mi a különbség a dezoxiribóz és a ribóz között?",
-"answer18":"A ribóz hidroxilcsoportot tartalmaz a 2' szénatomon, míg a dezoxiribóz hidrogénatomot.",
+"answer18":"A ribóz hidroxilcsoportot tartalmaz a 2` szénatomon, míg a dezoxiribóz hidrogénatomot.",
 "distractor18a":"A dezoxiribóz egy extra foszfátcsoportot tartalmaz",
 "distractor18b":"A ribóz uracil helyett timint tartalmaz",
 "distractor18c":"A dezoxiribóz két további szénatomot tartalmaz",
@@ -8192,7 +8192,7 @@
 {
 "chapterName":"1. Az élet kémiája | 3. Biológiai makromolekulák | 3.5 Nukleinsavak | A DNS kettős spirál szerkezete",
 "chapterNameEnglish":"1. The Chemistry of Life | 3. Biological Macromolecules | 3.5 Nucleic Acids | DNA Double-Helix Structure",
-"chapterContent":"A DNS kettős hélix szerkezetű (3.34. ábra). A cukor és a foszfát a hélix külső oldalán helyezkednek el, és a DNS gerincét alkotják. A nitrogénbázisok a lépcsőfokokhoz hasonlóan párosával helyezkednek el a belsejében; a párok hidrogénkötésekkel kapcsolódnak egymáshoz. A kettős hélixben minden bázispár 0,34 nm távolságra van a következő bázispártól. A hélix két szála ellentétes irányban fut, ami azt jelenti, hogy az egyik szál 5' szénatomos vége a megfelelő szál 3' szénatomos végével néz szembe. (Ezt antiparallel orientációnak nevezik, és fontos a DNS replikációjához és számos nukleinsav-kölcsönhatáshoz.)\n\n Csak bizonyos típusú bázispárosítások megengedettek. Például egy bizonyos purin csak egy bizonyos pirimidinnel párosodhat. Ez azt jelenti, hogy A T-vel, G pedig C-vel párosodhat, ahogy a 3.35. ábra mutatja. Ezt báziskomplementaritási szabálynak nevezik. Más szóval, a DNS-szálak komplementerek egymással. Ha az egyik szál szekvenciája AATTGGCC, akkor a komplementer szál szekvenciája TTAACCGG lenne. A DNS-replikáció során minden szál lemásolódik, ami egy leány DNS kettős hélixet eredményez, amely egy szülői DNS-szálat és egy újonnan szintetizált szálat tartalmaz.",
+"chapterContent":"A DNS kettős hélix szerkezetű (3.34. ábra). A cukor és a foszfát a hélix külső oldalán helyezkednek el, és a DNS gerincét alkotják. A nitrogénbázisok a lépcsőfokokhoz hasonlóan párosával helyezkednek el a belsejében; a párok hidrogénkötésekkel kapcsolódnak egymáshoz. A kettős hélixben minden bázispár 0,34 nm távolságra van a következő bázispártól. A hélix két szála ellentétes irányban fut, ami azt jelenti, hogy az egyik szál 5` szénatomos vége a megfelelő szál 3` szénatomos végével néz szembe. (Ezt antiparallel orientációnak nevezik, és fontos a DNS replikációjához és számos nukleinsav-kölcsönhatáshoz.)\n\n Csak bizonyos típusú bázispárosítások megengedettek. Például egy bizonyos purin csak egy bizonyos pirimidinnel párosodhat. Ez azt jelenti, hogy A T-vel, G pedig C-vel párosodhat, ahogy a 3.35. ábra mutatja. Ezt báziskomplementaritási szabálynak nevezik. Más szóval, a DNS-szálak komplementerek egymással. Ha az egyik szál szekvenciája AATTGGCC, akkor a komplementer szál szekvenciája TTAACCGG lenne. A DNS-replikáció során minden szál lemásolódik, ami egy leány DNS kettős hélixet eredményez, amely egy szülői DNS-szálat és egy újonnan szintetizált szálat tartalmaz.",
 "question1":"Mi a DNS szerkezete összességében?",
 "answer1":"Egy kettős spirál",
 "distractor1a":"Egyetlen polipeptidlánc",
